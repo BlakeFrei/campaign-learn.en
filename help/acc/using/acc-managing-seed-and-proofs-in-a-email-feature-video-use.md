@@ -1,0 +1,31 @@
+---
+title: How to manage seed and proofs in an email
+seo-title: How to manage seed and proofs in an email
+description: In this video you will learn how to add seeds and proofs to an existing email and how to send it.
+seo-description: In this video you will learn how to add seeds and proofs to an existing email and how to send it.
+uuid: 8df399e7-5d67-4d55-adee-8fa4218a545b
+products: SG_CAMPAIGN/CLASSIC
+discoiquuid: d5e62e97-dc6c-48a3-981b-b26736f34d84
+index: y
+internal: n
+snippet: y
+---
+
+# How to manage seed and proofs in an email{#how-to-manage-seed-and-proofs-in-an-email}
+
+>[!VIDEO](https://video.tv.adobe.com/v/25606?quality=12)
+
+<!--
+<related-links>
+<a href="https://docs.campaign.adobe.com/doc/AC/en/MCE_Message_templates_Sending_a_proof.html" target="_blank">Sending a proof (documentation)</a>
+<a href="https://docs.campaign.adobe.com/doc/AC/en/CFG_Use_a_custom_recipient_table_Seed_addresses.html" target="_blank">Seed adresses (documentation)</a>
+<a></a>
+</related-links>
+-->
+
+<!--
+<related-links>
+<a href="https://helpx.adobe.com/dreamweaver/using/working-with-dreamweaver-and-campaign.html">Dreamweaver Documentation - Create personalized email campaigns</a>
+</related-links>
+-->
+

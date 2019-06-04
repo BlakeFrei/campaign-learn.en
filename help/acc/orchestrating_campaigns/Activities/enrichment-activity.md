@@ -11,19 +11,14 @@ internal: n
 snippet: y
 ---
 
-# How to configure enrichment activities{#how-to-configure-enrichment-activities}
+# How to configure enrichment activities
+
+An enrichment activity is a workflow object that allows the user to add data to the working table. With an enrichment, you can add columns to that table to hold additional data OR define new links from that working table to other existing data.  
+
+This video explains how to configure an enrichment activity based on delivery log information.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25193?quality=12)
 
-<!--
-<related-links>
-<a href="http://docs.campaign.adobe.com/doc/AC/en/WKF_Use_cases_Enriching_data.html" target="_blank">Enriching data</a>
-</related-links>
--->
+## Additional Resources
 
-<!--
-<related-links>
-<a href="https://helpx.adobe.com/dreamweaver/using/working-with-dreamweaver-and-campaign.html">Dreamweaver Documentation - Create personalized email campaigns</a>
-</related-links>
--->
-
+- [Enriching data](http://docs.campaign.adobe.com/doc/AC/en/WKF_Use_cases_Enriching_data.html)

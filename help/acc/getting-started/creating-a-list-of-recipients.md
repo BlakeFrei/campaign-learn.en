@@ -11,7 +11,8 @@ internal: n
 snippet: y
 ---
 
-# Creating a list of recipients{#creating-a-list-of-recipients}
+A list is a static set of recipients that can be targeted in delivery actions or updated during import operations or during workflow execution. A list of recipients is also referred to as audience.
+
 
 ## How to create an audience  {#how-to-create-an-audience}
 
@@ -25,16 +26,4 @@ This video explains how to set up a list of recipients from a workflow. We will 
 
 >[!VIDEO](https://video.tv.adobe.com/v/25603?quality=12)
 
-<!--
-<related-links>
-<a href="https://docs.campaign.adobe.com/doc/AC/en/PTF_Profile_management_Creating_and_managing_lists.html" target="_blank">Creating and managing lists (Documentation)</a>
-<a></a>
-</related-links>
--->
-
-<!--
-<related-links>
-<a href="https://helpx.adobe.com/dreamweaver/using/working-with-dreamweaver-and-campaign.html">Dreamweaver Documentation - Create personalized email campaigns</a>
-</related-links>
--->
-
+See the documentation on [creating and managing lists](https://docs.campaign.adobe.com/doc/AC/en/PTF_Profile_management_Creating_and_managing_lists.html) for more information.

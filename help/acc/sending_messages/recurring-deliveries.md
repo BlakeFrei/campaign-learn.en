@@ -11,7 +11,9 @@ internal: n
 snippet: y
 ---
 
-# How to set up recurring and continuous email campaigns{#how-to-set-up-recurring-and-continuous-email-campaigns}
+# How to set up recurring and continuous email campaigns
+
+This tutorial explains how to set up a recurring and a continuous delivery and the differences between the two approaches.  
 
 ## Recurring and Continuous Delivery Tracking {#recurring-and-continuous-delivery-tracking}
 
@@ -41,15 +43,6 @@ This video shows how to configure a continuous delivery with an incremental quer
 
 >[!VIDEO](https://video.tv.adobe.com/v/25039?quality=12)
 
-<!--
-<related-links>
-<a href="https://docs.campaign.adobe.com/doc/AC/en/WKF_Use_cases_Sending_a_recurring_birthday_email.html">Sending a recurring birthday email</a>
-</related-links>
--->
+## Additional Resources
 
-<!--
-<related-links>
-<a href="https://helpx.adobe.com/dreamweaver/using/working-with-dreamweaver-and-campaign.html">Dreamweaver Documentation - Create personalized email campaigns</a>
-</related-links>
--->
-
+-  [Sending a recurring birthday email](https://docs.campaign.adobe.com/doc/AC/en/WKF_Use_cases_Sending_a_recurring_birthday_email.html)

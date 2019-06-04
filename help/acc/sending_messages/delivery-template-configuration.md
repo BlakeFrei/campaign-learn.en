@@ -11,15 +11,15 @@ internal: n
 snippet: y
 ---
 
-# How to configure and deploy delivery templates in Adobe Campaign Classic{#how-to-configure-and-deploy-delivery-templates-in-adobe-campaign-classic}
+# How to configure and deploy delivery templates in Adobe Campaign Classic
 
 Marketing departments produce delivery templates to standardize the creative look and feel, in order to be quicker in executing and launching campaigns.
 
-A template can systematically include typologies, sender and reply-to addresses, and basic personalization blocks--such as mirror page and unsubscription links. It can also include content, a company logo or signature, and &#42;&#42;other delivery properties, such as resource validity, batch quantities, etc.
+A template can systematically include typologies, sender and reply-to addresses, and basic personalization blocks--such as mirror page and unsubscription links. It can also include content, a company logo or signature, and other delivery properties, such as resource validity, batch quantities, etc..
 
 ## Configure a delivery template {#configure-a-delivery-template}
 
-This video demontrates how to configure a template for an ad hoc delivery.
+This video demonstrates how to configure a template for an ad hoc delivery.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24066?quality=12)
 
@@ -35,18 +35,9 @@ This video explains how to delpoy an email delivery template. It explains the di
 
 >[!VIDEO](https://video.tv.adobe.com/v/24065?qualit=12)
 
-## Related Content {#related-content}
-
-**Documentation: **
+## Additional Resources {#additional-resources}
 
 * [About Templates](https://docs.campaign.adobe.com/doc/AC/en/DLV_Using_delivery_templates_About_templates.html)
 * [Creating a Delivery Template](https://docs.campaign.adobe.com/doc/AC/en/DLV_Using_delivery_templates_Creating_a_delivery_template.html)
 * [Selecting a target mapping](https://docs.campaign.adobe.com/doc/AC/en/DLV_Using_delivery_templates_Selecting_a_target_mapping.html)
 * [Creating a delivery from a template](https://docs.campaign.adobe.com/doc/AC/en/DLV_Using_delivery_templates_Creating_a_delivery_from_a_template.html)
-
-<!--
-<related-links>
-<a href="https://helpx.adobe.com/dreamweaver/using/working-with-dreamweaver-and-campaign.html">Dreamweaver Documentation - Create personalized email campaigns</a>
-</related-links>
--->
-

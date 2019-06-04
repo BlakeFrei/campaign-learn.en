@@ -1,5 +1,5 @@
 ---
-title: Adobe Campaign Classic and Data Segmentation 
+title: Data Segmentation 
 seo-title: Adobe Campaign Classic and Data Segmentation
 description: Adobe Campaign allows you to do advanced segmentation through deep queries of the common consumer attributes and other data sources allowing you to create reusable lists, dynamically updating lists based on real-time changes to data, and even do more complex activities such as multi-variate testing on any of those data points. This tutorial explains the integrated customer profile, how to create and update the profiles and how to create customer segments based on these profiles. 
 seo-description: Adobe Campaign allows you to do advanced segmentation through deep queries of the common consumer attributes and other data sources allowing you to create reusable lists, dynamically updating lists based on real-time changes to data, and even do more complex activities such as multi-variate testing on any of those data points. This tutorial explains the integrated customer profile, how to create and update the profiles and how to create customer segments based on these profiles.
@@ -11,11 +11,11 @@ internal: n
 snippet: y
 ---
 
-# Adobe Campaign Classic and Data Segmentation {#adobe-campaign-classic-and-data-segmentation}
+# Data Segmentation
 
- ![]() 
+ Adobe Campaign allows you to do advanced segmentation through deep queries of the common consumer attributes and other data sources allowing you to create reusable lists, dynamically updating lists based on real-time changes to data, and even do more complex activities such as multi-variate testing on any of those data points. This tutorial explains the integrated customer profile, how to create and update the profiles and how to create customer segments based on these profiles. 
 
-## #1: Integrated Customer Profile {#integrated-customer-profile}
+## Integrated Customer Profile {#integrated-customer-profile}
 
 Customers are generating data with every channel at their finger tips as they do all things that people do when trying to make a purchasing decision or simply interacting with your brand.
 
@@ -23,11 +23,11 @@ Adobe Campaign’s integrated customer profile enables marketers to both capture
 
 >[!VIDEO](https://video.tv.adobe.com/v/23629?quality=12)
 
-## #2: Customer Profile Creation and Update {#customer-profile-creation-and-update}
+## Customer Profile Creation and Update {#customer-profile-creation-and-update}
 
 >[!VIDEO](https://video.tv.adobe.com/v/23632?quality=12)
 
-## #3: Customer Segmentation  {#customer-segmentation}
+## Customer Segmentation  {#customer-segmentation}
 
 Once you have understood the profiles, you are ready to do advanced segmentation through deep queries of the common consumer attributes and other data sources. Allowing you to create reusable lists, dynamically updating lists based on real-time changes to data, and even do more complex activities such as multi-variate testing on any of those data points.
 
@@ -35,16 +35,7 @@ Please note: This video was recorded in Adobe Campaign Classic V6, the functiona
 
 >[!VIDEO](https://video.tv.adobe.com/v/23635?quality=12)
 
-## Related Content {#related-content}
-
-**Documentation: **
+## Additional Resources {#additional-resources}
 
 * [Targeting Data](https://docs.campaign.adobe.com/doc/AC/en/WKF__General_operation_Targeting_data.html)
 * [Workflow Best Practices](https://docs.campaign.adobe.com/doc/AC/en/WKF__General_operation_Best_practices.html)
-
-<!--
-<related-links>
-<a href="https://helpx.adobe.com/dreamweaver/using/working-with-dreamweaver-and-campaign.html">Dreamweaver Documentation - Create personalized email campaigns</a>
-</related-links>
--->
-

@@ -11,7 +11,9 @@ internal: n
 snippet: y
 ---
 
-# Workflow Heatmap{#workflow-heatmap}
+# Workflow Heatmap
+
+The Adobe Campaign Workflow HeatMap consists in a color-coded graphical representation of all the workflows that are currently running.  By providing a quick overview on the number of concurrent workflows, it enables the Adobe Campaign platform administrators to monitor the load on the instance and plan workflows accordingly.
 
 The Workflow HeatMap helps the platform administrators to:
 
@@ -27,15 +29,5 @@ Please note: This feature is only available as of Adobe Campaign Classic V7 (bui
 
 >[!VIDEO](https://video.tv.adobe.com/v/25558?quality=12)
 
-<!--
-<related-links>
-<a href="https://docs.campaign.adobe.com/doc/AC/en/PRO_Production_procedures_Monitoring_processes.html#Workflow_monitoring" target="_blank">Monitoring Processes</a>
-</related-links>
--->
-
-<!--
-<related-links>
-<a href="https://helpx.adobe.com/dreamweaver/using/working-with-dreamweaver-and-campaign.html">Dreamweaver Documentation - Create personalized email campaigns</a>
-</related-links>
--->
-
+## Additional Resources
+- [Monitoring Processes](https://docs.campaign.adobe.com/doc/AC/en/PRO_Production_procedures_Monitoring_processes.html#Workflow_monitoring)

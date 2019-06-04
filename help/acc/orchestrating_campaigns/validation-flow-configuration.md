@@ -11,7 +11,11 @@ internal: n
 snippet: y
 ---
 
-# How to configure validation workflows in Adobe Campaign Classic{#how-to-configure-validation-workflows-in-adobe-campaign-classic}
+# How to configure validation workflows in Adobe Campaign Classic
+
+Adobe Campaign offers several options for marketers to review and provide delivery content, campaign target, data extraction and budget approvals. 
+
+This tutorial explains how to configure different approval validation workflows.
 
 ## Prerequisite {#prerequisite}
 
@@ -37,14 +41,3 @@ You can also set up approvals at a delivery level. If delivery approvals steps a
 Unlike the delivery or campaign approvals, the approval activity allows one to create an approval process within a workflow. This way, the targeting selection logic can be approved before the delivery is launched. It also allows approval at multiple levels within the workflow, if needed.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25174?quality=12)
-
-<!--
-<related-links />
--->
-
-<!--
-<related-links>
-<a href="https://helpx.adobe.com/dreamweaver/using/working-with-dreamweaver-and-campaign.html">Dreamweaver Documentation - Create personalized email campaigns</a>
-</related-links>
--->
-

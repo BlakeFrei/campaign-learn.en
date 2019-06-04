@@ -11,13 +11,9 @@ internal: n
 snippet: y
 ---
 
-# The User Interface{#the-user-interface}
+# The User Interface
+
+This video gives an overview over the Adobe Campaign Classic V7 user interface.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25607?quality=12)
-
-<!--
-<related-links>
-<a href="https://helpx.adobe.com/dreamweaver/using/working-with-dreamweaver-and-campaign.html">Dreamweaver Documentation - Create personalized email campaigns</a>
-</related-links>
--->
 

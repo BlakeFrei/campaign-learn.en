@@ -11,19 +11,14 @@ internal: n
 snippet: y
 ---
 
-# How to configure landing pages{#how-to-configure-landing-pages}
+# How to configure landing pages
+
+Adobe Campaign Classic enables you to design and host a variety of webpages on its server including online surveys, preference centers, unsubscribe pages. 
+
+This video demonstrates how to navigate Adobe Campaign’s web application editor by creating a preference center.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25041?quality=12)
 
-<!--
-<related-links>
-<a href="https://docs.campaign.adobe.com/doc/AC/en/WEB_Editing_HTML_content_Creating_a_landing_page.html" target="_blank">Creating a landing page</a>
-</related-links>
--->
+## Additional Resources
 
-<!--
-<related-links>
-<a href="https://helpx.adobe.com/dreamweaver/using/working-with-dreamweaver-and-campaign.html">Dreamweaver Documentation - Create personalized email campaigns</a>
-</related-links>
--->
-
+- [Creating a landing page](https://docs.campaign.adobe.com/doc/AC/en/WEB_Editing_HTML_content_Creating_a_landing_page.html" target="_blank)

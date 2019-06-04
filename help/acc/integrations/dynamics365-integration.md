@@ -12,14 +12,8 @@ internal: n
 snippet: y
 ---
 
-# How to Integrate Dynamics 365 with Adobe Campaign Classic{#how-to-integrate-dynamics-with-adobe-campaign-classic}
+# How to Integrate Dynamics 365 with Adobe Campaign Classic
+
+This video demonstrates how to integrate Dynamics 365 with Adobe Campaign Classic.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23837?quality=12)
-
-<!--
-<related-links>
-<a href="https://docs.campaign.adobe.com/doc/AC/en/PTF_Connectors_CRM_Connectors.html">CRM Connectors</a>
-<a href="https://docs.campaign.adobe.com/doc/AC/en/Videos/campaign_dynamics.mp4" target="_blank">Adobe Campaign and Microsoft Dynamics 365 Use Case</a>
-</related-links>
--->
-

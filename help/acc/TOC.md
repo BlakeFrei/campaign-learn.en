@@ -11,7 +11,7 @@ user-guide: null
 
 # Adobe Campaign Classic Tutorials {#campaign-classic-tutorials}
 
-+ [Overview](overview.md)
++ [Overview](help/acc/overview.md)
 + What's new (#whatsnew)
     + [Audit Trail(Campaign Classic 19.1)](/help/acc/monitoring/audit-trail.md) 
 + Getting Started (#getting-started)

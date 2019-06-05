@@ -11,8 +11,9 @@ internal: n
 snippet: y
 ---
 
-A list is a static set of recipients that can be targeted in delivery actions or updated during import operations or during workflow execution. A list of recipients is also referred to as audience.
+# Creating a list of recipients
 
+A list is a static set of recipients that can be targeted in delivery actions or updated during import operations or during workflow execution. A list of recipients is also referred to as audience.
 
 ## How to create an audience  {#how-to-create-an-audience}
 

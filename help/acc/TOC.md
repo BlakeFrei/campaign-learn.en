@@ -37,7 +37,7 @@ user-guide: null
   + [Creating a targeting workflow](/help/acc/orchestrating-campaigns/creating-a-targeting-workflow.md)
   +  [Configuring a validation workflows](/help/acc/orchestrating-campaigns/validation-flow-configuration.md)
   + [Configure Enrichment activities](/help/acc/orchestrating-campaigns/activities/enrichment-activity.md)
-  + [Data Segmentation](/help/acc/data management/data-segmentation.md)
+  + [Data Segmentation](/help/acc/data-management/data-segmentation.md)
 + Monitoring (#monitoring)
    + [Workflow Heatmap](/help/acc/monitoring/workflow-heatmap.md)
    + [Audit Trail](/help/acc/monitoring/audit-trail.md) 

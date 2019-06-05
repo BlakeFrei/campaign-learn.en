@@ -11,7 +11,7 @@ internal: n
 snippet: y
 ---
 
-# Configuring Product Listings in Transactional Emails{#configuring-product-listings-in-transactional-emails}
+# Configuring Product Listings in Transactional Emails
 
 You can configure a retargeting email that has a list of products, that are not known at design time. They will be added from the payload at run time. For example, you can automatically send a cart abandonment email, listing all the products that were in the user's cart with an image, price, and link to each product.
 

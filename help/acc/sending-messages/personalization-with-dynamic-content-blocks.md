@@ -35,6 +35,7 @@ Personalization fields are used for first-level personalization of the content o
 >[!VIDEO](https://video.tv.adobe.com/v/24925?quality=12)
 
 ## Add conditional content to a delivery 
+
 By configuring conditional content fields, you can create advanced personalization. Complete text blocks and/or images are replaced when a particular condition is satisfied. This video demonstrated how to add conditional content to a delivery on the example of a multi-lingual newsletter.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24926?quality=12)

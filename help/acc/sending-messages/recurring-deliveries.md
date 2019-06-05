@@ -39,10 +39,8 @@ This video explains how to configure a recurring delivery and a scheduler activi
 
 This video shows how to configure a continuous delivery with an incremental query.
 
-##
-
 >[!VIDEO](https://video.tv.adobe.com/v/25039?quality=12)
 
 ## Additional Resources
 
--  [Sending a recurring birthday email](https://docs.campaign.adobe.com/doc/AC/en/WKF_Use_cases_Sending_a_recurring_birthday_email.html)
+* [Sending a recurring birthday email](https://docs.campaign.adobe.com/doc/AC/en/WKF_Use_cases_Sending_a_recurring_birthday_email.html)

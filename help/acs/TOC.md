@@ -1,6 +1,6 @@
 ---
 cloud: experience-cloud
-product: adobe
+product: adobe s
 archtype: end-user
 user-guide: null
 ---

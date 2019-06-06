@@ -38,9 +38,9 @@ user-guide: null
   +  [Configuring a validation workflows](/help/acc/orchestrating-campaigns/validation-flow-configuration.md)
   + [Configure Enrichment activities](/help/acc/orchestrating-campaigns/activities/enrichment-activity.md)
   + [Data Segmentation](/help/acc/data-management/data-segmentation.md)
++ Designing Content (#designing-content)
+  + [Configure Landing Pages](/help/acc/designing-content/configure-landingpages.md)
 + Monitoring (#monitoring)
    + [Workflow Heatmap](/help/acc/monitoring/workflow-heatmap.md)
    + [Audit Trail](/help/acc/monitoring/audit-trail.md) 
-+ Designing Content
-  + [Configure landing pages](/help/acc/configure-landingpages.md)
 + [How to Integrate Dynamics 365 with Adobe Campaign Classic](/help/acc/integrations/dynamics365-integration.md)

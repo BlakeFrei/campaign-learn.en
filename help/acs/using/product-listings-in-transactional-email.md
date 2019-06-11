@@ -19,24 +19,20 @@ The following videos explain the steps that are required to configure Product Li
 
 **Please note:** **This feature is currently referred to as Loop within the product.**
 
-### Step 1 - Create an event and publish it
+## Step 1 - Create an event and publish it
 
 >[!VIDEO](https://video.tv.adobe.com/v/25914?quality=12)
 
-### Step 2 - Add a product listing (Loop) to a transactional message template
+## Step 2 - Add a product listing (Loop) to a transactional message template
 
 >[!VIDEO](https://video.tv.adobe.com/v/25915?quality=12)
 
-### Step 3 - Test the transactional message using Postman
+## Step 3 - Test the transactional message using Postman
 
 >[!VIDEO](https://video.tv.adobe.com/v/25916?quality=12)
 
-<!--
-<related-links>
-<a href="https://helpx.adobe.com/campaign/standard/channels/using/event-transactional-messages.html#using-loops-in-a-transactional-message" target="_blank">Using Loops in transactional messages (documentation)</a>
-<a href="https://helpx.adobe.com/campaign/kt/acs/using/acs-email-designer-tutorial.html" target="_blank">Email Designer Tutorials (feature videos)</a>
-<a href="http://doc-dev.rd.campaign.adobe.com/doc/standard/en/DES_Editing_email_content_About_email_content_design.html" target="_blank">About content design (documentation)</a>
-<a href="https://helpx.adobe.com/campaign/standard/administration/using/configuring-transactional-messaging.html#defining-data-collections" target="_blank">Defining Data Collections (documentation)</a>
-</related-links>
--->
+## Additional Resources
 
+* [Using Loops in transactional messages (documentation)](https://helpx.adobe.com/campaign/standard/channels/using/event-transactional-messages.html#using-loops-in-a-transactional-message)
+* [About content design (documentation)](http://doc-dev.rd.campaign.adobe.com/doc/standard/en/DES_Editing_email_content_About_email_content_design.html)
+* [Defining Data Collections (documentation)](https://helpx.adobe.com/campaign/standard/administration/using/configuring-transactional-messaging.html#defining-data-collections)

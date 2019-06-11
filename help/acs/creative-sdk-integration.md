@@ -14,4 +14,3 @@ snippet: y
 # Introduction to the Creative SDK Integration{#introduction-to-the-creative-sdk-integration}
 
 >[!VIDEO](https://video.tv.adobe.com/v/23117?quality=12)
-

@@ -13,4 +13,3 @@ snippet: y
 # Test and publish a landing page {#test-and-publish-a-landing-page}
 
 >[!VIDEO](https://video.tv.adobe.com/v/24092?quality=12)
-

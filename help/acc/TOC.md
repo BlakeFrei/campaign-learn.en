@@ -1,19 +1,30 @@
 ---
 cloud: experience-cloud
-product: Campaign Classic
+product: campaign
 user-guide-title: Adobe Campaign Classic Tutorials
 solution-title: Campaign Classic
+solution-hub-url: https://helpx.adobe.com/support/campaign/classic.html
+solution-image: assets/ac-icon-24.png
 getting-started-title: Getting Started
-getting-started-url: https://docs.campaign.adobe.com/doc/AC/en/PTF_Starting_with_Adobe_Campaign_About_Adobe_Campaign_Classic.html
+getting-started-url: https://docs.campaign.adobe.com/doc/AC/en/PTF_Starting_with_Adobe_Campaign_About_Adobe_Campaign_Classic.html 
+tutorials-title: Tutorials
+tutorials-url: https://docs.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/overview.html
+mini-toc-levels: 2
+git-repo: https://github.com/AdobeDocs/campaign-learn.en
+index: yes
 archtype: end-user
 user-guide: null
 ---
 
 # Adobe Campaign Classic Tutorials {#campaign-classic-tutorials}
 
-+ [Overview](help/acc/overview.md)
++ [Overview](/help/acc/overview.md)
 + What's new (#whatsnew)
-    + [Audit Trail(Campaign Classic 19.1)](/help/acc/monitoring/audit-trail.md) 
+  + [Audit Trail(Campaign Classic 19.1)](/help/acc/monitoring-campaign-classic/audit-trail.md) 
+  + Control Panel {#control-panel}
+     + [Control Panel Overview](/help/acs/administrating/control-panel/control-panel-overview.md)
+     + [Managing SFTP Servers](/help/acs/administrating/control-panel/cp-managing-sftp-servers.md)
+     + [Trouble Shooting](/help/acs/administrating/control-panel/cp-trouble-shooting.md)
 + Getting Started (#getting-started)
   + [The User Interface](/help/acc/getting-started/interface-overview.md)
   + [Creating a campaign and an email](/help/acc/getting-started/creating-a-campaign-and-an-email.md)
@@ -35,7 +46,7 @@ user-guide: null
   + [Creating multi channel campaigns](/help/acc/orchestrating-campaigns/multi-channel-campaigns.md)
   + [Creating a Workflow](/help/acc/orchestrating-campaigns/creating-a-workflow.md)
   + [Creating a targeting workflow](/help/acc/orchestrating-campaigns/creating-a-targeting-workflow.md)
-  +  [Configuring a validation workflows](/help/acc/orchestrating-campaigns/validation-flow-configuration.md)
+  +  [Configuring validation workflows](/help/acc/orchestrating-campaigns/validation-flow-configuration.md)
   + [Configure Enrichment activities](/help/acc/orchestrating-campaigns/activities/enrichment-activity.md)
   + [Data Segmentation](/help/acc/data-management/data-segmentation.md)
 + Designing Content (#designing-content)
@@ -44,3 +55,8 @@ user-guide: null
    + [Workflow Heatmap](/help/acc/monitoring/workflow-heatmap.md)
    + [Audit Trail](/help/acc/monitoring/audit-trail.md) 
 + [How to Integrate Dynamics 365 with Adobe Campaign Classic](/help/acc/integrations/dynamics365-integration.md)
++ Administrating {#administrating}
+  +  Control Panel {#control-panel}
+     + [Control Panel Overview](/help/acs/administrating/control-panel/control-panel-overview.md)
+     + [Managing SFTP Servers](/help/acs/administrating/control-panel/cp-managing-sftp-servers.md)
+     + [Trouble Shooting](/help/acs/administrating/control-panel/cp-trouble-shooting.md)

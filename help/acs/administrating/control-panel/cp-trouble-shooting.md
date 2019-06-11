@@ -53,6 +53,7 @@ The Admininistrator needs to add the user to the Product Profile “Campaign-xxx
 * [Managing permissions to the Control Panel](https://helpx.adobe.com/campaign/kb/control-panel-access.html)
 
 ## Establishing Connection to SFTP Server (Client or API)
+
 Connecting to SFTP servers requires:
 
 * Whitelisting the IP address from which you are connecting to the SFTP server  

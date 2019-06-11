@@ -21,9 +21,7 @@ user-guide: null
 
 + Getting started {#getting-started}
   + [Configure a list](/help/acs/getting-started/configure-a-list.md)
-
-+ Profiles and audiences {#profiles-and-audiences}
-  
++ Profiles and audiences {#profiles-and-audiences}  
 + Communication channels {#communication-channels}
   + Email {#email}
   + Mobile  {#mobile}
@@ -32,17 +30,18 @@ user-guide: null
   + Landing pages {#landing-pages}
     + [Create and edit a landing page](/help/acs/communication-channels/landing-pages/landing-page-create-and-edit.md)
     + [Test and publish a landing page](help/acs/communication-channels/landing-pages/landing-page-test-and-publish.md)
-    + [Configure landing page templates](help/acs/communication-channels/landing-pages/landing-page-configure-templates.md)
-  
+    + [Configure landing page templates](help/acs/communication-channels/landing-pages/landing-page-configure-templates.md) 
 + Designing and personalizing content {#designing-content}
-
 + Reporting {#reporting}
 + GDPR
 + Integrating {#integrating}
 + Managing processes and data {#managing-processes-and-data}
 + Developing {#developing}
+  + Custom Resources {#acs/using/custom-resources}
+    + [Introduction](/acs/using/custom-resources/part1.md)
 + Administrating {#administrating}
   + Control Panel {#control-panel}
     + [Control Panel Overview](/help/acs/administrating/control-panel/control-panel-overview.md)
     + [Managing SFTP Servers](/help/acs/administrating/control-panel/cp-managing-sftp-servers.md)
     + [Trouble Shooting](/help/acs/administrating/control-panel/cp-trouble-shooting.md)
+

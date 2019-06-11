@@ -1,5 +1,5 @@
 ---
-title: How to execute GDPR requests in ACS
+title: How to execute GDPR requests
 seo-title: How to execute GDPR requests in ACS
 description: In Adobe Campaign privacy requests are executed by workflows. This video describes which workflows access and delete requests and what happens when they are executed.
 seo-description: In Adobe Campaign privacy requests are executed by workflows. This video describes which workflows access and delete requests and what happens when they are executed.
@@ -12,7 +12,7 @@ internal: n
 snippet: y
 ---
 
-# How to execute GDPR requests in ACS{#how-to-execute-gdpr-requests-in-acs}
+# How to execute GDPR requests{#how-to-execute-gdpr-requests-in-acs}
 
 >[!VIDEO](https://video.tv.adobe.com/v/22770?quality=12)
 

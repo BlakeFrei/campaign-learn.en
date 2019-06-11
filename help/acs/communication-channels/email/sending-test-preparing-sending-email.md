@@ -16,16 +16,6 @@ snippet: y
 
 >[!VIDEO](https://video.tv.adobe.com/v/24013/)
 
-## Related Content {#supporting-materials}
-
-**Documentation**
+## Additional Resources
 
 * [Managing test profiles and sending proofs](https://helpx.adobe.com/campaign/standard/sending/using/managing-test-profiles-and-sending-proofs.html)
-*
-
-**Tutorials:**
-
-* [Profiles and Audiences in Adobe Campaign Standard](https://helpx.adobe.com/campaign/standard/how-to/profiles-and-audiences.html)
-* [How to create emails from the homepage](../../acs/using/acs-create-email-from-homepage-feature-video-use.md)
-* [Preparing the send](https://helpx.adobe.com/campaign/standard/sending/using/preparing-the-send.html)
-

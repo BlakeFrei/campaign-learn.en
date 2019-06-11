@@ -21,10 +21,14 @@ user-guide: null
 
 + Getting started {#getting-started}
   + [Configure a list](/help/acs/getting-started/configure-a-list.md)
+  +  [Sending a test, preparing and sending an email](/help/acs/communication-channels/email/sending-test-preparing-sending-email.md)]
 + Profiles and audiences {#profiles-and-audiences}  
 + Communication channels {#communication-channels}
   + Email {#email}
+    + [Sending a test, preparing and sending an email](/help/acs/communication-channels/email/sending-test-preparing-sending-email.md)]
   + Mobile  {#mobile}
+    + [Multi-lingual Push](/help/acs/communication-channels/mobile/create-multilingual-push.md)
+    + [In-App Messages](/help/acs/communication-channels/mobile/in-app-message.md)
   + [Direct mail](/help/acs/communication-channels/direct-mail/directmail.md)
   + Transactional messaging {#transactional-messaging} 
   + Landing pages {#landing-pages}
@@ -36,6 +40,11 @@ user-guide: null
 + GDPR
 + Integrating {#integrating}
 + Managing processes and data {#managing-processes-and-data}
+  + GDPR
+    + [Namespaces for GDPR](help/acs/managing-processes-and-data/gdpr/gdpr-namespaces.md)
+    + [Custom resources for GDPR](/help/acs/managing-processes-and-data/gdpr/gdpr-custom-resources.md)
+    + [Create and track GDPR requests](/help/acs/managing-processes-and-data/gdpr/create-and-track-gdpr-requests.md)
+    + [Execute GDPR requests](/help/acs/managing-processes-and-data/gdpr/gdpr-execute-requests.md)
 + Developing {#developing}
   + Custom Resources {#acs/using/custom-resources}
     + [Introduction](/acs/using/custom-resources/part1.md)

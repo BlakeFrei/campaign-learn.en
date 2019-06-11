@@ -20,25 +20,23 @@ In-App Messaging is a channel that allows you to display a message when the user
 
 This tutorial will explain the steps required to set up the mobile properties, the launch extension for the In-App Messaging channel, as well as how to prepare, customize, and send In-App Messages in Adobe Campaign Standard.
 
-![Activating mobile apps in ACS](assets/launch_campaign.jpg) 
-
 ## Prerequisites {#prerequisites}
 
 1. Make sure you can access the **In-App** channel. If you cannot access these channels, contact your account team.  
 
-1. Verify that your **user **has the necessary **permissions** in Adobe Campaign Standard and Launch.
+2. Verify that your **user **has the necessary **permissions** in Adobe Campaign Standard and Launch.
 
     1. In Adobe Campaign Standard, ensure that the IMS user is part of the Standard User and Administrator groups.  
        This step allows the user to log in to Adobe Campaign Standard, navigate to the Experience Platform SDK mobile app page, and view the mobile app properties that you created in Launch.
-    1. In Launch, ensure that your IMS user is part of a Launch product profile.  
+    2. In Launch, ensure that your IMS user is part of a Launch product profile.  
        This step allows the user to log in to Launch to create and view the properties. For more information about product profiles in Launch, see [Create your product profile](https://docs.adobelaunch.com/launch-reference/administration/user-permissions#3-create-your-product-profile). In the product profile, there should be no permissions set on the company or the properties, but the user should be able to still log in.
 
-1. In** Adobe Launch:**
+3. In** Adobe Launch:**
 
     1. create the mobile application by creating a mobile property and instrument your mobile app with Experience Platform SDK.
-    1. Install the **Adobe Campaign Standard** extension for your mobile application
+    2. Install the **Adobe Campaign Standard** extension for your mobile application
 
-For more on extensions, refer to the [Configure Campaign Standard Extension in Launch](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-campaign-standard-beta) in Adobe Launch documentation.
+For more on extensions, refer to the [Configure Campaign Standard Extension in Launch](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-campaign-standard) in Adobe Launch documentation.
 
 ## Configuring a mobile application using Adobe Experience Platform SDK {#configuring-a-mobile-application-using-adobe-experience-platform-sdk}
 
@@ -46,38 +44,11 @@ To send In-App messages (and push notifications) with an Experience Cloud SDK ap
 
 The video below demonstrate the required steps to configure a mobile app in Launch:
 
-[Step 1: Create data elements](https://helpx.adobe.com/campaign/kb/configuring-app-sdk.html#Step1Createdataelements)
-
-[Step 2: Create rules for PII postback](https://helpx.adobe.com/campaign/kb/configuring-app-sdk.html#Step2CreaterulesforPIIpostback)
-
-[Step 3: Create rules for In-App tracking postback](https://helpx.adobe.com/campaign/kb/configuring-app-sdk.html#Step3CreaterulesforInApptrackingpostback)
-
-[Step 4: Create rules for push notifications tracking postback](https://helpx.adobe.com/campaign/kb/configuring-app-sdk.html#Step4Createrulesforpushnotificationstrackingpostback)
-
 >[!VIDEO](https://video.tv.adobe.com/v/26224?quality=12)
 
 >[!NOTE]
->
->The following URLs and code templates have been used for the definition of the rules in video, please copy and paste from here:
->
->**PII postback URL: **
->
->https://{%%camp-server%%}/rest/head/mobileAppV5/{%%pkey%%}/subscriptions/{%%mcid%%}
->
->**PII Post body:**
->
-><table border="0" cellpadding="0" cellspacing="0"> 
- <tbody> 
-  <tr> 
-   <td><p>1</p> <p>2</p> <p>3</p> <p>4</p> <p>5</p> <p>6</p> <p>7</p> <p>8</p> <p>9</p> <p>10</p> <p>11</p> <p>12</p> <p>13</p> <p>14</p> </td> 
-   <td><p> </p> <p>{</p> <p>"userKey":</p> <p>"{%%contextdata.userKey%%}",</p> <p>"pushPlatform":</p> <p>"{%%contextdata.pushPlatform%%}",</p> <p>"marketingCloudId":</p> <p>"{%%mcid%%}",</p> <p>"cusEmail":</p> <p>"{%%contextdata.email%%}",</p> <p>"cusFirstName":</p> <p>"{%%contextdata.firstName%%}",</p> <p>"cusLastName":</p> <p>"{%%contextdata.lastName%%}" }</p> <p> </p> </td> 
-  </tr> 
- </tbody> 
-</table>
->**In-App tracking postback URL:** 
+>See [Configuring your application in Launch](https://helpx.adobe.com/campaign/kb/configuring-app-sdk.html#ConfiguringyourapplicationinLaunch) for the detailed documentation and the code templates used in the video.
 
->
->https://{%%camp-server%%}/r/?id={%%id%%}&mcid={%%mcid%%}.
 
 ## Configuring Events {#configuring-events}
 
@@ -97,7 +68,6 @@ Examples are:
 You will need to configure these events in Adobe Campaign. The video below describes how to do this.
 
 >[!VIDEO](https://video.tv.adobe.com/v/26245?quality=12)
-
 *In-App channel-specific application configuration in Adobe Campaign*
 
 ### 2. Life Cycle Events  {#life-cycle-events}
@@ -128,7 +98,7 @@ The following three categories are supported depending on what is instrumented i
 
 ## Create, manage, and publish In-App messages {#create-manage-and-publish-in-app-messages}
 
-With this channel, you will have the option to target your users via three different delivery templates
+With this channel, you will have the option to target your users through different delivery templates
 
 ### 1. Broadcast In-App message (Target all users of a mobile app) {#broadcast-in-app-message-target-all-users-of-a-mobile-app}
 
@@ -137,7 +107,6 @@ To Broadcast to all users of your mobile app whether or not Campaign has their p
 Some of the pertinent use cases in this category are - mobile app tutorials to first time app launchers or announcements for new feature releases.
 
 >[!VIDEO](https://video.tv.adobe.com/v/26199?quality=12)
-
 *Create a Broadcast In-App message using an SDKV5 Mobile property*
 
 ### 2. Target all users based on their mobile app profile {#target-all-users-based-on-their-mobile-app-profile}
@@ -149,7 +118,6 @@ Target all known and/or unknown users (those who have browsed the app in an anon
 Target known mobile app users (those who have logged into the app with PII) with message personalized with CRM profile attributes available in Campaign. This template is most useful to support cross-channel orchestration use cases, where you have already targeted users on other channels like Email or Push and based on their response, you want to engage them with an in-app message.
 
 >[!VIDEO](https://video.tv.adobe.com/v/26200?quality=12)
-
 *Create an In-App message using a Campaign profile template*
 
 ## Creating a In-App delivery within a workflow {#creating-a-in-app-delivery-within-a-workflow}
@@ -161,7 +129,6 @@ The recipients are defined upstream of the activity in the same workflow, via ta
 The message preparation is triggered according to the workflow execution parameters. From the message dashboard, you can choose t to request a manual confirmation to send the message (required by default). You can start the workflow manually or place a scheduler activity in the workflow to automate execution.
 
 >[!VIDEO](https://video.tv.adobe.com/v/26226?quality=12)
-
 *Creating a In-App delivery within a workflow*
 
 ## In-App message reporting {#in-app-message-reporting}
@@ -169,19 +136,14 @@ The message preparation is triggered according to the workflow execution paramet
 You can review your In-app delivery related data either in the Delivery Summary by adding In-App specific metrics. Alternatively, you can use the out of the box [In-App Report](https://helpx.adobe.com/campaign/standard/reporting/using/in-app-report.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/26412?quality=12)
-
 *Introduction to In-App reporting*
 
-<!--
-<related-links>
-<a href="https://aep-sdks.gitbook.io/docs/getting-started/create-a-mobile-property" target="_blank">Set up a mobile property - Adobe Launch documentation.</a>
-<a href="https://helpx.adobe.com/campaign/kb/configuring-app-sdk.html" target="_blank">Configuring a mobile application using Adobe Experience Platform SDKs - Documentation</a>
-<a href="https://helpx.adobe.com/campaign/standard/channels/using/preparing-and-sending-an-in-app-message.html" target="_blank">Preparing and sending an In-App message</a>
-<a href="https://helpx.adobe.com/campaign/standard/channels/using/customizing-an-in-app-message.html" target="_blank">Customizing an In-App message</a>
-<a href="https://helpx.adobe.com/campaign/standard/automating/using/in-app-delivery.html" target="_blank">Sending an In-App message within a workflow</a>
-<a href="https://aep-sdks.gitbook.io/docs/getting-started/initialize-the-sdk#enable-lifecycle-metrics" target="_blank">Enable Lifecycle Metrics</a>
-<a href="https://helpx.adobe.com/campaign/standard/reporting/using/in-app-report.html" target="_blank">In-App Report - Documentation</a>
-<a></a>
-</related-links>
--->
+## Additional Resources
 
+* [In-App Report (documentation)](https://helpx.adobe.com/campaign/standard/reporting/using/in-app-report.html)
+* [Set up a mobile property  (Adobe Launch documentation)](https://aep-sdks.gitbook.io/docs/getting-started/create-a-mobile-property)
+* [Configuring a mobile application using Adobe Experience Platform SDKs (documentation)](https://helpx.adobe.com/campaign/kb/configuring-app-sdk.html)
+* [Preparing and sending an In-App message (documentation)](https://helpx.adobe.com/campaign/standard/channels/using/preparing-and-sending-an-in-app-message.html)
+* [Customizing an In-App message (documentation)](https://helpx.adobe.com/campaign/standard/channels/using/customizing-an-in-app-message.html)
+* [Sending an In-App message within a workflow  (documentation)](https://helpx.adobe.com/campaign/standard/automating/using/in-app-delivery.html)
+* [Enable Lifecycle Metrics (documentation)](https://aep-sdks.gitbook.io/docs/getting-started/initialize-the-sdk#enable-lifecycle-metrics)

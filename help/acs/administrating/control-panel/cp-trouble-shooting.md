@@ -19,7 +19,7 @@ snippet: y
 ### **Symptom:** Unable to login to Experience Cloud
 
 **What to do:**
-The user needs to locate their IMS Org ID (xxx). The Admininistrator needs to add the user to the Product Profile “Campaign-xxx-Admins”  for each instance that they would like to manage. If the user is an admin of all instances they still might need to add themselves as “users” 
+The user needs to locate their IMS Org ID (xxx). The Administrator needs to add the user to the Product Profile “Campaign-xxx-Admins”  for each instance that they would like to manage. If the user is an admin of all instances they still might need to add themselves as “users” 
 
 ### **Symptom:** Links in the Experience Cloud Home to access Control Panel do not appear for a user 
 
@@ -27,7 +27,7 @@ The user needs to locate their IMS Org ID (xxx). The Admininistrator needs to ad
 Users won’t see the links until they are added as users to Product Profile “Campaign-xxx-Administrators/Admin”
 
 **What to do:**
-The Admininistrator needs to add the user to the Product Profile “Campaign-xxx-Admins”  for each instance that they would like to manage. If the user is an admin of all instances they still might need to add themselves as “users. 
+The Administrator needs to add the user to the Product Profile “Campaign-xxx-Admins”  for each instance that they would like to manage. If the user is an admin of all instances they still might need to add themselves as “users. 
 
 ### **Symptom:** An Instance is not listed in the Control Panel
 
@@ -35,19 +35,18 @@ The Admininistrator needs to add the user to the Product Profile “Campaign-xxx
 Most likely user needs to be added as a “user” Product Profile “Campaign-xxx-Administrators/Admin” for the instance that is missing
 
 **What to do:** 
-The Admininistrator needs to add the user to the Product Profile “Campaign-xxx-Admins”  for each instance that they would like to manage. If the user is an admin of all instances they still might need to add themselves as “users”.
+The Administrator needs to add the user to the Product Profile “Campaign-xxx-Admins”  for each instance that they would like to manage. If the user is an admin of all instances they still might need to add themselves as “users”.
 
-### Helpful videos:
+### Helpful videos
 
 >[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
 
 *Check IMS Org ID (00:26 min)*
 
 >[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
-
 *How to add an administrator to the product profile "administrators" to be able to use Control panel (01:03 min)*
 
-### Helpful Documentation:
+### Helpful Documentation
 
 * [Discover the Control Panel](https://helpx.adobe.com/campaign/kb/control-panel-overview.html)
 * [Managing permissions to the Control Panel](https://helpx.adobe.com/campaign/kb/control-panel-access.html)
@@ -60,7 +59,7 @@ Connecting to SFTP servers requires:
 * Private/public key pair that needs to be registered with Adobe Campaign
 * If connecting to the SFTP server directly you will also need SFTP client software
 
-### Helpful Documentation:
+### Helpful Documentation
 
 * [Logging into your SFTP server](https://helpx.adobe.com/campaign/kb/control-panel-sftp.html#LoggingintoyourSFTPserver)
   

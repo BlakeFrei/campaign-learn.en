@@ -19,7 +19,7 @@ user-guide: null
 # Campaign Standard Tutorials {#campaign-standard-tutorials}
 
 + [Overview](/help/acs/overview.md)
-+ What's new{#whats-new}
++ What's new {#whats-new}
   + [External Signal Activity](/help/acs/managing-processes-and-data/external-signal-activity.md)
   + [Product listings in transactional emails](/help/acs/designing-content/product-listings-in-transactional-email.md)
 + Getting started {#getting-started}
@@ -54,7 +54,7 @@ user-guide: null
     + [Test and publish a landing page](/help/acs/communication-channels/landing-pages/landing-page-test-and-publish.md)
     + [Configure landing page templates](/help/acs/communication-channels/landing-pages/landing-page-configure-templates.md) 
 + Designing and personalizing content {#designing-content}
-  + EMail Designer
+  + EMail Designer{#email-designer}
     + [Getting started](/help/acs/designing-content/email-designer/email-designer-getting-started.md)
     + [Content templates](/help/acs/designing-content/email-designer/email-content-templates.md)
     + [Configure the mobile view](/help/acs/designing-content/email-designer/configure-the-mobile-view.md)
@@ -80,7 +80,7 @@ user-guide: null
     + [Control Panel Overview](/help/acs/administrating/control-panel/control-panel-overview.md)
     + [Managing SFTP Servers](/help/acs/administrating/control-panel/cp-managing-sftp-servers.md)
     + [Trouble Shooting](/help/acs/administrating/control-panel/cp-trouble-shooting.md)
-+ GDPR
++ GDPR {#gdpr}
   + [Namespaces for GDPR](/help/acs/gdpr/gdpr-namespaces.md)
   + [Custom resources for GDPR](/help/acs/gdpr/gdpr-custom-resources.md)
   + [Create and track GDPR requests](/help/acs/gdpr/create-and-track-gdpr-requests.md)

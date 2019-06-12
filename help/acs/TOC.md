@@ -21,10 +21,12 @@ user-guide: null
 
 + Getting started {#getting-started}
   + [Configure a list](/help/acs/getting-started/configure-a-list.md)
+  + [Create an email](/help/acs/communication-channels/email/create-email-from-homepage.md)
   +  [Sending a test, preparing and sending an email](/help/acs/communication-channels/email/sending-test-preparing-sending-email.md)]
 + Profiles and audiences {#profiles-and-audiences}  
 + Communication channels {#communication-channels}
   + Email {#email}
+    + [Create an email](/help/acs/communication-channels/email/create-email-from-homepage.md)
     + [Sending a test, preparing and sending an email](/help/acs/communication-channels/email/sending-test-preparing-sending-email.md)]
   + Mobile  {#mobile}
     + [Multi-lingual Push](/help/acs/communication-channels/mobile/create-multilingual-push.md)
@@ -33,18 +35,15 @@ user-guide: null
   + Transactional messaging {#transactional-messaging} 
   + Landing pages {#landing-pages}
     + [Create and edit a landing page](/help/acs/communication-channels/landing-pages/landing-page-create-and-edit.md)
-    + [Test and publish a landing page](help/acs/communication-channels/landing-pages/landing-page-test-and-publish.md)
-    + [Configure landing page templates](help/acs/communication-channels/landing-pages/landing-page-configure-templates.md) 
+    + [Test and publish a landing page](/help/acs/communication-channels/landing-pages/landing-page-test-and-publish.md)
+    + [Configure landing page templates](/help/acs/communication-channels/landing-pages/landing-page-configure-templates.md) 
 + Designing and personalizing content {#designing-content}
++  Managing processes and data {#managing-processes-and-data}
+   +  [Create a workflow](/help/acs/managing-processes-and-data/create-workflow.md)
+   +  Custom Resources {#custom-resources}
+      +  [CUstom Resources Overview](/help/acs/managing-processes-and-data/custom-resources/custom-resources-overview.md)
 + Reporting {#reporting}
-+ GDPR
 + Integrating {#integrating}
-+ Managing processes and data {#managing-processes-and-data}
-  + GDPR
-    + [Namespaces for GDPR](help/acs/managing-processes-and-data/gdpr/gdpr-namespaces.md)
-    + [Custom resources for GDPR](/help/acs/managing-processes-and-data/gdpr/gdpr-custom-resources.md)
-    + [Create and track GDPR requests](/help/acs/managing-processes-and-data/gdpr/create-and-track-gdpr-requests.md)
-    + [Execute GDPR requests](/help/acs/managing-processes-and-data/gdpr/gdpr-execute-requests.md)
 + Developing {#developing}
   + Custom Resources {#acs/using/custom-resources}
     + [Introduction](/acs/using/custom-resources/part1.md)
@@ -53,4 +52,9 @@ user-guide: null
     + [Control Panel Overview](/help/acs/administrating/control-panel/control-panel-overview.md)
     + [Managing SFTP Servers](/help/acs/administrating/control-panel/cp-managing-sftp-servers.md)
     + [Trouble Shooting](/help/acs/administrating/control-panel/cp-trouble-shooting.md)
++ GDPR
+  + [Namespaces for GDPR](/help/acs/managing-processes-and-data/gdpr/gdpr-namespaces.md)
+  + [Custom resources for GDPR](/help/acs/managing-processes-and-data/gdpr/gdpr-custom-resources.md)
+  + [Create and track GDPR requests](/help/acs/managing-processes-and-data/gdpr/create-and-track-gdpr-requests.md)
+  + [Execute GDPR requests](/help/acs/managing-processes-and-data/gdpr/gdpr-execute-requests.md)
 

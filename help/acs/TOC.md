@@ -20,7 +20,7 @@ user-guide: null
 
 + [Overview](/help/acs/overview.md)
 + What's new{#whats-new}
-  + [External Signal Activity](help/acs/managing-processes-and-data/external-signal-activity.md)
+  + [External Signal Activity](/help/acs/managing-processes-and-data/external-signal-activity.md)
   + [Product listings in transactional emails](/help/acs/designing-content/product-listings-in-transactional-email.md)
 + Getting started {#getting-started}
   + [Configure a list](/help/acs/getting-started/configure-a-list.md)
@@ -73,7 +73,7 @@ user-guide: null
 + Integrating {#integrating}
 + Developing {#developing}
   + Custom Resources {#acs/using/custom-resources}
-    + [Introduction](/acs/using/custom-resources/part1.md)
+    + [Introduction](/help/acs/managing-processes-and-data/custom-resources/custom-resources-overview.md)
 + Administrating {#administrating}
 + [Access management](/help/acs/administrating/access-management.md)
   + Control Panel {#control-panel}

@@ -20,6 +20,6 @@ The SMS delivery activity is generally used to automate sending of SMS. The conf
 
 >[!VIDEO](https://video.tv.adobe.com/v/25265/?quality=12)
 
-# Additional Resources
+## Additional Resources
 
 * [SMS Delivery](https://helpx.adobe.com/campaign/standard/automating/using/sms-delivery.html#configuration)

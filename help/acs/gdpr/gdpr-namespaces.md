@@ -12,7 +12,7 @@ snippet: y
 
 # Creating namespaces for GDPR requests{#how-to-create-namespaces-for-gdpr-requests}
 
-Before creating GDPR requests, you need to define the namespace you will use. The namespace is the key that will be used to identify the Data Subject in the Adobe Campaign database. Out-of-the-box, two namespaces are available: email and mobile phone. If you need a different namespace (a profile custom field, for example), you will need to create them.  
+Before creating GDPR requests, you need to define the namespace you will use. The namespace is the key that will be used to identify the Data Subject in the Adobe Campaign database. Out-of-the-box, two namespaces are available: email and mobile phone. If you need a different namespace (a profile custom field, for example),  you will need to create them.  
 
 This videos show how to create namespaces for GDPR requests.
 
@@ -21,4 +21,3 @@ This videos show how to create namespaces for GDPR requests.
 ## Supporting materials {#supporting-materials}
 
 * [Detailed information on Campaign Standard - General Data Protection Regulation](https://docs.campaign.adobe.com/doc/standard/getting_started/en/ACS_GDPR.html)
-

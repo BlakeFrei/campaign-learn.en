@@ -81,7 +81,7 @@ user-guide: null
     + [Managing SFTP Servers](/help/acs/administrating/control-panel/cp-managing-sftp-servers.md)
     + [Trouble Shooting](/help/acs/administrating/control-panel/cp-trouble-shooting.md)
 + GDPR
-  + [Namespaces for GDPR](/help/acs/managing-processes-and-data/gdpr/gdpr-namespaces.md)
-  + [Custom resources for GDPR](/help/acs/managing-processes-and-data/gdpr/gdpr-custom-resources.md)
-  + [Create and track GDPR requests](/help/acs/managing-processes-and-data/gdpr/create-and-track-gdpr-requests.md)
-  + [Execute GDPR requests](/help/acs/managing-processes-and-data/gdpr/gdpr-execute-requests.md)
+  + [Namespaces for GDPR](/help/acs/gdpr/gdpr-namespaces.md)
+  + [Custom resources for GDPR](/help/acs/gdpr/gdpr-custom-resources.md)
+  + [Create and track GDPR requests](/help/acs/gdpr/create-and-track-gdpr-requests.md)
+  + [Execute GDPR requests](/help/acs/gdpr/gdpr-execute-requests.md)

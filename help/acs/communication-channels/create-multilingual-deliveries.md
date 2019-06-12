@@ -13,6 +13,8 @@ snippet: y
 
 # Create Multilingual eMail and SMS Deliveries{#create-multilingual-email-and-sms-deliveries}
 
+Adobe Campaign allows you to simplify the operational complexities of sending multilingual campaigns. Both email deliveries, as well as SMS deliveries can be set up as multi-lingual, which will allow you to send the email or SMS based on a profile's preferred language. The approach demonstrated in the videos applies to both email, as well as SMS deliveries.
+
 ## Create a multilingual delivery {#create-a-multilingual-delivery}
 
 This video explains how to create a multi-lingual delivery based on a template on the example of an email newsletter.
@@ -25,9 +27,6 @@ This video demonstrates how an existing email or SMS delivery or delivery templa
 
 >[!VIDEO](https://video.tv.adobe.com/v/23251?quality=12)
 
-<!--
-<related-links>
-<a href="https://helpx.adobe.com/campaign/standard/channels/using/creating-a-multilingual-email.html" target="_blank">Creating a multilingual email (documentation)</a>
-</related-links>
--->
+## Additional Resources
 
+* [Creating a multilingual email (documentation)](https://helpx.adobe.com/campaign/standard/channels/using/creating-a-multilingual-email.html)

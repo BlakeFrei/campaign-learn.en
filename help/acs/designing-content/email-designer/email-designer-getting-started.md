@@ -13,11 +13,8 @@ snippet: y
 
 # Email Designer - Getting started{#email-designer-getting-started}
 
+The Email Designer enables the quick and effortless visual creation of individually personalized emails without the need to script a single line of code helping scale email creation.   It allows you to create email content and email content templates. It is compatible with simple emails, transactional emails, A/B test emails, multilingual emails, and recurring emails.  
+
+This video explains the general functionality of the Email Designer and how to design an email from scratch.
+
 >[!VIDEO](https://video.tv.adobe.com/v/25912?quality=12)
-
-<!--
-<related-links>
-<a href="https://helpx.adobe.com/campaign/kt/acs/using/acs-email-designer-tutorial.html" target="_blank">Email Designer Tutorials</a>
-</related-links>
--->
-

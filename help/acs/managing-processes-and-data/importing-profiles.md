@@ -14,12 +14,13 @@ snippet: y
 
 # Importing profiles with a workflow{#importing-profiles-with-a-workflow}
 
+You can collect data from a file to process it and/or to import it into the Adobe Campaign database. 
+
+This video explains how to import profile data using a workflow.
+
 >[!VIDEO](https://video.tv.adobe.com/v/24993?quality=12)
 
-<!--
-<related-links>
-<a href="https://helpx.adobe.com/campaign/standard/automating/using/importing-data.html#example--import-workflow-template" target="_blank">Importing data step by step tutorial</a>
-<a href="https://helpx.adobe.com/campaign/standard/automating/user-guide.html" target="_blank">Adobe Campaign Standard - Managing processes and data</a>
-</related-links>
--->
+## Additional Resources
 
+* [Importing data step by step tutorial](https://helpx.adobe.com/campaign/standard/automating/using/importing-data.html#example--import-workflow-template)
+* [Adobe Campaign Standard - Managing processes and data](https://helpx.adobe.com/campaign/standard/automating/user-guide.html)

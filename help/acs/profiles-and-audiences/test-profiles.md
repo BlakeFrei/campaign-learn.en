@@ -14,15 +14,10 @@ snippet: y
 
 # Creating a test profile{#creating-a-test-profile}
 
+The test profiles allow you to target additional recipients who do not match the defined targeting criteria. They are added to a message's audience to detect any fraudulent use of your recipient database or to ensure the emails arrive in the inboxes.
+
 >[!VIDEO](https://video.tv.adobe.com/v/24094?quality=12)
 
-## Related Content {#supporting-materials}
-
-**Documentation**
+## Additional Resources
 
 * [Managing test profiles and sending proofs](https://helpx.adobe.com/campaign/standard/sending/using/managing-test-profiles-and-sending-proofs.html)
-
-**Tutorials:**
-
-* [Profiles and Audiences in Adobe Campaign Standard](https://helpx.adobe.com/campaign/standard/how-to/profiles-and-audiences.html)
-

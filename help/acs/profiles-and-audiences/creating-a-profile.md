@@ -15,10 +15,3 @@ snippet: y
 # Creating a profile using an audience{#creating-a-profile-using-an-audience}
 
 >[!VIDEO](https://video.tv.adobe.com/v/25277/?quality=12)
-
-<!--
-<related-links>
-<a href="https://helpx.adobe.com/campaign/standard/start/using/managing-profiles-.html" target="_blank">Managing Profiles</a>
-</related-links>
--->
-

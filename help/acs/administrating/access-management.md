@@ -1,6 +1,6 @@
 ---
-title: Managing user access rights
-seo-title: Managing user access rights
+title: Access management
+seo-title: Access management
 description: This video shows you how to define and manage the permissions assigned to different users in Adobe Campaign.
 seo-description: This video shows you how to define and manage the permissions assigned to different users in Adobe Campaign.
 uuid: d44e3512-d21b-417a-83fd-d834a67ff392
@@ -12,13 +12,13 @@ internal: n
 snippet: y
 ---
 
-# Managing user access rights{#managing-user-access-rights}
+# Access management{#access-management}
+
+This video shows you how to define and manage the permissions assigned to different users in Adobe Campaign.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24671?quality=12)
 
-## Related Content {#supporting-materials}
-
-**Documentation**
+## Additional Resources
 
 * [About access management](https://helpx.adobe.com/campaign/standard/administration/using/about-access-management.html)
 

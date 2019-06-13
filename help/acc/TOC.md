@@ -43,11 +43,11 @@ user-guide: null
     + [Using typology rules](/help/acc/sending-messages/fatigue-management/typology-rules-for-fatigue-management.md)
     + [Using pre defined filters](/help/acc/sending-messages/fatigue-management/fatigue-management-using-filters.md)
 + Orchestrating Campaigns {#orchestration}
-  + [Creating multi channel campaigns](/help/acc/orchestrating-campaigns/multi-channel-campaigns.md)
+  + [Creating multi-channel campaigns](/help/acc/orchestrating-campaigns/multi-channel-campaigns.md)
 + Automating with workflow{#automating-with-workflows}
   + [Creating a Workflow](/help/acc/automating-with-workflows/creating-a-workflow.md)
   + [Creating a targeting workflow](/help/acc/automating-with-workflows/creating-a-targeting-workflow.md)
-  +  [Configuring validation workflows](/help/acc/automating-with-workflows/validation-flow-configuration.md)
+  + [Configuring validation workflows](/help/acc/automating-with-workflows/validation-flow-configuration.md)
   + [Configure Enrichment activities](/help/acc/automating-with-workflows/enrichment-activity.md)
   + [Data Segmentation](/help/acc/data-management/data-segmentation.md)
 + Designing Content{#designing-content}
@@ -60,4 +60,4 @@ user-guide: null
   + Control Panel {#control-panel}
     + [Control Panel Overview](/help/acs/administrating/control-panel/control-panel-overview.md)
     + [Managing SFTP Servers](/help/acs/administrating/control-panel/cp-managing-sftp-servers.md)
-    + [Trouble Shooting](/help/acs/administrating/control-panel/cp-trouble-shooting.md)
+    + [Troubleshooting](/help/acs/administrating/control-panel/cp-trouble-shooting.md)

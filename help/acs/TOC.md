@@ -72,10 +72,10 @@ user-guide: null
   + [Creating a Dynamic Report](/help/acs/reporting/creating-a-dynamic-report.md)
 + Integrating {#integrating}
 + Developing {#developing}
-  + Custom Resources {#acs/using/custom-resources}
+  + Custom Resources {#custom-resources}
     + [Introduction](/help/acs/managing-processes-and-data/custom-resources/custom-resources-overview.md)
 + Administrating {#administrating}
-+ [Access management](/help/acs/administrating/access-management.md)
+  + [Access management](/help/acs/administrating/access-management.md)
   + Control Panel {#control-panel}
     + [Control Panel Overview](/help/acs/administrating/control-panel/control-panel-overview.md)
     + [Managing SFTP Servers](/help/acs/administrating/control-panel/cp-managing-sftp-servers.md)

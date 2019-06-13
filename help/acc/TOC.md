@@ -42,7 +42,7 @@ user-guide: null
   + Fatigue Management{#fatigue-management}
     + [Using typology rules](/help/acc/sending-messages/fatigue-management/typology-rules-for-fatigue-management.md)
     + [Using pre defined filters](/help/acc/sending-messages/fatigue-management/fatigue-management-using-filters.md)
-+ Orchestrating Campaigns (#orchestration)
++ Orchestrating Campaigns {#orchestration}
   + [Creating multi channel campaigns](/help/acc/orchestrating-campaigns/multi-channel-campaigns.md)
 + Automating with workflow{#automating-with-workflows}
   + [Creating a Workflow](/help/acc/automating-with-workflows/creating-a-workflow.md)
@@ -52,7 +52,7 @@ user-guide: null
   + [Data Segmentation](/help/acc/data-management/data-segmentation.md)
 + Designing Content{#designing-content}
   + [Configure Landing Pages](/help/acc/designing-content/configure-landingpages.md)
-+ Monitoring (#monitoring)
++ Monitoring {#monitoring}
   + [Workflow Heatmap](/help/acc/monitoring-campaign-classic/workflow-heatmap.md)
   + [Audit Trail](/help/acc/monitoring-campaign-classic/audit-trail.md) 
 + [How to Integrate Dynamics 365 with Adobe Campaign Classic](/help/acc/integrations/dynamics365-integration.md)

@@ -20,10 +20,12 @@ audience: end-user
 + [Overview](/help/acc/overview.md)
 + What's new {#whats-new}
   + [Audit Trail(Campaign Classic 19.1)](/help/acc/monitoring-campaign-classic/audit-trail.md) 
+  <!-- removing temporarily
   + Control Panel {#control-panel}
     + [Control Panel Overview](/help/acs/administrating/control-panel/control-panel-overview.md)
     + [Managing SFTP Servers](/help/acs/administrating/control-panel/cp-managing-sftp-servers.md)
     + [Trouble Shooting](/help/acs/administrating/control-panel/cp-trouble-shooting.md)
+  -->
 + Getting Started {#getting-started}
   + [The User Interface](/help/acc/getting-started/interface-overview.md)
   + [Creating a campaign and an email](/help/acc/getting-started/creating-a-campaign-and-an-email.md)

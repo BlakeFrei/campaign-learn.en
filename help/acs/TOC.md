@@ -12,11 +12,10 @@ tutorials-url: https://docs.adobe.com/content/help/en/campaign-learn/campaign-st
 mini-toc-levels: 2
 git-repo: https://github.com/AdobeDocs/campaign-learn.en
 index: yes
-archtype: end-user
-user-guide: null
+audience: end-user
 ---
 
-# Campaign Standard Tutorials {#campaign-standard-tutorials}
+# Adobe Campaign Standard Tutorials {#campaign-standard-tutorials}
 
 + [Overview](/help/acs/overview.md)
 + What's new {#whats-new}
@@ -41,7 +40,7 @@ user-guide: null
     + [Create an email](/help/acs/communication-channels/email/create-email-from-homepage.md)
     + [Sending a test, preparing and sending an email](/help/acs/communication-channels/email/sending-test-preparing-sending-email.md)]
     + [Creating Multi-lingual Email and SMS Deliveries](/help/acs/communication-channels/create-multilingual-deliveries.md)
-  + Mobile  {#mobile}
+  + Mobile {#mobile}
     + [SMS](/help/acs/communication-channels/mobile/sms-delivery.md)
     + [In-App Messages](/help/acs/communication-channels/mobile/in-app-message.md)
     + [Creating Multi-lingual Email and SMS Deliveries](/help/acs/communication-channels/create-multilingual-deliveries.md)
@@ -70,7 +69,7 @@ user-guide: null
   + [External Signal Activity](/help/acs/managing-processes-and-data/external-signal-activity.md))
 + Reporting {#reporting}
   + [Creating a Dynamic Report](/help/acs/reporting/creating-a-dynamic-report.md)
-+ Integrating {#integrating}
+<!--+ Integrating {#integrating}-->
 + Developing {#developing}
   + Custom Resources {#custom-resources}
     + [Introduction](/help/acs/managing-processes-and-data/custom-resources/custom-resources-overview.md)

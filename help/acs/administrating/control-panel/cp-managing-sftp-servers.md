@@ -11,6 +11,7 @@ index: y
 internal: n
 snippet: y
 ---
+
 # Managing SFTP Servers {#cp-managing-sftp-servers}
 
 ## Working with the Control Panel: Monitoring server capacity, whitelisting IP addresses, and adding SSH keys

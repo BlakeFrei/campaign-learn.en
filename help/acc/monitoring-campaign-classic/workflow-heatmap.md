@@ -10,6 +10,7 @@ index: y
 internal: n
 snippet: y
 ---
+
 # Workflow Heatmap
 
 The Adobe Campaign Workflow HeatMap consists in a color-coded graphical representation of all the workflows that are currently running.  By providing a quick overview on the number of concurrent workflows, it enables the Adobe Campaign platform administrators to monitor the load on the instance and plan workflows accordingly.

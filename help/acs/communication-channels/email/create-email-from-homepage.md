@@ -23,4 +23,4 @@ You can create an email from a campaign, from the Adobe Campaign home page, or i
 ## Additional Resources
 
 * [Creating an email (documentation)](https://helpx.adobe.com/campaign/standard/channels/using/creating-an-email.html)
-*  [Delivery best practices](https://docs.campaign.adobe.com/doc/standard/getting_started/en/ACS_DeliveryBestPractices.html)
+* [Delivery best practices](https://docs.campaign.adobe.com/doc/standard/getting_started/en/ACS_DeliveryBestPractices.html)

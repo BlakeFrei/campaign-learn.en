@@ -11,8 +11,7 @@ snippet: y
 
 ## What's new
 
-+ [Audit Trail(Campaign Classic 19.1)](/help/acc/monitoring-campaign-classic/audit-trail.md) 
-+ Control Panel
-    + [Control Panel Overview](/help/acs/administrating/control-panel/control-panel-overview.md)
-    + [Managing SFTP Servers](/help/acs/administrating/control-panel/cp-managing-sftp-servers.md)
-    + [Trouble Shooting](/help/acs/administrating/control-panel/cp-trouble-shooting.md)
++ [Audit Trail(Campaign Classic 19.1)](/help/acc/monitoring-campaign-classic/audit-trail.md)
++ [Control Panel Overview](/help/acs/administrating/control-panel/control-panel-overview.md)
++ [Managing SFTP Servers](/help/acs/administrating/control-panel/cp-managing-sftp-servers.md)
++ [Troubleshooting](/help/acs/administrating/control-panel/cp-trouble-shooting.md)

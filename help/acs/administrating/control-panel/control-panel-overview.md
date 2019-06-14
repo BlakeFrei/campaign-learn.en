@@ -23,6 +23,7 @@ The Control Panel allows Adobe Campaign administrators to easily monitor key ass
 Before you get started, you need to know your IMS Org ID. The video below describes where you can lookup your instance's IMS org ID.
 
 [!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
+
 *Check IMS Org ID (00:26 min)*
 
 ### Administrator Rights
@@ -31,6 +32,7 @@ Administrator rights are required to access to the Control Panel
 The video below explains how to add an administrator to a Campaign instance
 
 >[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
+
 *How to add an administrator to the product profile "administrators" to be able to use Control panel (01:03 min)*
 
 ## Additional Resources

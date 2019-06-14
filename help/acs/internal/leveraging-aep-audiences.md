@@ -23,6 +23,7 @@ You can now access the Unified Segment Builder within Adobe Campaign Standard (v
 The video below explains how a new audience is created using the Unified Segment Builder within Adobe Campaign Standard.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27638/?quality=12)
+
 *How to create a new audience in Adobe Campaign Standard using the Unified Segment Builder (min 02:47)*
 
 ## Activate an AEP audiences in a Marketing Workflow for a Campaign Delivery
@@ -30,6 +31,7 @@ The video below explains how a new audience is created using the Unified Segment
 The video below explains how to use the ‘Read audience’ activity to select an AEP audience, built from the Unified Segment Builder, for a campaign delivery across the available channels in a Marketing Workflow.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27647?quality=12)
+
 *Activate an AEP audiences in a workflow (02:37 min)*
 
 ## How to activate AEP audiences in workflows

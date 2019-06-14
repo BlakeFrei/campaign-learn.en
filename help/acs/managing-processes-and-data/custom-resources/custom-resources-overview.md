@@ -16,4 +16,5 @@ Adobe Campaign Standard provides the ability to extend resources or create brand
 * Configure screen definition
 
 The following video demonstrates the 2 custom resources and the link between the custom resources.
+
 >[!VIDEO](https://video.tv.adobe.com/v/27715?quality=9)

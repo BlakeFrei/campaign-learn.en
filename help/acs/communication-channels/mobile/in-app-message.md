@@ -23,18 +23,17 @@ This tutorial will explain the steps required to set up the mobile properties, t
 ## Prerequisites {#prerequisites}
 
 1. Make sure you can access the **In-App** channel. If you cannot access these channels, contact your account team.  
-
-2. Verify that your **user **has the necessary **permissions** in Adobe Campaign Standard and Launch.
+1. Verify that your **user** has the necessary **permissions** in Adobe Campaign Standard and Launch.
 
     1. In Adobe Campaign Standard, ensure that the IMS user is part of the Standard User and Administrator groups.  
        This step allows the user to log in to Adobe Campaign Standard, navigate to the Experience Platform SDK mobile app page, and view the mobile app properties that you created in Launch.
-    2. In Launch, ensure that your IMS user is part of a Launch product profile.  
+    1. In Launch, ensure that your IMS user is part of a Launch product profile.  
        This step allows the user to log in to Launch to create and view the properties. For more information about product profiles in Launch, see [Create your product profile](https://docs.adobelaunch.com/launch-reference/administration/user-permissions#3-create-your-product-profile). In the product profile, there should be no permissions set on the company or the properties, but the user should be able to still log in.
 
-3. In** Adobe Launch:**
+1. In **Adobe Launch:**
 
     1. create the mobile application by creating a mobile property and instrument your mobile app with Experience Platform SDK.
-    2. Install the **Adobe Campaign Standard** extension for your mobile application
+    1. Install the **Adobe Campaign Standard** extension for your mobile application
 
 For more on extensions, refer to the [Configure Campaign Standard Extension in Launch](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-campaign-standard) in Adobe Launch documentation.
 
@@ -118,6 +117,7 @@ Target all known and/or unknown users (those who have browsed the app in an anon
 Target known mobile app users (those who have logged into the app with PII) with message personalized with CRM profile attributes available in Campaign. This template is most useful to support cross-channel orchestration use cases, where you have already targeted users on other channels like Email or Push and based on their response, you want to engage them with an in-app message.
 
 >[!VIDEO](https://video.tv.adobe.com/v/26200?quality=12)
+
 *Create an In-App message using a Campaign profile template*
 
 ## Creating a In-App delivery within a workflow {#creating-a-in-app-delivery-within-a-workflow}
@@ -129,6 +129,7 @@ The recipients are defined upstream of the activity in the same workflow, via ta
 The message preparation is triggered according to the workflow execution parameters. From the message dashboard, you can choose t to request a manual confirmation to send the message (required by default). You can start the workflow manually or place a scheduler activity in the workflow to automate execution.
 
 >[!VIDEO](https://video.tv.adobe.com/v/26226?quality=12)
+
 *Creating a In-App delivery within a workflow*
 
 ## In-App message reporting {#in-app-message-reporting}
@@ -136,6 +137,7 @@ The message preparation is triggered according to the workflow execution paramet
 You can review your In-app delivery related data either in the Delivery Summary by adding In-App specific metrics. Alternatively, you can use the out of the box [In-App Report](https://helpx.adobe.com/campaign/standard/reporting/using/in-app-report.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/26412?quality=12)
+
 *Introduction to In-App reporting*
 
 ## Additional Resources

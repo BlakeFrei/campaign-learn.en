@@ -25,7 +25,7 @@ The recurring and continuous deliveries differ in the way contact data is manage
 
 ![Continuous Delivery](/help/acc/assets/delivery_continuous.jpg)
 
-* A **recurring delivery **will create a new delivery instance each time it executes. For example, if the workflow is scheduled to run once a week, that would result in 52 Deliveries after one year. This also means that the broad log and tracking logs will be separated by each delivery instance.
+* A **recurring delivery** will create a new delivery instance each time it executes. For example, if the workflow is scheduled to run once a week, that would result in 52 Deliveries after one year. This also means that the broad log and tracking logs will be separated by each delivery instance.
 
 ![Recurring Delivery](/help/acc/assets/delivery_recurring.jpg)
 

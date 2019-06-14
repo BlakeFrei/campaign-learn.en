@@ -7,9 +7,6 @@ uuid: cda76671-657e-4894-89de-0d9c3ad7c9ef
 products: SG_CAMPAIGN/STANDARD
 discoiquuid: 776b772e-51cf-4036-ae51-c426b3c38eb5
 targetaudience: target-audience new;target-audience ongoing
-index: y
-internal: n
-snippet: y
 ---
 
 # Managing services and subscriptions{#managing-services-and-subscriptions}

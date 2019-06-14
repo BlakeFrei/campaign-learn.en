@@ -7,9 +7,6 @@ uuid: d44e3512-d21b-417a-83fd-d834a67ff392
 products: SG_CAMPAIGN/STANDARD
 discoiquuid: b628e97f-e4af-4c5c-a37e-23fdabea74c3
 targetaudience: target-audience new;target-audience ongoing
-index: y
-internal: n
-snippet: y
 ---
 
 # Access management{#access-management}

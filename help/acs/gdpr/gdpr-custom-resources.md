@@ -7,9 +7,6 @@ uuid: a8a4a7d7-18a1-4631-9623-cff0c30042ac
 products: SG_CAMPAIGN/STANDARD
 discoiquuid: 53bca09d-1a6b-42a9-a849-895773719eaa
 targetaudience: target-audience new;target-audience ongoing
-index: y
-internal: n
-snippet: y
 ---
 
 # Modify custom resourcesfor GDPR{#modify-custom-resources-for-gdpr}

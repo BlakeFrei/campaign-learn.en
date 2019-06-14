@@ -7,9 +7,6 @@ uuid: 4f640ae6-a532-4feb-80dd-fceee98e0b38
 products: SG_CAMPAIGN/STANDARD
 discoiquuid: 0e710e00-198b-42fe-9a55-2a8d86cca127
 targetaudience: target-audience new;target-audience ongoing
-index: y
-internal: n
-snippet: y
 ---
 
 # External Signal Activity - Call a workflow with parameter{#external-signal-activity-call-a-workflow-with-parameters}

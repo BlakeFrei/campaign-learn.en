@@ -7,9 +7,6 @@ uuid: d5cdc179-079c-4ef5-931e-affac4c7d1f8
 products: SG_CAMPAIGN/STANDARD
 discoiquuid: 02256a4c-2668-43ed-941f-95870d8bbdf8
 targetaudience: target-audience new;target-audience ongoing
-index: y
-internal: n
-snippet: y
 ---
 
 # Importing profiles with a workflow{#importing-profiles-with-a-workflow}

@@ -6,9 +6,6 @@ seo-description: In this video you will learn how to add seeds and proofs to an 
 uuid: 8df399e7-5d67-4d55-adee-8fa4218a545b
 products: SG_CAMPAIGN/CLASSIC
 discoiquuid: d5e62e97-dc6c-48a3-981b-b26736f34d84
-index: y
-internal: n
-snippet: y
 ---
 
 # How to manage seed and proofs in an email

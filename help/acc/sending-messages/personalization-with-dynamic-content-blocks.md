@@ -6,9 +6,6 @@ seo-description: This tutorial demonstrated how to personalize delivery content,
 uuid: 7f514d9b-c7e7-4d26-9d50-7613bac1c04f
 products: SG_CAMPAIGN/CLASSIC
 discoiquuid: fb18d66f-44d9-48a3-ba75-537bf3de5b45
-index: y
-internal: n
-snippet: y
 ---
 
 # How to personalize emails using dynamic content blocks

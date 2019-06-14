@@ -7,9 +7,6 @@ uuid: dc9fd5df-5470-47a0-b71c-10ecfbfec080
 contentOwner: hausmann
 products: SG_CAMPAIGN/STANDARD
 discoiquuid: b3adedce-4942-47a5-b75f-4e3aa2f5c77c
-index: y
-internal: n
-snippet: y
 ---
 
 # How to execute GDPR requests{#how-to-execute-gdpr-requests-in-acs}

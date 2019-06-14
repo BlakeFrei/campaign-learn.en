@@ -6,9 +6,6 @@ seo-description: This video explains how to create a workflow in Adobe Campaign 
 uuid: 2b6be688-0569-45e7-93fe-fbfac4819198
 products: SG_CAMPAIGN/CLASSIC
 discoiquuid: 09f3dd78-8ef4-46d8-a9dc-5bd54cc1b60d
-index: y
-internal: n
-snippet: y
 ---
 
 # Creating a Workflow

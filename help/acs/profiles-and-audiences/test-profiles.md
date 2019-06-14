@@ -7,9 +7,6 @@ uuid: ed76036a-e802-44f9-ac5d-41bcc80035e0
 products: SG_CAMPAIGN/STANDARD
 discoiquuid: e85c5bfa-c467-49e5-911f-fcc7d3f300c4
 targetaudience: target-audience new;target-audience ongoing
-index: y
-internal: n
-snippet: y
 ---
 
 # Creating a test profile{#creating-a-test-profile}

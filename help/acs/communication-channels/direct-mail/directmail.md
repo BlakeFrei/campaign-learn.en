@@ -5,9 +5,6 @@ seo-description: Direct mail is still a critical channel for marketers around th
 uuid: d683f151-e377-4065-9de3-f43864670a98
 products: SG_CAMPAIGN/STANDARD
 discoiquuid: 06d25cbf-29ee-4fa4-a56b-070d20342d16
-index: y
-internal: n
-snippet: y
 ---
 
 # Create a Direct Mail{#create-a-direct-mail}

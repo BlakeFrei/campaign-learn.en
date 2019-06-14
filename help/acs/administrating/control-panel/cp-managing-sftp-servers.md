@@ -7,9 +7,6 @@ uuid: e73e2288-85e2-45f4-9f13-2f1e89d30cca
 products: SG_CAMPAIGN/STANDARD
 discoiquuid: 700ba7da-6734-450b-a054-e547454f706e
 targetaudience: target-audience new;target-audience ongoing
-index: y
-internal: n
-snippet: y
 ---
 
 # Managing SFTP Servers {#cp-managing-sftp-servers}

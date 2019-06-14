@@ -6,9 +6,6 @@ seo-description: Adobe Campaign allows you to simplify the operational complexit
 uuid: b2ad5c1c-5113-4ffd-9d38-e50f082adf1f
 products: SG_CAMPAIGN/STANDARD
 discoiquuid: 746d5bd3-f416-4319-8275-45e57f839075
-index: y
-internal: n
-snippet: y
 ---
 
 # Create Multilingual eMail and SMS Deliveries{#create-multilingual-email-and-sms-deliveries}

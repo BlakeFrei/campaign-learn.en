@@ -6,9 +6,6 @@ seo-description: null
 uuid: 2b0f6bdd-16b4-4724-b671-bb1962485b40
 products: SG_CAMPAIGN/STANDARD
 discoiquuid: 38128b6e-ddd7-4eeb-9cbd-33bbadddf492
-index: y
-internal: n
-snippet: y
 ---
 
 # Introduction to the Email Content Templates{#introduction-to-the-email-content-templates}

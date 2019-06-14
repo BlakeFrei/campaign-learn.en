@@ -7,9 +7,6 @@ uuid: 576295a3-9cc4-4907-bb9a-fb74fe046d4e
 products: SG_CAMPAIGN/STANDARD
 discoiquuid: 0b7be2b8-db27-4cb1-b6df-3f9b907a6fcd
 targetaudience: target-audience new;target-audience ongoing
-index: y
-internal: n
-snippet: y
 ---
 
 # Leveraging Experience Platform Audiences

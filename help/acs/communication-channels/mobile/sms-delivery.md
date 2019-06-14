@@ -7,9 +7,6 @@ uuid: 4ccf5f08-cbb0-46a2-860e-18069bdfad35
 products: SG_CAMPAIGN/STANDARD
 discoiquuid: 7c2ddf76-a34d-4de9-8668-011167344517
 targetaudience: target-audience new;target-audience ongoing
-index: y
-internal: n
-snippet: y
 ---
 
 # Creating a SMS delivery{#creating-a-sms-delivery}

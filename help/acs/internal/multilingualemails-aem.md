@@ -7,9 +7,6 @@ page-status-flag: de-activated
 uuid: c03e5bb6-a1f6-4e38-ae57-4d91faccfa11
 products: SG_CAMPAIGN/STANDARD
 discoiquuid: cb3c32b3-d3ca-4b91-99fd-45aaddc4a53d
-index: y
-internal: n
-snippet: y
 ---
 
 # How to create Multilingual Emails using AEM{#how-to-create-multilingual-emails-using-aem}

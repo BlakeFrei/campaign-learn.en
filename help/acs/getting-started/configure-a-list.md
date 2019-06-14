@@ -7,9 +7,6 @@ uuid: ce84dfd3-9298-4ca1-9436-fdaaf8bcc77b
 products: SG_CAMPAIGN/STANDARD
 discoiquuid: c1803c42-c1d1-42b0-aaa0-8d1219ce85b2
 target-audience: target-audience new;target-audience ongoing
-index: y
-internal: n
-snippet: y
 ---
 
 # Configure a list {#configure-a-list}

@@ -7,9 +7,6 @@ uuid: d53d4a14-8a84-4bd4-add4-c942e2e662f2
 products: SG_CAMPAIGN/STANDARD
 discoiquuid: a612320c-e3f4-4026-ba0d-d2a30f1cd639
 targetaudience: target-audience new;target-audience ongoing
-index: y
-internal: n
-snippet: y
 ---
 
 # Sending a test, preparing and sending an email {#sending-a-test-preparing-and-sending-an-email}

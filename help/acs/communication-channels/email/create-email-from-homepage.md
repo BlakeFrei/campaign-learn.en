@@ -7,9 +7,6 @@ uuid: 4caf9fe5-30ab-4b8c-8a99-0809340fac93
 products: SG_CAMPAIGN/STANDARD
 discoiquuid: 93a6c5a9-9be3-4c22-8820-27114de2ada6
 targetaudience: target-audience new;target-audience ongoing
-index: y
-internal: n
-snippet: y
 ---
 
 # Create an email delivery{#create-an-email-delivery}

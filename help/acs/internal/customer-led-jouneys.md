@@ -7,9 +7,6 @@ uuid: edbd2adf-b290-4b80-a335-bf133212376a
 products: SG_CAMPAIGN/STANDARD
 discoiquuid: f0f15d2a-d50e-4b22-9eac-259a15dd3e01
 targetaudience: target-audience new;target-audience ongoing
-index: y
-internal: n
-snippet: y
 ---
 
 # Customer led journeys{#customer-led-journeys}

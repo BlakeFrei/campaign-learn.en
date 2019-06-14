@@ -2,9 +2,6 @@
 title: Integrations with the Adobe Creative Cloud
 seo-title: Integrations with the Adobe Creative Cloud
 products: SG_CAMPAIGN/STANDARD
-index: y
-internal: n
-snippet: y
 ---
 
 # Integrations with the Adobe Creative Cloud {#integrations-with-the-adobe-creative-cloud}

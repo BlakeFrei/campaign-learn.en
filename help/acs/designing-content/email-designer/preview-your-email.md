@@ -4,9 +4,6 @@ seo-title: Preview your email
 description: null
 seo-description: null
 products: SG_CAMPAIGN/STANDARD
-index: y
-internal: n
-snippet: y
 ---
 
 # Preview your email{#preview-your-email}

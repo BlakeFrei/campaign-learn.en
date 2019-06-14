@@ -5,9 +5,6 @@ uuid: 28070df7-49bd-4582-b1be-a48e0e0708cc
 products: SG_CAMPAIGN/STANDARD
 discoiquuid: 22e136d0-0da2-445c-82b3-10986c19a389
 targetaudience: target-audience new;target-audience ongoing
-index: y
-internal: n
-snippet: y
 ---
 
 # Creating namespaces for GDPR requests{#how-to-create-namespaces-for-gdpr-requests}

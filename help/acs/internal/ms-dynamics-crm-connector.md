@@ -7,9 +7,6 @@ uuid: e88bbfef-980e-4e5d-80ba-e9bd177cb435
 products: SG_CAMPAIGN/STANDARD
 discoiquuid: 8a10a5b4-476d-4a51-95e3-6b1281b65289
 targetaudience: target-audience new;target-audience ongoing
-index: y
-internal: n
-snippet: y
 ---
 
 # Microsoft Dynamics 365 connector{#microsoft-dynamics-connector}

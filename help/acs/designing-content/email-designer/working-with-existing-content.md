@@ -4,9 +4,6 @@ seo-title: Working with existing content
 description: null
 seo-description: null
 products: SG_CAMPAIGN/STANDARD
-index: y
-internal: n
-snippet: y
 ---
 
 # Working with existing content{#working-with-existing-content}

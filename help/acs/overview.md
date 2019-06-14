@@ -2,9 +2,6 @@
 title: Adobe Campaign Standard Tutorials - Overview
 seo-title: Adobe Campaign Standard Tutorials - Overview
 products: SG_CAMPAIGN/STANDARD
-index: y
-internal: n
-snippet: y
 ---
 
 # Adobe Campaign Standard Tutorials - Overview 

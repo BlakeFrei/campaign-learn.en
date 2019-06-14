@@ -7,9 +7,6 @@ uuid: a8475031-b849-4735-9fb5-caa295fc6c22
 products: SG_CAMPAIGN/STANDARD
 discoiquuid: 90dfa348-4699-4d4f-86e7-abcee6c534dd
 targetaudience: target-audience new;target-audience ongoing
-index: y
-internal: n
-snippet: y
 ---
 
 # Managing campaigns{#managing-campaigns}

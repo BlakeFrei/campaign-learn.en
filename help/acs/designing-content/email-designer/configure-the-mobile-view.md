@@ -4,9 +4,6 @@ seo-title: Configure the mobile view
 description: null
 seo-description: null
 products: SG_CAMPAIGN/STANDARD
-index: y
-internal: n
-snippet: y
 ---
 
 # Configure the mobile view{#configure-the-mobile-view}

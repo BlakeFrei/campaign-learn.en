@@ -6,9 +6,6 @@ seo-description: A list is a static set of recipients that can be targeted in de
 uuid: d71ecd1b-bd42-4c28-b8b7-541bde56c676
 products: SG_CAMPAIGN/CLASSIC
 discoiquuid: 9c9ee2cc-cdbc-4d78-bb13-c0304006c88f
-index: y
-internal: n
-snippet: y
 ---
 
 # Creating a list of recipients

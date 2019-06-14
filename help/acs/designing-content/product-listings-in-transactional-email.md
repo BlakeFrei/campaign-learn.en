@@ -6,9 +6,6 @@ seo-description: This feature allows you to create transactional emails with a l
 uuid: 04910914-d6e9-4196-bf6f-1d9dac8c18bd
 products: SG_CAMPAIGN/STANDARD
 discoiquuid: 05d7c4ec-8ce0-48cf-b89e-4fc9f8760bc1
-index: y
-internal: n
-snippet: y
 ---
 
 # Configuring Product Listings in Transactional Emails

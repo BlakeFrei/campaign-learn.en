@@ -7,9 +7,6 @@ uuid: 04508822-1387-485e-8846-2103a3276e3f
 products: SG_CAMPAIGN/STANDARD
 discoiquuid: 20e9a5a7-2d9c-495f-9228-36fe50c91c17
 targetaudience: target-audience new;target-audience ongoing
-index: y
-internal: n
-snippet: y
 ---
 
 # Creating a report{#creating-a-report}

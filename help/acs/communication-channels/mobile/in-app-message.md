@@ -7,9 +7,6 @@ uuid: 50a13c41-88ad-43c4-8c42-d941bca2bf0a
 products: SG_CAMPAIGN/STANDARD
 discoiquuid: a3c10847-6163-4915-aae5-6200cd0474e5
 targetaudience: target-audience new;target-audience ongoing
-index: y
-internal: n
-snippet: y
 ---
 
 # In-App Messaging Tutorial{#in-app-messaging-tutorial}

@@ -19,7 +19,7 @@ audience: end-user
 
 + [Overview](/help/acc/overview.md)
 + What's new {#whats-new}
-  + [Audit Trail(Campaign Classic 19.1)](/help/acc/monitoring-campaign-classic/audit-trail.md) 
+  + [Audit Trail (Campaign Classic 19.1)](/help/acc/monitoring-campaign-classic/audit-trail.md) 
   <!-- removing temporarily
   + Control Panel {#control-panel}
     + [Control Panel Overview](/help/acs/administrating/control-panel/control-panel-overview.md)

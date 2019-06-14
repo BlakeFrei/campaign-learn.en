@@ -5,8 +5,8 @@ description: This video explains how to create a campaign and an email in Adobe 
 seo-description: This video explains how to create a campaign and an email in Adobe Campaign Classic.
 uuid: a15e5f17-626a-4d18-940f-5a2798953af6
 discoiquuid: 7d1c99f3-05a4-42ee-9c75-140ed3cd31fd
-
 ---
+
 # Creating a campaign and an email 
 
 This video explains how to create a campaign and an email in Adobe Campaign Classic.

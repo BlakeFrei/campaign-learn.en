@@ -29,4 +29,4 @@ This video explains how to implement fatigue management in Adobe Campaign Classi
 
 * [About campaign typologies](https://docs.campaign.adobe.com/doc/AC/en/CMP_Campaign_Optimization_About_campaign_typologies.html)
 * [Managing marketing fatigue with pressure rules](https://docs.campaign.adobe.com/doc/AC/en/CMP_Campaign_Optimization_Managing_marketing_fatigue_with_pressure_rules.html)
-* [How to set up fatigue management using filters](href="../../acc/using/acc-fatigue-management-using-filters-feature-video-set-up.md)
+  

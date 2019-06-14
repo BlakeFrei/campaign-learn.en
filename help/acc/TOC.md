@@ -55,8 +55,10 @@ audience: end-user
   + [Workflow Heatmap](/help/acc/monitoring-campaign-classic/workflow-heatmap.md)
   + [Audit Trail](/help/acc/monitoring-campaign-classic/audit-trail.md) 
 + [How to Integrate Dynamics 365 with Adobe Campaign Classic](/help/acc/integrations/dynamics365-integration.md)
+<!-- Removing temporarily for troubleshooting
 + Administrating {#administrating}
   + Control Panel {#control-panel}
     + [Control Panel Overview](/help/acs/administrating/control-panel/control-panel-overview.md)
     + [Managing SFTP Servers](/help/acs/administrating/control-panel/cp-managing-sftp-servers.md)
     + [Troubleshooting](/help/acs/administrating/control-panel/cp-trouble-shooting.md)
+-->

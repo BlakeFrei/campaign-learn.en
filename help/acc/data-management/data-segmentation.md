@@ -6,9 +6,6 @@ seo-description: Adobe Campaign allows you to do advanced segmentation through d
 uuid: a5b88127-5069-4620-a71e-5c35fbbe1f36
 products: SG_CAMPAIGN/CLASSIC
 discoiquuid: bf0ea5b2-a6d9-46bb-ae87-63b146754d07
-index: y
-internal: n
-snippet: y
 ---
 
 # Data Segmentation

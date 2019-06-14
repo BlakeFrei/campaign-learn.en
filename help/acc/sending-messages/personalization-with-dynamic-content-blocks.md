@@ -6,19 +6,16 @@ seo-description: This tutorial demonstrated how to personalize delivery content,
 uuid: 7f514d9b-c7e7-4d26-9d50-7613bac1c04f
 products: SG_CAMPAIGN/CLASSIC
 discoiquuid: fb18d66f-44d9-48a3-ba75-537bf3de5b45
-index: y
-internal: n
-snippet: y
 ---
 
 # How to personalize emails using dynamic content blocks
 
 In Adobe Campaign, you can personalize content or the appearance of messages and combine them with criteria from recipient profiles. In general, the tool allows you to:
 
-1) Create custom personalization blocks  
-2) Insert predefined personalization blocks  
-3) Insert dynamic personalization fields  
-4) Create conditional content.
+1 - Create custom personalization blocks  
+2 - Insert predefined personalization blocks  
+3 - Insert dynamic personalization fields  
+4 - Create conditional content.
 
 This tutorial demonstrated how to personalize delivery content, use JavaScript code in delivery templates, standardize and share content blocks in different delivery templates.
 

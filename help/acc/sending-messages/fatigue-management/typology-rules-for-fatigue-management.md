@@ -6,9 +6,6 @@ seo-description: Fatigue management controls frequency and quantity of messaging
 uuid: 0e142567-866e-4c3c-a078-1694c5da7628
 products: SG_CAMPAIGN/CLASSIC
 discoiquuid: e223216d-ff21-4516-a895-265fc5df938b
-index: y
-internal: n
-snippet: y
 ---
 
 # How to set up fatigue management using typology rules
@@ -29,4 +26,4 @@ This video explains how to implement fatigue management in Adobe Campaign Classi
 
 * [About campaign typologies](https://docs.campaign.adobe.com/doc/AC/en/CMP_Campaign_Optimization_About_campaign_typologies.html)
 * [Managing marketing fatigue with pressure rules](https://docs.campaign.adobe.com/doc/AC/en/CMP_Campaign_Optimization_Managing_marketing_fatigue_with_pressure_rules.html)
-* [How to set up fatigue management using filters](href="../../acc/using/acc-fatigue-management-using-filters-feature-video-set-up.md)
+  

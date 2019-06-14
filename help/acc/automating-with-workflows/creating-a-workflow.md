@@ -6,10 +6,8 @@ seo-description: This video explains how to create a workflow in Adobe Campaign 
 uuid: 2b6be688-0569-45e7-93fe-fbfac4819198
 products: SG_CAMPAIGN/CLASSIC
 discoiquuid: 09f3dd78-8ef4-46d8-a9dc-5bd54cc1b60d
-index: y
-internal: n
-snippet: y
 ---
+
 # Creating a Workflow
 
 Adobe Campaign includes a workflow module that empowers you to orchestrate the full range of processes and tasks across the different modules of the application server. This comprehensive graphical environment lets you design processes including segmentation, campaign execution, file processing, human participation, etc. The workflow engine executes and tracks these processes.

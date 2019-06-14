@@ -23,6 +23,7 @@ The mapping feature is intended for data engineers who understand Adobe Campaign
 ## Understand OOTP Mapping in ACS Data Service
 
 >[!VIDEO](https://video.tv.adobe.com/v/27304/?quality=12)
+
 *This video gives an overview over the Data Service feature in ACS (09:35 min)*
 
 >[!NOTE]
@@ -34,6 +35,7 @@ The mapping feature is intended for data engineers who understand Adobe Campaign
 ## Mapping Custom Resources of the Data Types (integer, strings, etc.)
 
 >[!VIDEO](https://video.tv.adobe.com/v/27231/?quality=12)
+
 *This video explains how to map different data types between Adobe Campaign Standard (ACS) and Adobe Experience Platform (AEP) (6:01 min)*
 
 ## Adding Identity Namespaces in a Mapping
@@ -49,6 +51,7 @@ You can find more information in namespaces in the [documentation](https://www.a
 >`/identityMap/your namespace code/0/id  (e.g.: /identityMap/Email/0/id)`
 
 >[!VIDEO](https://video.tv.adobe.com/v/27360/?quality=12)
+
 *This video describes the two ways to add identity name spaces (05:56 min)*
 
 More information namespaces can be found in the [Identity namespace overview](https://www.adobe.io/apis/experienceplatform/home/profile-identity-segmentation/profile-identity-segmentation-services.html#!api-specification/markdown/narrative/technical_overview/identity_namespace_overview/identity_namespace_overview.md).

@@ -6,10 +6,8 @@ seo-description: The Adobe Campaign Workflow HeatMap consists in a color-coded g
 uuid: 19e0c1c4-6ed5-4e4e-a32e-283860d689a0
 products: SG_CAMPAIGN/CLASSIC
 discoiquuid: 838c706a-e2d8-4fcf-b6ca-aa66cb32b181
-index: y
-internal: n
-snippet: y
 ---
+
 # Workflow Heatmap
 
 The Adobe Campaign Workflow HeatMap consists in a color-coded graphical representation of all the workflows that are currently running.  By providing a quick overview on the number of concurrent workflows, it enables the Adobe Campaign platform administrators to monitor the load on the instance and plan workflows accordingly.

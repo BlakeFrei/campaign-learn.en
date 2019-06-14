@@ -12,8 +12,7 @@ tutorials-url: https://docs.adobe.com/content/help/en/campaign-learn/campaign-cl
 mini-toc-levels: 2
 git-repo: https://github.com/AdobeDocs/campaign-learn.en
 index: yes
-archtype: end-user
-user-guide: null
+audience: end-user
 ---
 
 # Adobe Campaign Classic Tutorials {#campaign-classic-tutorials}

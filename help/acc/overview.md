@@ -11,8 +11,7 @@ snippet: y
 
 ## What's new
 
-+ [Audit Trail(Campaign Classic 19.1)](/help/acc/monitoring-campaign-classic/audit-trail.md) 
-+ Control Panel
-    + [Control Panel Overview](/help/acs/administrating/control-panel/control-panel-overview.md)
-    + [Managing SFTP Servers](/help/acs/administrating/control-panel/cp-managing-sftp-servers.md)
-    + [Trouble Shooting](/help/acs/administrating/control-panel/cp-trouble-shooting.md)
+| Audit Trail |      Control Panel         | Heatmaps|
+|-----------------------|------------------------|-----------------------|
+| ![Audit Trail](/help/acc/assets/acc-audit_trail.jpg)| ![Control Panel](/help/acc/assets/control_panel.jpg)        | ![Workflow Heatmap](/help/acc/assets/workflow_heatmap.jpg)|
+| Campaign Classic 19.1 |  Campaign Classic  |Campaign Classic 19.0

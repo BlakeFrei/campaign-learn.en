@@ -47,7 +47,7 @@ user-guide: null
 + Automating with workflow{#automating-with-workflows}
   + [Creating a Workflow](/help/acc/automating-with-workflows/creating-a-workflow.md)
   + [Creating a targeting workflow](/help/acc/automating-with-workflows/creating-a-targeting-workflow.md)
-  +  [Configuring validation workflows](/help/acc/automating-with-workflows/validation-flow-configuration.md)
+  + [Configuring validation workflows](/help/acc/automating-with-workflows/validation-flow-configuration.md)
   + [Configure Enrichment activities](/help/acc/automating-with-workflows/enrichment-activity.md)
   + [Data Segmentation](/help/acc/data-management/data-segmentation.md)
 + Designing Content{#designing-content}

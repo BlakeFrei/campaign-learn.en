@@ -12,8 +12,7 @@ tutorials-url: https://docs.adobe.com/content/help/en/campaign-learn/campaign-cl
 mini-toc-levels: 2
 git-repo: https://github.com/AdobeDocs/campaign-learn.en
 index: yes
-archtype: end-user
-user-guide: null
+audience: end-user
 ---
 
 # Adobe Campaign Classic Tutorials {#campaign-classic-tutorials}
@@ -21,10 +20,12 @@ user-guide: null
 + [Overview](/help/acc/overview.md)
 + What's new {#whats-new}
   + [Audit Trail(Campaign Classic 19.1)](/help/acc/monitoring-campaign-classic/audit-trail.md) 
+  <!-- removing temporarily
   + Control Panel {#control-panel}
     + [Control Panel Overview](/help/acs/administrating/control-panel/control-panel-overview.md)
     + [Managing SFTP Servers](/help/acs/administrating/control-panel/cp-managing-sftp-servers.md)
     + [Trouble Shooting](/help/acs/administrating/control-panel/cp-trouble-shooting.md)
+  -->
 + Getting Started {#getting-started}
   + [The User Interface](/help/acc/getting-started/interface-overview.md)
   + [Creating a campaign and an email](/help/acc/getting-started/creating-a-campaign-and-an-email.md)
@@ -43,7 +44,7 @@ user-guide: null
     + [Using typology rules](/help/acc/sending-messages/fatigue-management/typology-rules-for-fatigue-management.md)
     + [Using pre defined filters](/help/acc/sending-messages/fatigue-management/fatigue-management-using-filters.md)
 + Orchestrating Campaigns {#orchestration}
-  + [Creating multi channel campaigns](/help/acc/orchestrating-campaigns/multi-channel-campaigns.md)
+  + [Creating multi-channel campaigns](/help/acc/orchestrating-campaigns/multi-channel-campaigns.md)
 + Automating with workflow{#automating-with-workflows}
   + [Creating a Workflow](/help/acc/automating-with-workflows/creating-a-workflow.md)
   + [Creating a targeting workflow](/help/acc/automating-with-workflows/creating-a-targeting-workflow.md)
@@ -56,8 +57,10 @@ user-guide: null
   + [Workflow Heatmap](/help/acc/monitoring-campaign-classic/workflow-heatmap.md)
   + [Audit Trail](/help/acc/monitoring-campaign-classic/audit-trail.md) 
 + [How to Integrate Dynamics 365 with Adobe Campaign Classic](/help/acc/integrations/dynamics365-integration.md)
+<!-- Removing temporarily for troubleshooting
 + Administrating {#administrating}
   + Control Panel {#control-panel}
     + [Control Panel Overview](/help/acs/administrating/control-panel/control-panel-overview.md)
     + [Managing SFTP Servers](/help/acs/administrating/control-panel/cp-managing-sftp-servers.md)
-    + [Trouble Shooting](/help/acs/administrating/control-panel/cp-trouble-shooting.md)
+    + [Troubleshooting](/help/acs/administrating/control-panel/cp-trouble-shooting.md)
+-->

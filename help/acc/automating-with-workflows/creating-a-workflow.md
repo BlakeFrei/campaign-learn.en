@@ -10,6 +10,7 @@ index: y
 internal: n
 snippet: y
 ---
+
 # Creating a Workflow
 
 Adobe Campaign includes a workflow module that empowers you to orchestrate the full range of processes and tasks across the different modules of the application server. This comprehensive graphical environment lets you design processes including segmentation, campaign execution, file processing, human participation, etc. The workflow engine executes and tracks these processes.

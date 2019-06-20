@@ -46,7 +46,6 @@ audience: end-user
     + [Creating Multi-lingual Email and SMS Deliveries](/help/acs/communication-channels/create-multilingual-deliveries.md)
     + [Multi-lingual Push](/help/acs/communication-channels/mobile/create-multilingual-push.md)
   + [Direct mail](/help/acs/communication-channels/direct-mail/directmail.md)
-<!--
   + Transactional messaging {#transactional-messaging}
     + [Product listings in transactional emails](/help/acs/designing-content/product-listings-in-transactional-email.md)
   + Landing pages {#landing-pages}
@@ -62,6 +61,7 @@ audience: end-user
     + [Working with existing content](/help/acs/designing-content/email-designer/working-with-existing-content.md)
     + [Integrations with the Creative Cloud](/help/acs/designing-content/email-designer/integrations-with-the-adobe-creative-cloud.md)
   + [Product listings in transactional emails](/help/acs/designing-content/product-listings-in-transactional-email.md)
+<!--
 + Managing processes and data {#managing-processes-and-data}
   + [Create a workflow](/help/acs/managing-processes-and-data/create-workflow.md)
   + [Importing profiles with a workflow](/help/acs/managing-processes-and-data/importing-profiles.md)

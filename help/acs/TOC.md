@@ -64,6 +64,7 @@ audience: end-user
 + Managing processes and data {#managing-processes-and-data}
   + [Create a workflow](/help/acs/managing-processes-and-data/create-workflow.md)
   + [Importing profiles with a workflow](/help/acs/managing-processes-and-data/importing-profiles.md)
+<!--
   + Custom Resources {#custom-resources-processes}
     + [Custom Resources Overview](/help/acs/managing-processes-and-data/custom-resources/custom-resources-overview.md)
   + [External Signal Activity](/help/acs/managing-processes-and-data/external-signal-activity.md))
@@ -72,7 +73,6 @@ audience: end-user
 + Developing {#developing}
   + Custom Resources {#custom-resources-develop}
     + [Introduction](/help/acs/managing-processes-and-data/custom-resources/custom-resources-overview.md)
-<!--
 + Administrating {#administrating}
   + [Access management](/help/acs/administrating/access-management.md)
   + Control Panel {#control-panel}

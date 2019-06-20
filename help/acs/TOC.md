@@ -40,13 +40,13 @@ audience: end-user
     + [Create an email](/help/acs/communication-channels/email/create-email-from-homepage.md)
     + [Sending a test, preparing and sending an email](/help/acs/communication-channels/email/sending-test-preparing-sending-email.md)
     + [Creating Multi-lingual Email and SMS Deliveries](/help/acs/communication-channels/create-multilingual-deliveries.md)
-<!--
   + Mobile {#mobile}
     + [SMS](/help/acs/communication-channels/mobile/sms-delivery.md)
     + [In-App Messages](/help/acs/communication-channels/mobile/in-app-message.md)
     + [Creating Multi-lingual Email and SMS Deliveries](/help/acs/communication-channels/create-multilingual-deliveries.md)
     + [Multi-lingual Push](/help/acs/communication-channels/mobile/create-multilingual-push.md)
   + [Direct mail](/help/acs/communication-channels/direct-mail/directmail.md)
+<!--
   + Transactional messaging {#transactional-messaging}
     + [Product listings in transactional emails](/help/acs/designing-content/product-listings-in-transactional-email.md)
   + Landing pages {#landing-pages}

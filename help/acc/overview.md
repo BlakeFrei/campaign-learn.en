@@ -8,9 +8,7 @@ products: SG_CAMPAIGN/CLASSIC
 
 ## What's new
 
-+ [Audit Trail(Campaign Classic 19.1)](/help/acc/monitoring-campaign-classic/audit-trail.md)
-<!-- Removing temporarily for troubleshooting
-+ [Control Panel Overview](/help/acs/administrating/control-panel/control-panel-overview.md)
-+ [Managing SFTP Servers](/help/acs/administrating/control-panel/cp-managing-sftp-servers.md)
-+ [Troubleshooting](/help/acs/administrating/control-panel/cp-trouble-shooting.md)
--->
+| Push Channel using the Experience Platform Mobile SDKl | Audit Trail |      Control Panel         | Heatmaps|
+|-----------------------|------------------------|-----------------------|-----------------------|
+| ![Push](/help/acc/assets/push-setup.jpeg)|| ![Audit Trail](/help/acc/assets/acc-audit-trail.jpg)| ![Control Panel](/help/acc/assets/control_panel.jpg)| ![Workflow Heatmaps](/help/acc/assets/workflow_heatmap.jpg)|
+| Campaign Classic 19.1 |Campaign Classic |Campaign Classic 18.10|

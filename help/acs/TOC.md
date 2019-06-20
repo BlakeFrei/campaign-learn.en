@@ -53,6 +53,7 @@ audience: end-user
     + [Create and edit a landing page](/help/acs/communication-channels/landing-pages/landing-page-create-and-edit.md)
     + [Test and publish a landing page](/help/acs/communication-channels/landing-pages/landing-page-test-and-publish.md)
     + [Configure landing page templates](/help/acs/communication-channels/landing-pages/landing-page-configure-templates.md) 
+-->
 + Designing and personalizing content {#designing-content}
   + EMail Designer{#email-designer}
     + [Getting started](/help/acs/designing-content/email-designer/email-designer-getting-started.md)
@@ -84,4 +85,3 @@ audience: end-user
   + [Custom resources for GDPR](/help/acs/gdpr/gdpr-custom-resources.md)
   + [Create and track GDPR requests](/help/acs/gdpr/create-and-track-gdpr-requests.md)
   + [Execute GDPR requests](/help/acs/gdpr/gdpr-execute-requests.md)
--->

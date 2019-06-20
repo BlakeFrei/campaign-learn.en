@@ -6,9 +6,6 @@ seo-description: Fatigue management controls frequency and quantity of messaging
 uuid: 32db26d6-65b0-40cb-8b1a-5f4dad867986
 products: SG_CAMPAIGN/CLASSIC
 discoiquuid: 64cd5936-0845-47e0-9472-5ba08f36e021
-index: y
-internal: n
-snippet: y
 ---
 
 # Setting up fatigue management using pre defined filters

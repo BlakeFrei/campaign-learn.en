@@ -2,9 +2,6 @@
 title: Adobe Campaign Classic Tutorials - Overview
 seo-title: Adobe Campaign Classic Tutorials - Overview
 products: SG_CAMPAIGN/CLASSIC
-index: y
-internal: n
-snippet: y
 ---
 
 # Adobe Campaign Classic Tutorials - Overview 

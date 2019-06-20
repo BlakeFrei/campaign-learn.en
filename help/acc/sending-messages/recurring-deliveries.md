@@ -6,9 +6,6 @@ seo-description: "After completing this module, you will be able to: - create a 
 uuid: 100d138d-f615-4f4d-afbd-b79aec9890f6
 products: SG_CAMPAIGN/CLASSIC
 discoiquuid: 3551093f-c8c4-4861-9561-ff33489da2fe
-index: y
-internal: n
-snippet: y
 ---
 
 # How to set up recurring and continuous email campaigns

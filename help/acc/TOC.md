@@ -19,19 +19,13 @@ audience: end-user
 
 + [Overview](/help/acc/overview.md)
 + What's new {#whats-new}
-  + [Audit Trail (Campaign Classic 19.1)](/help/acc/monitoring-campaign-classic/audit-trail.md) 
-  <!-- removing temporarily
-  + Control Panel {#control-panel}
-    + [Control Panel Overview](/help/acs/administrating/control-panel/control-panel-overview.md)
-    + [Managing SFTP Servers](/help/acs/administrating/control-panel/cp-managing-sftp-servers.md)
-    + [Trouble Shooting](/help/acs/administrating/control-panel/cp-trouble-shooting.md)
-  -->
+  + [Audit Trail(Campaign Classic 19.1)](/help/acc/monitoring-campaign-classic/audit-trail.md)
 + Getting Started {#getting-started}
   + [The User Interface](/help/acc/getting-started/interface-overview.md)
   + [Creating a campaign and an email](/help/acc/getting-started/creating-a-campaign-and-an-email.md)
   + [Creating a list of recipients](/help/acc/getting-started/creating-a-list-of-recipients.md)
   + [Creating a targeting workflow](/help/acc/automating-with-workflows/creating-a-targeting-workflow.md)
-  + [How to import profiles](/help/acc/data-management/importing-profiles.md)  
+  + [How to import profiles](/help/acc/data-management/importing-profiles.md)
   + [Manage seed and proofs in an email](/help/acc/sending-messages/managing-seed-and-proofs.md)
   + [Creating a Workflow](/help/acc/automating-with-workflows/creating-a-workflow.md)
 + Sending Messages{#sending-messages}
@@ -55,12 +49,10 @@ audience: end-user
   + [Configure Landing Pages](/help/acc/designing-content/configure-landingpages.md)
 + Monitoring {#monitoring}
   + [Workflow Heatmap](/help/acc/monitoring-campaign-classic/workflow-heatmap.md)
-  + [Audit Trail](/help/acc/monitoring-campaign-classic/audit-trail.md) 
+  + [Audit Trail](/help/acc/monitoring-campaign-classic/audit-trail.md)
 + [How to Integrate Dynamics 365 with Adobe Campaign Classic](/help/acc/integrations/dynamics365-integration.md)
-<!-- Removing temporarily for troubleshooting
 + Administrating {#administrating}
-  + Control Panel {#control-panel}
+  + Control Panel {#control-panel-acc}
     + [Control Panel Overview](/help/acs/administrating/control-panel/control-panel-overview.md)
     + [Managing SFTP Servers](/help/acs/administrating/control-panel/cp-managing-sftp-servers.md)
     + [Troubleshooting](/help/acs/administrating/control-panel/cp-trouble-shooting.md)
--->

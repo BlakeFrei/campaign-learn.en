@@ -27,10 +27,10 @@ audience: end-user
   + [Creating a profile](/help/acs/profiles-and-audiences/creating-a-profile.md)
   + [Creating a test profile](/help/acs/profiles-and-audiences/test-profiles.md)
   + [Create an email](/help/acs/communication-channels/email/create-email-from-homepage.md)
-  + [Sending a test, preparing and sending an email](/help/acs/communication-channels/email/sending-test-preparing-sending-email.md)]
+  + [Sending a test, preparing and sending an email](/help/acs/communication-channels/email/sending-test-preparing-sending-email.md)
   + [Importing profiles with a workflow](/help/acs/managing-processes-and-data/importing-profiles.md)
   + [User access management](/help/acs/administrating/access-management.md)
-+ Profiles and audiences {#profiles-and-audiences}  
++ Profiles and audiences {#profiles-and-audiences}
   + [Creating a profile](/help/acs/profiles-and-audiences/creating-a-profile.md)
   + [Creating a test profile](/help/acs/profiles-and-audiences/test-profiles.md)
   + [Importing profiles with a workflow](/help/acs/managing-processes-and-data/importing-profiles.md)
@@ -38,7 +38,7 @@ audience: end-user
 + Communication channels {#communication-channels}
   + Email {#email}
     + [Create an email](/help/acs/communication-channels/email/create-email-from-homepage.md)
-    + [Sending a test, preparing and sending an email](/help/acs/communication-channels/email/sending-test-preparing-sending-email.md)]
+    + [Sending a test, preparing and sending an email](/help/acs/communication-channels/email/sending-test-preparing-sending-email.md)
     + [Creating Multi-lingual Email and SMS Deliveries](/help/acs/communication-channels/create-multilingual-deliveries.md)
   + Mobile {#mobile}
     + [SMS](/help/acs/communication-channels/mobile/sms-delivery.md)
@@ -46,12 +46,12 @@ audience: end-user
     + [Creating Multi-lingual Email and SMS Deliveries](/help/acs/communication-channels/create-multilingual-deliveries.md)
     + [Multi-lingual Push](/help/acs/communication-channels/mobile/create-multilingual-push.md)
   + [Direct mail](/help/acs/communication-channels/direct-mail/directmail.md)
-  + Transactional messaging {#transactional-messaging} 
+  + Transactional messaging {#transactional-messaging}
     + [Product listings in transactional emails](/help/acs/designing-content/product-listings-in-transactional-email.md)
   + Landing pages {#landing-pages}
     + [Create and edit a landing page](/help/acs/communication-channels/landing-pages/landing-page-create-and-edit.md)
     + [Test and publish a landing page](/help/acs/communication-channels/landing-pages/landing-page-test-and-publish.md)
-    + [Configure landing page templates](/help/acs/communication-channels/landing-pages/landing-page-configure-templates.md) 
+    + [Configure landing page templates](/help/acs/communication-channels/landing-pages/landing-page-configure-templates.md)
 + Designing and personalizing content {#designing-content}
   + EMail Designer{#email-designer}
     + [Getting started](/help/acs/designing-content/email-designer/email-designer-getting-started.md)
@@ -64,14 +64,13 @@ audience: end-user
 + Managing processes and data {#managing-processes-and-data}
   + [Create a workflow](/help/acs/managing-processes-and-data/create-workflow.md)
   + [Importing profiles with a workflow](/help/acs/managing-processes-and-data/importing-profiles.md)
-  + Custom Resources {#custom-resources}
+  + Custom Resources {#custom-resources-processes}
     + [Custom Resources Overview](/help/acs/managing-processes-and-data/custom-resources/custom-resources-overview.md)
-  + [External Signal Activity](/help/acs/managing-processes-and-data/external-signal-activity.md))
+  + [External Signal Activity](/help/acs/managing-processes-and-data/external-signal-activity.md)
 + Reporting {#reporting}
   + [Creating a Dynamic Report](/help/acs/reporting/creating-a-dynamic-report.md)
-<!-- + Integrating {#integrating} -->
 + Developing {#developing}
-  + Custom Resources {#custom-resources}
+  + Custom Resources {#custom-resources-develop}
     + [Introduction](/help/acs/managing-processes-and-data/custom-resources/custom-resources-overview.md)
 + Administrating {#administrating}
   + [Access management](/help/acs/administrating/access-management.md)

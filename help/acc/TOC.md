@@ -26,7 +26,7 @@ audience: end-user
   + [Creating a campaign and an email](/help/acc/getting-started/creating-a-campaign-and-an-email.md)
   + [Creating a list of recipients](/help/acc/getting-started/creating-a-list-of-recipients.md)
   + [Creating a targeting workflow](/help/acc/automating-with-workflows/creating-a-targeting-workflow.md)
-  + [How to import profiles](/help/acc/data-management/importing-profiles.md)  
+  + [How to import profiles](/help/acc/data-management/importing-profiles.md)
   + [Manage seed and proofs in an email](/help/acc/sending-messages/managing-seed-and-proofs.md)
   + [Creating a Workflow](/help/acc/automating-with-workflows/creating-a-workflow.md)
 + Sending Messages{#sending-messages}
@@ -50,7 +50,7 @@ audience: end-user
   + [Configure Landing Pages](/help/acc/designing-content/configure-landingpages.md)
 + Monitoring {#monitoring}
   + [Workflow Heatmap](/help/acc/monitoring-campaign-classic/workflow-heatmap.md)
-  + [Audit Trail](/help/acc/monitoring-campaign-classic/audit-trail.md) 
+  + [Audit Trail](/help/acc/monitoring-campaign-classic/audit-trail.md)
 + [How to Integrate Dynamics 365 with Adobe Campaign Classic](/help/acc/integrations/dynamics365-integration.md)
 + Administrating {#administrating}
   + Control Panel {#control-panel-acc}

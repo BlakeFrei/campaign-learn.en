@@ -30,7 +30,7 @@ audience: end-user
   + [Sending a test, preparing and sending an email](/help/acs/communication-channels/email/sending-test-preparing-sending-email.md)
   + [Importing profiles with a workflow](/help/acs/managing-processes-and-data/importing-profiles.md)
   + [User access management](/help/acs/administrating/access-management.md)
-+ Profiles and audiences {#profiles-and-audiences}  
++ Profiles and audiences {#profiles-and-audiences}
   + [Creating a profile](/help/acs/profiles-and-audiences/creating-a-profile.md)
   + [Creating a test profile](/help/acs/profiles-and-audiences/test-profiles.md)
   + [Importing profiles with a workflow](/help/acs/managing-processes-and-data/importing-profiles.md)
@@ -47,7 +47,7 @@ audience: end-user
     + [Creating Multi-lingual Email and SMS Deliveries](/help/acs/communication-channels/create-multilingual-deliveries.md)
     + [Multi-lingual Push](/help/acs/communication-channels/mobile/create-multilingual-push.md)
   + [Direct mail](/help/acs/communication-channels/direct-mail/directmail.md)
-  + Transactional messaging {#transactional-messaging} 
+  + Transactional messaging {#transactional-messaging}
     + [Product listings in transactional emails](/help/acs/designing-content/product-listings-in-transactional-email.md)
   + Landing pages {#landing-pages}
     + [Create and edit a landing page](/help/acs/communication-channels/landing-pages/landing-page-create-and-edit.md)

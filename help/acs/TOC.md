@@ -30,12 +30,12 @@ audience: end-user
   + [Sending a test, preparing and sending an email](/help/acs/communication-channels/email/sending-test-preparing-sending-email.md)]
   + [Importing profiles with a workflow](/help/acs/managing-processes-and-data/importing-profiles.md)
   + [User access management](/help/acs/administrating/access-management.md)
+<!-- temp
 + Profiles and audiences {#profiles-and-audiences}  
   + [Creating a profile](/help/acs/profiles-and-audiences/creating-a-profile.md)
   + [Creating a test profile](/help/acs/profiles-and-audiences/test-profiles.md)
   + [Importing profiles with a workflow](/help/acs/managing-processes-and-data/importing-profiles.md)
   + [Managing subscriptions](/help/acs/managing-processes-and-data/services-and-subscriptions.md)
-<!-- temp
 + Communication channels {#communication-channels}
   + Email {#email}
     + [Create an email](/help/acs/communication-channels/email/create-email-from-homepage.md)

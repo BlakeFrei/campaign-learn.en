@@ -6,9 +6,6 @@ seo-description: This video explains how to import profiles in Adobe Campaign Cl
 uuid: 0b33851e-4565-4fee-95e2-3ab539ca2243
 products: SG_CAMPAIGN/CLASSIC
 discoiquuid: ae754d28-1fdf-424b-861e-8a8846614152
-index: y
-internal: n
-snippet: y
 ---
 
 # How to import profiles

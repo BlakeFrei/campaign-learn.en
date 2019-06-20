@@ -7,9 +7,6 @@ uuid: 32d6a876-4667-4a87-baf7-4251179be688
 products: SG_CAMPAIGN/CLASSIC
 discoiquuid: 4c05bb5e-64f6-4540-b92f-7da1e981c143
 targetaudience: target-audience new;target-audience ongoing
-index: y
-internal: n
-snippet: y
 ---
 
 # Creating Multi Channel Campaigns

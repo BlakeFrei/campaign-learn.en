@@ -6,9 +6,6 @@ seo-description: This video explains how to create a targeting workflow in Adobe
 uuid: abcf3d1b-6894-458f-86a7-34837ba23a31
 products: SG_CAMPAIGN/CLASSIC
 discoiquuid: 8699d14d-8f7e-4013-b7c3-1ebf10a492ec
-index: y
-internal: n
-snippet: y
 ---
 
 # Creating a targeting workflow

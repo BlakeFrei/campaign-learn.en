@@ -21,7 +21,6 @@ audience: end-user
 + What's new {#whats-new}
   + [External Signal Activity](/help/acs/managing-processes-and-data/external-signal-activity.md)
   + [Product listings in transactional emails](/help/acs/designing-content/product-listings-in-transactional-email.md)
-<!-- removing temporarily
 + Getting started {#getting-started}
   + [Configure a list](/help/acs/getting-started/configure-a-list.md)
   + [Managing campaigns](/help/acs/getting-started/managing-campaigns.md)
@@ -65,13 +64,13 @@ audience: end-user
 + Managing processes and data {#managing-processes-and-data}
   + [Create a workflow](/help/acs/managing-processes-and-data/create-workflow.md)
   + [Importing profiles with a workflow](/help/acs/managing-processes-and-data/importing-profiles.md)
-  + Custom Resources {#custom-resources}
+  + Custom Resources {#custom-resources-processes}
     + [Custom Resources Overview](/help/acs/managing-processes-and-data/custom-resources/custom-resources-overview.md)
   + [External Signal Activity](/help/acs/managing-processes-and-data/external-signal-activity.md))
 + Reporting {#reporting}
   + [Creating a Dynamic Report](/help/acs/reporting/creating-a-dynamic-report.md)
 + Developing {#developing}
-  + Custom Resources {#custom-resources}
+  + Custom Resources {#custom-resources-develop}
     + [Introduction](/help/acs/managing-processes-and-data/custom-resources/custom-resources-overview.md)
 + Administrating {#administrating}
   + [Access management](/help/acs/administrating/access-management.md)
@@ -84,4 +83,3 @@ audience: end-user
   + [Custom resources for GDPR](/help/acs/gdpr/gdpr-custom-resources.md)
   + [Create and track GDPR requests](/help/acs/gdpr/create-and-track-gdpr-requests.md)
   + [Execute GDPR requests](/help/acs/gdpr/gdpr-execute-requests.md)
--->

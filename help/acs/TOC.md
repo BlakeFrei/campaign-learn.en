@@ -21,10 +21,10 @@ audience: end-user
 + What's new {#whats-new}
   + [External Signal Activity](/help/acs/managing-processes-and-data/external-signal-activity.md)
   + [Product listings in transactional emails](/help/acs/designing-content/product-listings-in-transactional-email.md)
-<!-- temp
 + Getting started {#getting-started}
   + [Configure a list](/help/acs/getting-started/configure-a-list.md)
   + [Managing campaigns](/help/acs/getting-started/managing-campaigns.md)
+<!-- temp
   + [Creating a profile](/help/acs/profiles-and-audiences/creating-a-profile.md)
   + [Creating a test profile](/help/acs/profiles-and-audiences/test-profiles.md)
   + [Create an email](/help/acs/communication-channels/email/create-email-from-homepage.md)

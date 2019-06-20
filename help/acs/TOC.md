@@ -18,6 +18,7 @@ audience: end-user
 # Adobe Campaign Standard Tutorials {#campaign-standard-tutorials}
 
 + [Overview](/help/acs/overview.md)
+<!-- removing temporarily
 + What's new {#whats-new}
   + [External Signal Activity](/help/acs/managing-processes-and-data/external-signal-activity.md)
   + [Product listings in transactional emails](/help/acs/designing-content/product-listings-in-transactional-email.md)
@@ -69,7 +70,6 @@ audience: end-user
   + [External Signal Activity](/help/acs/managing-processes-and-data/external-signal-activity.md))
 + Reporting {#reporting}
   + [Creating a Dynamic Report](/help/acs/reporting/creating-a-dynamic-report.md)
-<!-- + Integrating {#integrating} -->
 + Developing {#developing}
   + Custom Resources {#custom-resources}
     + [Introduction](/help/acs/managing-processes-and-data/custom-resources/custom-resources-overview.md)
@@ -84,3 +84,4 @@ audience: end-user
   + [Custom resources for GDPR](/help/acs/gdpr/gdpr-custom-resources.md)
   + [Create and track GDPR requests](/help/acs/gdpr/create-and-track-gdpr-requests.md)
   + [Execute GDPR requests](/help/acs/gdpr/gdpr-execute-requests.md)
+-->

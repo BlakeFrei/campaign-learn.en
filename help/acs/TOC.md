@@ -24,11 +24,10 @@ audience: end-user
 + Getting started {#getting-started}
   + [Configure a list](/help/acs/getting-started/configure-a-list.md)
   + [Managing campaigns](/help/acs/getting-started/managing-campaigns.md)
-<!-- temp
   + [Creating a profile](/help/acs/profiles-and-audiences/creating-a-profile.md)
   + [Creating a test profile](/help/acs/profiles-and-audiences/test-profiles.md)
   + [Create an email](/help/acs/communication-channels/email/create-email-from-homepage.md)
-  + [Sending a test, preparing and sending an email](/help/acs/communication-channels/email/sending-test-preparing-sending-email.md)]
+  + [Sending a test, preparing and sending an email](/help/acs/communication-channels/email/sending-test-preparing-sending-email.md)
   + [Importing profiles with a workflow](/help/acs/managing-processes-and-data/importing-profiles.md)
   + [User access management](/help/acs/administrating/access-management.md)
 + Profiles and audiences {#profiles-and-audiences}  
@@ -39,7 +38,7 @@ audience: end-user
 + Communication channels {#communication-channels}
   + Email {#email}
     + [Create an email](/help/acs/communication-channels/email/create-email-from-homepage.md)
-    + [Sending a test, preparing and sending an email](/help/acs/communication-channels/email/sending-test-preparing-sending-email.md)]
+    + [Sending a test, preparing and sending an email](/help/acs/communication-channels/email/sending-test-preparing-sending-email.md)
     + [Creating Multi-lingual Email and SMS Deliveries](/help/acs/communication-channels/create-multilingual-deliveries.md)
   + Mobile {#mobile}
     + [SMS](/help/acs/communication-channels/mobile/sms-delivery.md)
@@ -84,4 +83,3 @@ audience: end-user
   + [Custom resources for GDPR](/help/acs/gdpr/gdpr-custom-resources.md)
   + [Create and track GDPR requests](/help/acs/gdpr/create-and-track-gdpr-requests.md)
   + [Execute GDPR requests](/help/acs/gdpr/gdpr-execute-requests.md)
--->

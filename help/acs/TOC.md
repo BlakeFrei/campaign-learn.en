@@ -40,6 +40,7 @@ audience: end-user
     + [Create an email](/help/acs/communication-channels/email/create-email-from-homepage.md)
     + [Sending a test, preparing and sending an email](/help/acs/communication-channels/email/sending-test-preparing-sending-email.md)
     + [Creating Multi-lingual Email and SMS Deliveries](/help/acs/communication-channels/create-multilingual-deliveries.md)
+<!--
   + Mobile {#mobile}
     + [SMS](/help/acs/communication-channels/mobile/sms-delivery.md)
     + [In-App Messages](/help/acs/communication-channels/mobile/in-app-message.md)
@@ -83,3 +84,4 @@ audience: end-user
   + [Custom resources for GDPR](/help/acs/gdpr/gdpr-custom-resources.md)
   + [Create and track GDPR requests](/help/acs/gdpr/create-and-track-gdpr-requests.md)
   + [Execute GDPR requests](/help/acs/gdpr/gdpr-execute-requests.md)
+-->

@@ -61,7 +61,6 @@ audience: end-user
     + [Working with existing content](/help/acs/designing-content/email-designer/working-with-existing-content.md)
     + [Integrations with the Creative Cloud](/help/acs/designing-content/email-designer/integrations-with-the-adobe-creative-cloud.md)
   + [Product listings in transactional emails](/help/acs/designing-content/product-listings-in-transactional-email.md)
-<!--
 + Managing processes and data {#managing-processes-and-data}
   + [Create a workflow](/help/acs/managing-processes-and-data/create-workflow.md)
   + [Importing profiles with a workflow](/help/acs/managing-processes-and-data/importing-profiles.md)
@@ -73,6 +72,7 @@ audience: end-user
 + Developing {#developing}
   + Custom Resources {#custom-resources-develop}
     + [Introduction](/help/acs/managing-processes-and-data/custom-resources/custom-resources-overview.md)
+<!--
 + Administrating {#administrating}
   + [Access management](/help/acs/administrating/access-management.md)
   + Control Panel {#control-panel}

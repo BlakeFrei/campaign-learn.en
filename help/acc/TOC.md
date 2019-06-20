@@ -18,6 +18,7 @@ audience: end-user
 # Adobe Campaign Classic Tutorials {#campaign-classic-tutorials}
 
 + [Overview](/help/acc/overview.md)
+<!--
 + What's new {#whats-new}
   + [Audit Trail(Campaign Classic 19.1)](/help/acc/monitoring-campaign-classic/audit-trail.md)
 + Getting Started {#getting-started}
@@ -56,3 +57,4 @@ audience: end-user
     + [Control Panel Overview](/help/acs/administrating/control-panel/control-panel-overview.md)
     + [Managing SFTP Servers](/help/acs/administrating/control-panel/cp-managing-sftp-servers.md)
     + [Troubleshooting](/help/acs/administrating/control-panel/cp-trouble-shooting.md)
+-->

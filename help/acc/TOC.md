@@ -29,10 +29,12 @@ audience: end-user
   + [Manage seed and proofs in an email](/help/acc/sending-messages/managing-seed-and-proofs.md)
   + [Creating a Workflow](/help/acc/automating-with-workflows/creating-a-workflow.md)
 + Sending Messages{#sending-messages}
-  + [Creating a campaign and an email](/help/acc/getting-started/creating-a-campaign-and-an-email.md)
-  + [Manage seed and proofs in an email](/help/acc/sending-messages/managing-seed-and-proofs.md)
-  + [Personalize emails using dynamic content blocks](/help/acc/sending-messages/personalization-with-dynamic-content-blocks.md)
-  + [Configure recurring and continuous email campaigns](/help/acc/sending-messages/recurring-deliveries.md)
+  + Email Channel{#email-channel}
+    + [Creating a campaign and an email](/help/acc/getting-started/creating-a-campaign-and-an-email.md)
+    + [Manage seed and proofs in an email](/help/acc/sending-messages/managing-seed-and-proofs.md)
+    + [Personalize emails using dynamic content blocks](/help/acc/sending-messages/personalization-with-dynamic-content-blocks.md)
+    + [Configure recurring and continuous email campaigns](/help/acc/sending-messages/recurring-deliveries.md)
+  + Push Channel {#push-channel}
   + [Configure and deploy delivery templates](/help/acc/sending-messages/delivery-template-configuration.md)
   + Fatigue Management{#fatigue-management}
     + [Using typology rules](/help/acc/sending-messages/fatigue-management/typology-rules-for-fatigue-management.md)

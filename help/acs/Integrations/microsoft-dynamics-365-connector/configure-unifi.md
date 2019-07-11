@@ -16,6 +16,7 @@ team: PM
 Unifi synchronizes the Microsoft Dynamics 365 contact records with profile records in Adobe Campaign Standard. This page explains how to configure Unfifi for the Microsoft Dynamics 365 Connector.For more information also see the product documentation [Configure Unifi for Microsoft Dynamics 365 integration](https://helpx.adobe.com/content/help/en/campaign/kb/unifi-configuration.html) and the [Unifi User Guide](https://drive.google.com/drive/folders/16seHF45e6bFxHX15zWLqFLEXymCuA_wn).
 
 ## Use Cases
+
 The following use cases are covered:
 
 * Add/update contact records
@@ -52,7 +53,7 @@ The video below explains each of the use cases in more detail.
 
 *This video explains the different Unifi jobs that required for the Adobe Campaign Standard integration with Microsoft Dynamics 265 (02:10 min)*
 
-###  Unifi Job Details: Ingress & Egress
+### Unifi Job Details: Ingress & Egress
 
 >[video](https://video.tv.adobe.com/v/27396?quality=12)
 

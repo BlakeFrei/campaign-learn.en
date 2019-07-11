@@ -11,7 +11,7 @@ activity: setup
 team: PM
 ---
 
-# Configure Microsoft Dynamics 365 {# configure-microsoft-dynamics-365}
+# Configure Microsoft Dynamics 365 {#configure-microsoft-dynamics-365}
 
 An OAuth access token allows Unifi to authenticate with your Microsoft Dynamics instance via web APIs in order to post Campaign Standard experience events to the timeline view of the Microsoft Dynamics interface.
 

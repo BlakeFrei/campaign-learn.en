@@ -4,8 +4,13 @@ seo-title: How to set up recurring and continuous email campaigns
 description: This tutorial explains how to set up a recurring and a continuous delivery and the differences between the two approaches.  
 seo-description: "After completing this module, you will be able to: - create a recurring delivery - create a continuous delivery - configure a scheduler activity - configure an incremental query - know the difference between tracking a recurring delivery vs. a continuous delivery"
 uuid: 100d138d-f615-4f4d-afbd-b79aec9890f6
-products: SG_CAMPAIGN/CLASSIC
 discoiquuid: 3551093f-c8c4-4861-9561-ff33489da2fe
+feature: workflows       
+topics: channel activities
+kt: KT-1560
+doc-type: feature video
+activity: use
+team: TM
 ---
 
 # How to set up recurring and continuous email campaigns

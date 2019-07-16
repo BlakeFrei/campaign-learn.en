@@ -36,6 +36,7 @@ audience: end-user
     + [Configure recurring and continuous email campaigns](/help/acc/sending-messages/recurring-deliveries.md)
   + Push Channel {#push-channel}
   + [Configure and deploy delivery templates](/help/acc/sending-messages/delivery-template-configuration.md)
+  + [Configure the Push Channel using the Experience Platform Mobile SDK](/help/acc/sending-messages/mobile-channel/configure-push-using-aep-mobile-sdk)
   + Fatigue Management{#fatigue-management}
     + [Using typology rules](/help/acc/sending-messages/fatigue-management/typology-rules-for-fatigue-management.md)
     + [Using pre defined filters](/help/acc/sending-messages/fatigue-management/fatigue-management-using-filters.md)

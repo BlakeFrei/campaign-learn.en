@@ -4,8 +4,13 @@ seo-title: How to configure and deploy delivery templates in Adobe Campaign Clas
 description: This video, explains how to configure and use a delivery template.
 seo-description: This video, explains how to configure and use a delivery template in ACC
 uuid: aa13b3b4-c00e-4b0e-a310-a6974b3f1d42
-products: SG_CAMPAIGN/CLASSIC
 discoiquuid: 23f155df-cff2-41ad-9ddf-9fb6c00a9d25
+feature: Delivery Templates
+topics: Templates
+kt: KT-3232
+doc-type: feature video
+activity: use
+team: TM
 ---
 
 # How to configure and deploy delivery templates in Adobe Campaign Classic

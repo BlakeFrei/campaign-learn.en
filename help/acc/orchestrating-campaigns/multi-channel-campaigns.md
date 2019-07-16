@@ -4,10 +4,17 @@ seo-title: How to set up multi channel campaigns in Adobe Campaign Classic (ACC)
 description: This video demonstrates how to create a multichannel campaign in Adobe Campaign Classic. You will also learn how to  configure an email, a SMS, and a direct mail delivery.
 seo-description: This video demonstrates how to create a multichannel campaign in Adobe Campaign Classic. You will also learn how to  configure an email, a SMS, and a direct mail delivery.
 uuid: 32d6a876-4667-4a87-baf7-4251179be688
-products: SG_CAMPAIGN/CLASSIC
 discoiquuid: 4c05bb5e-64f6-4540-b92f-7da1e981c143
 targetaudience: target-audience new;target-audience ongoing
 ---
+
+feature: Workflows
+topics: Multi Channel
+kt: KT-1563
+doc-type: feature video
+activity: use
+team: TM
+
 
 # Creating Multi Channel Campaigns
 

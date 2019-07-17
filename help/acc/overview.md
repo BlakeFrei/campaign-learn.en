@@ -11,7 +11,7 @@ Adobe Campaign provides a platform for designing cross-channel customer experien
 
 ## What's New
 
-* **[ Configure Push Channel using the Experience Platform Mobile SDK](/help/acc/sending-messages/mobile-channel/configure-push-using-aep-mobile-sdk )**
+* **[ Configure Push Channel using the Experience Platform Mobile SDK](/help/acc/sending-messages/mobile-channel/configure-push-using-aep-mobile-sdk.md)**
     <br>
     *The Adobe Campaign Classic extension for the Adobe Experience Platform Mobile SDK allows you configure your mobile applications directly from Adobe Launch. (Campaign Classic release 19.1)*
 

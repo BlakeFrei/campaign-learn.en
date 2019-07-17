@@ -6,15 +6,13 @@ seo-description: This video demonstrates how to create a multichannel campaign i
 uuid: 32d6a876-4667-4a87-baf7-4251179be688
 discoiquuid: 4c05bb5e-64f6-4540-b92f-7da1e981c143
 targetaudience: target-audience new;target-audience ongoing
----
-
 feature: Workflows
 topics: Multi Channel
 kt: KT-1563
 doc-type: feature video
 activity: use
 team: TM
-
+---
 
 # Creating Multi Channel Campaigns
 
@@ -28,4 +26,4 @@ This video demonstrates how to create a multichannel campaign in Adobe Campaign 
 
 ## Additional Resources
 
-- [Design and Orchestrate Email Campaigns in Adobe Campaign Classic](https://helpx.adobe.com/campaign/classic/how-to/design-orchestrate-email-campaigns-in-campaign-classic.html)
+* [Design and Orchestrate Email Campaigns in Adobe Campaign Classic](https://helpx.adobe.com/campaign/classic/how-to/design-orchestrate-email-campaigns-in-campaign-classic.html)

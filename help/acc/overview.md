@@ -29,20 +29,20 @@ Adobe Campaign provides a platform for designing cross-channel customer experien
       <img alt="Workflow Heatmaps (video)" src="./assets/workflow-heatmap.png"/>
     </a>
     <div>
-      <a href="">
+      <a href="./monitoring-campaign-classic/workflow-heatmap.md">
     <strong>Workflow Heatmaps</strong>
     </a>
     </div>
     <p>
-    <em>The Adobe Campaign Workflow provides a quick overview on the number of concurrent workflows.</em>
+    <em>The Adobe Campaign Workflow Heatmap provides a quick overview on the number of concurrent workflows.</em>
     <p>
   </td>
    <td>
-    <a href="./monitoring-campaign-classic/audit-trail.md">
+    <a href="./monitoring-campaign-classic/workflow-heatmap.md">
       <img alt="Audit Trail (video)" src="./assets/acc-audit-trail.png" />
     </a>
     <div>
-      <a href="#">
+      <a href="./monitoring-campaign-classic/workflow-heatmap.md">
     <strong>Audit Trail</strong>
     </a>
     </div>

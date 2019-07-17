@@ -5,12 +5,12 @@ description: This video explains how to create a targeting workflow in Adobe Cam
 seo-description: This video explains how to create a targeting workflow in Adobe Campaign Classic
 uuid: abcf3d1b-6894-458f-86a7-34837ba23a31
 discoiquuid: 8699d14d-8f7e-4013-b7c3-1ebf10a492ec
-feature: Workflow
-topics: Targeting
-kt: 
+feature: Workflows
+topics: Targeting Activities
+kt: KT-2174
 doc-type: feature video
-activity: understand
-team: PM
+activity: use
+team: DOC
 ---
 
 # Creating a targeting workflow

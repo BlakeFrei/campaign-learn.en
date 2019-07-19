@@ -1,12 +1,16 @@
 ---
 title: Sending a test, preparing and sending an email 
 seo-title: Sending a test, preparing and sending an email 
-description: null
-seo-description: null
+description: Sending a test, preparing and sending an email 
+seo-description: Sending a test, preparing and sending an email 
 uuid: d53d4a14-8a84-4bd4-add4-c942e2e662f2
-products: SG_CAMPAIGN/STANDARD
 discoiquuid: a612320c-e3f4-4026-ba0d-d2a30f1cd639
-targetaudience: target-audience new;target-audience ongoing
+feature: Email  
+topics: Channels
+kt: KT-1812
+doc-type: feature video
+activity: use
+team: DOC
 ---
 
 # Sending a test, preparing and sending an email {#sending-a-test-preparing-and-sending-an-email}

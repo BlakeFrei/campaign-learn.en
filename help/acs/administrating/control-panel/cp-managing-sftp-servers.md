@@ -5,13 +5,14 @@ description: The Control Panel allows you to monitor and manage your SFTP storag
 seo-description: The Control Panel allows you to monitor and manage your SFTP storage by instance and whitelist IP addresses.
 uuid: e73e2288-85e2-45f4-9f13-2f1e89d30cca
 discoiquuid: 700ba7da-6734-450b-a054-e547454f706e
-feature: Control Panel
-topics: SFTP Servers
+feature: SFTP Server Whitelisting
+topics: Control Panel
 kt: KT-2925
 doc-type: feature video
-activity: understand
-team: TM
+activity: use
+team: PM
 ---
+
 # Managing SFTP Servers {#cp-managing-sftp-servers}
 
 ## Working with the Control Panel: Monitoring server capacity, whitelisting IP addresses, and adding SSH keys

@@ -1,9 +1,14 @@
 ---
 title: Configure the mobile view
 seo-title: Configure the mobile view
-description: null
-seo-description: null
-products: SG_CAMPAIGN/STANDARD
+description: Configure the mobile view
+seo-description: Configure the mobile view
+feature: Email Designer 
+topics: Content Creation
+kt: KT-2423
+doc-type: feature video
+activity: use
+team: TM
 ---
 
 # Configure the mobile view{#configure-the-mobile-view}

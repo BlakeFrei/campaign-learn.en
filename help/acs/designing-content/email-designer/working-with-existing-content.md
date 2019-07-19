@@ -1,9 +1,14 @@
 ---
 title: Working with existing content
 seo-title: Working with existing content
-description: null
-seo-description: null
-products: SG_CAMPAIGN/STANDARD
+description: Working with existing content
+seo-description: Working with existing content
+feature: Email Designer 
+topics: Content Creation
+kt: KT-1453
+doc-type: feature video
+activity: use
+team: TM
 ---
 
 # Working with existing content{#working-with-existing-content}

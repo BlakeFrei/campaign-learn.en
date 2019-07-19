@@ -19,15 +19,16 @@ audience: end-user
 
 + [Overview](/help/acc/overview.md)
 + What's new {#whats-new}
-  + [Audit Trail(Campaign Classic 19.1)](/help/acc/monitoring-campaign-classic/audit-trail.md)
+  + [Configure Push Channel using the Experience Platform Mobile SDK](/help/acc/sending-messages/mobile-channel/configure-push-using-aep-mobile-sdk.md)
+  + [Control Panel](/help/acc/monitoring-campaign-classic/Control Panel/control-panel-overview.md)
 + Getting Started {#getting-started}
   + [The User Interface](/help/acc/getting-started/interface-overview.md)
   + [Creating a campaign and an email](/help/acc/getting-started/creating-a-campaign-and-an-email.md)
   + [Creating a list of recipients](/help/acc/getting-started/creating-a-list-of-recipients.md)
+  + [Creating a Workflow](/help/acc/automating-with-workflows/creating-a-workflow.md)
   + [Creating a targeting workflow](/help/acc/automating-with-workflows/creating-a-targeting-workflow.md)
   + [How to import profiles](/help/acc/data-management/importing-profiles.md)
   + [Manage seed and proofs in an email](/help/acc/sending-messages/managing-seed-and-proofs.md)
-  + [Creating a Workflow](/help/acc/automating-with-workflows/creating-a-workflow.md)
 + Sending Messages{#sending-messages}
   + Email Channel{#email-channel}
     + [Creating a campaign and an email](/help/acc/getting-started/creating-a-campaign-and-an-email.md)
@@ -35,8 +36,8 @@ audience: end-user
     + [Personalize emails using dynamic content blocks](/help/acc/sending-messages/personalization-with-dynamic-content-blocks.md)
     + [Configure recurring and continuous email campaigns](/help/acc/sending-messages/recurring-deliveries.md)
   + Push Channel {#push-channel}
+    + [Configure Push Channel using the Experience Platform Mobile SDK](/help/acc/sending-messages/mobile-channel/configure-push-using-aep-mobile-sdk.md)
   + [Configure and deploy delivery templates](/help/acc/sending-messages/delivery-template-configuration.md)
-  + [Configure the Push Channel using the Experience Platform Mobile SDK](/help/acc/sending-messages/mobile-channel/configure-push-using-aep-mobile-sdk.md)
   + Fatigue Management{#fatigue-management}
     + [Using typology rules](/help/acc/sending-messages/fatigue-management/typology-rules-for-fatigue-management.md)
     + [Using pre defined filters](/help/acc/sending-messages/fatigue-management/fatigue-management-using-filters.md)
@@ -56,6 +57,7 @@ audience: end-user
 + [How to Integrate Dynamics 365 with Adobe Campaign Classic](/help/acc/integrations/dynamics365-integration.md)
 + Administrating {#administrating}
   + Control Panel {#control-panel-acc}
-    + [Control Panel Overview](/help/acs/administrating/control-panel/control-panel-overview.md)
+    + [Control Panel Overview](/help/acc/monitoring-campaign-classic/control-panel/control-panel-overview.md)
     + [Managing SFTP Servers](/help/acs/administrating/control-panel/cp-managing-sftp-servers.md)
+    + [Adding URL Permissions](/help/acc/monitoring-campaign-classic/control-panel/control-panel-url-permissions.md)
     + [Troubleshooting](/help/acs/administrating/control-panel/cp-trouble-shooting.md)

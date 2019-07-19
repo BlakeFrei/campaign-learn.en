@@ -1,11 +1,16 @@
 ---
 title: Introduction to the Email Content Templates
 seo-title: Introduction to the Email Content Templates
-description: null
-seo-description: null
+description: Introduction to the Email Content Templates
+seo-description: Introduction to the Email Content Templates
 uuid: 2b0f6bdd-16b4-4724-b671-bb1962485b40
-products: SG_CAMPAIGN/STANDARD
 discoiquuid: 38128b6e-ddd7-4eeb-9cbd-33bbadddf492
+feature: Email Designer 
+topics: Content Creation
+kt: KT-1442
+doc-type: feature video
+activity: use
+team: TM
 ---
 
 # Introduction to the Email Content Templates{#introduction-to-the-email-content-templates}

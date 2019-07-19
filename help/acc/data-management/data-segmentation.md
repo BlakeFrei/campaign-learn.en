@@ -7,7 +7,7 @@ uuid: a5b88127-5069-4620-a71e-5c35fbbe1f36
 discoiquuid: bf0ea5b2-a6d9-46bb-ae87-63b146754d07
 feature: Data segmentation
 topics: 
-kt: KT-
+kt: KT-3265
 doc-type: feature video
 activity: use
 team: evangelist

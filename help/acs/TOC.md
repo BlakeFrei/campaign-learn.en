@@ -54,7 +54,7 @@ audience: end-user
     + [Configure landing page templates](/help/acs/communication-channels/landing-pages/landing-page-configure-templates.md)
 + Designing and personalizing content {#designing-content}
   + EMail Designer{#email-designer}
-    + [Getting started](/help/acs/designing-content/email-designer/email-designer-getting-started.md)
+    + [Overview](/help/acs/designing-content/email-designer/email-designer-overview.md)
     + [Content templates](/help/acs/designing-content/email-designer/email-content-templates.md)
     + [Configure the mobile view](/help/acs/designing-content/email-designer/configure-the-mobile-view.md)
     + [Preview your email](/help/acs/designing-content/email-designer/preview-your-email.md)

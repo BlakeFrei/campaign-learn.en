@@ -1,7 +1,12 @@
 ---
 title: Integrations with the Adobe Creative Cloud
 seo-title: Integrations with the Adobe Creative Cloud
-products: SG_CAMPAIGN/STANDARD
+feature: Email Designer 
+topics: Content Creation
+kt: KT-1427
+doc-type: feature video
+activity: use
+team: TM
 ---
 
 # Integrations with the Adobe Creative Cloud {#integrations-with-the-adobe-creative-cloud}

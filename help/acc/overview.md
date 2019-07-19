@@ -13,11 +13,11 @@ Adobe Campaign provides a platform for designing cross-channel customer experien
 
 * **[ Configure Push Channel using the Experience Platform Mobile SDK](/help/acc/sending-messages/mobile-channel/configure-push-using-aep-mobile-sdk.md)**
     <br>
-    *The Adobe Campaign Classic extension for the Adobe Experience Platform Mobile SDK allows you configure your mobile applications directly from Adobe Launch. (Campaign Classic release 19.1)*
+    *Learn how to configure the Push applications directly from Adobe Launch. (Campaign Classic release 19.1)*
 
-* **[Control Panel](/help/acs/administrating/control-panel/control-panel-overview.md)**
+* **[Control Panel](/help/acc/monitoring-campaign-classic/control-panel-overview.md)**
     <br>
-    *The Control Panel allows Adobe Campaign administrators to easily monitor key assets as well as perform administrative tasks, like managing the SFTP storage by instance or whitelist IP addresses. (all versions)*
+    *Learn how to easily monitor key assets, as well as perform administrative tasks, such as SMPTP whitelisting, with the Control Panel.*
 
 
 ## Staff Picks
@@ -34,7 +34,7 @@ Adobe Campaign provides a platform for designing cross-channel customer experien
     </a>
     </div>
     <p>
-    <em>The Adobe Campaign Workflow Heatmap provides a quick overview on the number of concurrent workflows.</em>
+    <em>Get an overview on the number of concurrent workflows.</em>
     <p>
   </td>
    <td>
@@ -47,7 +47,7 @@ Adobe Campaign provides a platform for designing cross-channel customer experien
     </a>
     </div>
     <p>
-    <em>Audit Trail captures, in real-time, a comprehensive list of actions and events occurring within Adobe Campaign.</em>
+    <em>Capture a comprehensive list of actions and events occurring within Adobe Campaign.</em>
     <p>
   </td>
   <td>
@@ -60,7 +60,7 @@ Adobe Campaign provides a platform for designing cross-channel customer experien
     </a>
     </div>
     <p>
-    <em>Personalize content or the appearance of messages and combine them with criteria from recipient profiles. </em>
+    <em>Personalize messages using criteria from recipient profiles. </em>
     <p>
   </td>
 </tr>

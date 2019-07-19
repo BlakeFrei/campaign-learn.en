@@ -4,9 +4,13 @@ seo-title: Create an email delivery
 description: You can create an email from a campaign, from the Adobe Campaign home page, or in the marketing activity list. You can also create single-send and recurring emails from a workflow. This video explains how to create an email delivery from the homepage. 
 seo-description: You can create an email from a campaign, from the Adobe Campaign home page, or in the marketing activity list. You can also create single-send and recurring emails from a workflow. This video explains how to create an email delivery from the homepage. 
 uuid: 4caf9fe5-30ab-4b8c-8a99-0809340fac93
-products: SG_CAMPAIGN/STANDARD
 discoiquuid: 93a6c5a9-9be3-4c22-8820-27114de2ada6
-targetaudience: target-audience new;target-audience ongoing
+feature: Email
+topics: Channels
+kt: KT-1807
+doc-type: feature video
+activity: use
+team: DOC
 ---
 
 # Create an email delivery{#create-an-email-delivery}

@@ -68,5 +68,4 @@ Adobe Campaign provides a platform for designing cross-channel customer experien
 
 ## Additional Resources
 
-* [Documentation](https://docs.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/overview.html)
-* [Adobe Campaign Standard Tutorials](/help/acs/overview.md)
+* [Documentation](https://docs.campaign.adobe.com/doc/AC/en/PTF_Starting_with_Adobe_Campaign_About_Adobe_Campaign_Classic.html)

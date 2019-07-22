@@ -20,7 +20,7 @@ audience: end-user
 + [Overview](/help/acc/overview.md)
 + What's new {#whats-new}
   + [Configure Push Channel using the Experience Platform Mobile SDK](/help/acc/sending-messages/mobile-channel/configure-push-using-aep-mobile-sdk.md)
-  + [Control Panel](/help/acc/monitoring-campaign-classic/Control Panel/control-panel-overview.md)
+  + [Control Panel Overview](/help/acc/monitoring-campaign-classic/control-panel/control-panel-overview.md)
 + Getting Started {#getting-started}
   + [The User Interface](/help/acc/getting-started/interface-overview.md)
   + [Creating a campaign and an email](/help/acc/getting-started/creating-a-campaign-and-an-email.md)

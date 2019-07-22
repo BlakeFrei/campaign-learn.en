@@ -36,7 +36,7 @@ Adobe Campaign provides a platform for designing cross-channel customer experien
   </td>
    <td>
     <a href="./designing-content/email-designer/email-designer-overview.md">
-      <img alt="Email Designer (videos)" src="./assets/email_ designer_tutorial.png" />
+      <img alt="Email Designer (videos)" src="./assets/email_designer_tutorial.png" />
     </a>
     <div>
       <a href="./designing-content/email-designer/email-designer-overview.md">

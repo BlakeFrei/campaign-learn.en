@@ -15,7 +15,7 @@ Adobe Campaign provides a platform for designing cross-channel customer experien
     <br>
     *Learn how to configure the Push applications directly from Adobe Launch. (Campaign Classic release 19.1)*
 
-* **[Control Panel](/help/acc/monitoring-campaign-classic/control-panel-overview.md)**
+* **[Control Panel](/help/acc/monitoring-campaign-classic/control-panel/control-panel-overview.md)**
     <br>
     *Learn how to easily monitor key assets, as well as perform administrative tasks, such as SMPTP whitelisting, with the Control Panel.*
 
@@ -38,11 +38,11 @@ Adobe Campaign provides a platform for designing cross-channel customer experien
     <p>
   </td>
    <td>
-    <a href="./monitoring-campaign-classic/workflow-heatmap.md">
+    <a href="./monitoring-campaign-classic/audit-trail.md">
       <img alt="Audit Trail (video)" src="./assets/acc-audit-trail.png" />
     </a>
     <div>
-      <a href="./monitoring-campaign-classic/workflow-heatmap.md">
+      <a href="./monitoring-campaign-classic/audit-trail.md">
     <strong>Audit Trail</strong>
     </a>
     </div>

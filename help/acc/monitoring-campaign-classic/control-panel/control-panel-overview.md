@@ -13,11 +13,11 @@ activity: use
 team: PM
 ---
 
-# Control Panel {#control-panel}
+# Control Panel
 
 The Control Panel allows Adobe Campaign administrators to easily monitor key assets as well as perform administrative tasks, like managing the SFTP storage by instance or whitelist IP addresses.
 
-## Prerequisites {#prerequisites}
+## Prerequisites
 
 ### Confirm IMS Org ID
 

@@ -10,10 +10,10 @@ Adobe Campaign provides a platform for designing cross-channel customer experien
 
 ## What's new
 
-* **[External Signal Activity - Call a workflow with parameters](/help/acs/managing-processes-and-data/external-signal-activity.md)**
+* **[External Signal Activity - Call a workflow with parameters](./managing-processes-and-data/external-signal-activity.md)**
   <br>
     *Learn how to configure a workflow to be triggered externally and receive parameters.*
-* **[Control Panel](/help/acs/administrating/control-panel/control-panel-overview.md)**
+* **[Control Panel](./administrating/control-panel/control-panel-overview.md)**
   <br>
     *Learn how to easily monitor key assets, as well as perform administrative tasks, such as SMPTP whitelisting, with the Control Panel.*
 
@@ -23,7 +23,7 @@ Adobe Campaign provides a platform for designing cross-channel customer experien
 <tr>
   <td>
     <a href="./communication-channels/mobile/in-app-message.md">
-      <img alt="In-App Messaging (tutorial)" src="./assets/In_app_Tutorial.png"/>
+      <img alt="In-App Messaging (tutorial)" src="./assets/in_app_tutorial.png"/>
     </a>
     <div>
       <a href="./communication-channels/mobile/in-app-message.md">
@@ -36,7 +36,7 @@ Adobe Campaign provides a platform for designing cross-channel customer experien
   </td>
    <td>
     <a href="./designing-content/email-designer/email-designer-overview.md">
-      <img alt="Email Designer (videos)" src="./assets/Email Designer Tutorial.png" />
+      <img alt="Email Designer (videos)" src="./assets/email_ designer_tutorial.png" />
     </a>
     <div>
       <a href="./designing-content/email-designer/email-designer-overview.md">
@@ -49,7 +49,7 @@ Adobe Campaign provides a platform for designing cross-channel customer experien
   </td>
   <td>
     <a href="./designing-content/product-listings-in-transactional-email.md">
-      <img alt="Personalize emails using dynamic content blocks (video)" src="./assets/ACS_Product Listings.png" />
+      <img alt="Personalize emails using dynamic content blocks (video)" src="./assets/acs_product_listings.png" />
     </a>
     <div>
       <a href="./designing-content/product-listings-in-transactional-email.md">

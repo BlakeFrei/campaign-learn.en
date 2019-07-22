@@ -21,8 +21,8 @@ This video explains the general functionality of the Email Designer and how to d
 
 ## Tutorials
 
- * [Content templates](/help/acs/designing-content/email-designer/email-content-templates.md)
- * [Configure the mobile view](/help/acs/designing-content/email-designer/configure-the-mobile-view.md)
- * [Preview your email](/help/acs/designing-content/email-designer/preview-your-email.md)
- * [Working with existing content](/help/acs/designing-content/email-designer/working-with-existing-content.md)
- * [Integrations with the Creative Cloud](/help/acs/designing-content/email-designer/integrations-with-the-adobe-creative-cloud.md)
+* [Content templates](/help/acs/designing-content/email-designer/email-content-templates.md)
+* [Configure the mobile view](/help/acs/designing-content/email-designer/configure-the-mobile-view.md)
+* [Preview your email](/help/acs/designing-content/email-designer/preview-your-email.md)
+* [Working with existing content](/help/acs/designing-content/email-designer/working-with-existing-content.md)
+* [Integrations with the Creative Cloud](/help/acs/designing-content/email-designer/integrations-with-the-adobe-creative-cloud.md)

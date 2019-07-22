@@ -4,9 +4,12 @@ seo-title: Managing services and subscriptions
 description: "Adobe Campaign allows you to create and manage newsletters and cross-channel communications, through a set of services: messages can only be sent to profiles who subscribed to the service (opt-in). These profiles are identified using a dedicated filter when creating a message.  Subscription mechanisms can be set up to offer your customers a chance to subscribe to these services, notably though emails and landing pages.  Each service comes with:  Subscription (opt-in) and unsubscription (opt-out) mechanisms.  Subscription and/or unsubscription confirmation mechanisms.  A subscription history. "
 seo-description: "Adobe Campaign allows you to create and manage newsletters and cross-channel communications, through a set of services: messages can only be sent to profiles who subscribed to the service (opt-in). These profiles are identified using a dedicated filter when creating a message.  Subscription mechanisms can be set up to offer your customers a chance to subscribe to these services, notably though emails and landing pages.  Each service comes with:  Subscription (opt-in) and unsubscription (opt-out) mechanisms.  Subscription and/or unsubscription confirmation mechanisms.  A subscription history. "
 uuid: cda76671-657e-4894-89de-0d9c3ad7c9ef
-products: SG_CAMPAIGN/STANDARD
 discoiquuid: 776b772e-51cf-4036-ae51-c426b3c38eb5
-targetaudience: target-audience new;target-audience ongoing
+feature: Subscriptions and Services
+kt: KT-1815
+doc-type: feature video
+activity: use
+team: DOC
 ---
 
 # Managing services and subscriptions{#managing-services-and-subscriptions}

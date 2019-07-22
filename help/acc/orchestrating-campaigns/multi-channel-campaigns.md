@@ -27,3 +27,4 @@ This video demonstrates how to create a multichannel campaign in Adobe Campaign 
 ## Additional Resources
 
 * [Design and Orchestrate Email Campaigns in Adobe Campaign Classic](https://helpx.adobe.com/campaign/classic/how-to/design-orchestrate-email-campaigns-in-campaign-classic.html)
+  

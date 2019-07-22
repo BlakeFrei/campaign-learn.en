@@ -1,9 +1,14 @@
 ---
-
 title: Custom Resources
 seo-title: Custom Resources
 description: Tutorial to create and link custom resources.
 seo-description: Tutorial to create and link custom resources
+feature: Customer Resources
+topics: Adding or extending
+kt: KT-2998
+doc-type: feature video
+activity: use
+team: TM
 ---
 
 # Custom Resources

@@ -7,7 +7,7 @@ uuid: e73e2288-85e2-45f4-9f13-2f1e89d30cca
 discoiquuid: 700ba7da-6734-450b-a054-e547454f706e
 feature: Control Panel
 topics: Control Panel
-kt: KT_2938
+kt: KT-2938
 doc-type: article
 activity: use
 team: PM

@@ -10,64 +10,54 @@ Adobe Campaign provides a platform for designing cross-channel customer experien
 
 ## What's new
 
-* [Call a workflow with parameters](/help/acs/managing-processes-and-data/external-signal-activity.md)
-* [Control Panel Overview](/help/acs/administrating/control-panel/control-panel-overview.md)
-* [Managing SFTP Servers](/help/acs/administrating/control-panel/cp-managing-sftp-servers.md)
-* [Trouble Shooting](/help/acs/administrating/control-panel/cp-trouble-shooting.md)
-
-
-## What's New
-
-* **[ Configure Push Channel using the Experience Platform Mobile SDK](/help/acc/sending-messages/mobile-channel/configure-push-using-aep-mobile-sdk.md)**
-    <br>
-    *The Adobe Campaign Classic extension for the Adobe Experience Platform Mobile SDK allows you configure your mobile applications directly from Adobe Launch. (Campaign Classic release 19.1)*
-
+* **[External Signal Activity - Call a workflow with parameters](/help/acs/managing-processes-and-data/external-signal-activity.md)**
+  <br>
+    *Learn how to configure a workflow to be triggered externally and receive parameters.*
 * **[Control Panel](/help/acs/administrating/control-panel/control-panel-overview.md)**
-    <br>
-    *The Control Panel allows Adobe Campaign administrators to easily monitor key assets as well as perform administrative tasks, like managing the SFTP storage by instance or whitelist IP addresses. (all versions)*
-
+  <br>
+    *Learn how to easily monitor key assets, as well as perform administrative tasks, such as SMPTP whitelisting, with the Control Panel.*
 
 ## Staff Picks
 
 <table>
 <tr>
   <td>
-    <a href="./monitoring-campaign-classic/workflow-heatmap.md">
-      <img alt="Workflow Heatmaps (video)" src="./assets/workflow-heatmap.png"/>
+    <a href="./communication-channels/mobile/in-app-message.md">
+      <img alt="In-App Messaging (tutorial)" src="./assets/In_app_Tutorial.png"/>
     </a>
     <div>
-      <a href="./monitoring-campaign-classic/workflow-heatmap.md">
-    <strong>Workflow Heatmaps</strong>
+      <a href="./communication-channels/mobile/in-app-message.md">
+    <strong>In-App Messaging (tutorial)</strong>
     </a>
     </div>
     <p>
-    <em>The Adobe Campaign Workflow Heatmap provides a quick overview on the number of concurrent workflows.</em>
+    <em>In-App Messaging is a channel that allows you to display a message when the user is active within a mobile application.</em>
     <p>
   </td>
    <td>
-    <a href="./monitoring-campaign-classic/workflow-heatmap.md">
-      <img alt="Audit Trail (video)" src="./assets/acc-audit-trail.png" />
+    <a href="./designing-content/email-designer/email-designer-overview.md">
+      <img alt="Email Designer (videos)" src="./assets/Email Designer Tutorial.png" />
     </a>
     <div>
-      <a href="./monitoring-campaign-classic/workflow-heatmap.md">
-    <strong>Audit Trail</strong>
+      <a href="./designing-content/email-designer/email-designer-overview.md">
+    <strong>Email Designer (videos)</strong>
     </a>
     </div>
     <p>
-    <em>Audit Trail captures, in real-time, a comprehensive list of actions and events occurring within Adobe Campaign.</em>
+    <em>The Email Designer enables the quick and effortless visual creation of individually personalized emails.</em>
     <p>
   </td>
   <td>
-    <a href="./sending-messages/personalization-with-dynamic-content-blocks.md">
-      <img alt="Personalize emails using dynamic content blocks (video)" src="./assets/ACC-Personalization.png" />
+    <a href="./designing-content/product-listings-in-transactional-email.md">
+      <img alt="Personalize emails using dynamic content blocks (video)" src="./assets/ACS_Product Listings.png" />
     </a>
     <div>
-      <a href="./sending-messages/personalization-with-dynamic-content-blocks.md">
-    <strong>Personalize emails using dynamic content blocks</strong>
+      <a href="./designing-content/product-listings-in-transactional-email.md">
+    <strong>Product Listings (tutorial)</strong>
     </a>
     </div>
     <p>
-    <em>Personalize content or the appearance of messages and combine them with criteria from recipient profiles. </em>
+    <em>Create transactional emails with a list of products and offerings. </em>
     <p>
   </td>
 </tr>
@@ -75,5 +65,4 @@ Adobe Campaign provides a platform for designing cross-channel customer experien
 
 ## Additional Resources
 
-* [Documentation](https://docs.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/overview.html)
-* [Adobe Campaign Standard Tutorials](/help/acs/overview.md)
+* [Documentation](https://docs.adobe.com/content/help/en/campaign-standard/using/campaign-standard-home.html)

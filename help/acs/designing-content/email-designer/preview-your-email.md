@@ -1,9 +1,14 @@
 ---
 title: Preview your email
 seo-title: Preview your email
-description: null
-seo-description: null
-products: SG_CAMPAIGN/STANDARD
+description: Preview your email
+seo-description: Preview your email
+feature: Email Designer 
+topics: Content Creation
+kt: KT-2393
+doc-type: feature video
+activity: use
+team: TM
 ---
 
 # Preview your email{#preview-your-email}

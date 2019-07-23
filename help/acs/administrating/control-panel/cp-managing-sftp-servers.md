@@ -4,9 +4,13 @@ seo-title: Managing SFTP Servers
 description: The Control Panel allows you to monitor and manage your SFTP storage by instance and whitelist IP addresses.
 seo-description: The Control Panel allows you to monitor and manage your SFTP storage by instance and whitelist IP addresses.
 uuid: e73e2288-85e2-45f4-9f13-2f1e89d30cca
-products: SG_CAMPAIGN/STANDARD
 discoiquuid: 700ba7da-6734-450b-a054-e547454f706e
-targetaudience: target-audience new;target-audience ongoing
+feature: SFTP Server Whitelisting
+topics: Control Panel
+kt: KT-3266
+doc-type: feature video
+activity: use
+team: PM
 ---
 
 # Managing SFTP Servers {#cp-managing-sftp-servers}
@@ -22,7 +26,6 @@ To access the Control Panel go to Experience Cloud Home: [https://experienceclou
 * Directly from the URL: `https://your_instance_URL/campaign/controlpanel`
 
 >[!VIDEO](https://video.tv.adobe.com/v/27270?quality=12)
-
 *This video explains how to access the Adobe Campaign Control Panel, monitor the storage of SFTP servers, whitelist an IP, as well as add an SSH Key (04:07 min)*
 
 >[!NOTE]
@@ -46,7 +49,6 @@ To access the Control Panel go to Experience Cloud Home: [https://experienceclou
 You need to be able to generate a SSH key. The video below explains how to generate a SSH key using a terminal.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27259?quality=12)
-
 *How to create a SSH key (2:16 min)*
 
 ## Connect to a SFTP Server

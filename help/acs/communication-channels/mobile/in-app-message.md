@@ -4,9 +4,13 @@ seo-title: In-App Messaging Tutorial
 description: In-App Messaging  allows you to present the user with contextually relevant In-App messages in response to a customer's real-time behavior within the mobile application.
 seo-description: In-App Messaging  allows you to present the user with contextually relevant In-App messages in response to a customer's real-time behavior within the mobile application.
 uuid: 50a13c41-88ad-43c4-8c42-d941bca2bf0a
-products: SG_CAMPAIGN/STANDARD
 discoiquuid: a3c10847-6163-4915-aae5-6200cd0474e5
-targetaudience: target-audience new;target-audience ongoing
+feature: In-App
+topics: Channels
+kt: KT-1911
+doc-type: feature video
+activity: use
+team: TM
 ---
 
 # In-App Messaging Tutorial{#in-app-messaging-tutorial}
@@ -20,17 +24,17 @@ This tutorial will explain the steps required to set up the mobile properties, t
 ## Prerequisites {#prerequisites}
 
 1. Make sure you can access the **In-App** channel. If you cannot access these channels, contact your account team.  
-1. Verify that your **user** has the necessary **permissions** in Adobe Campaign Standard and Launch.
+2. Verify that your **user** has the necessary **permissions** in Adobe Campaign Standard and Launch.
 
     1. In Adobe Campaign Standard, ensure that the IMS user is part of the Standard User and Administrator groups.  
        This step allows the user to log in to Adobe Campaign Standard, navigate to the Experience Platform SDK mobile app page, and view the mobile app properties that you created in Launch.
-    1. In Launch, ensure that your IMS user is part of a Launch product profile.  
+    2. In Launch, ensure that your IMS user is part of a Launch product profile.  
        This step allows the user to log in to Launch to create and view the properties. For more information about product profiles in Launch, see [Create your product profile](https://docs.adobelaunch.com/launch-reference/administration/user-permissions#3-create-your-product-profile). In the product profile, there should be no permissions set on the company or the properties, but the user should be able to still log in.
 
-1. In **Adobe Launch:**
+3. In **Adobe Launch:**
 
     1. create the mobile application by creating a mobile property and instrument your mobile app with Experience Platform SDK.
-    1. Install the **Adobe Campaign Standard** extension for your mobile application
+    2. Install the **Adobe Campaign Standard** extension for your mobile application
 
 For more on extensions, refer to the [Configure Campaign Standard Extension in Launch](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-campaign-standard) in Adobe Launch documentation.
 

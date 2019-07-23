@@ -54,7 +54,7 @@ audience: end-user
     + [Configure landing page templates](/help/acs/communication-channels/landing-pages/landing-page-configure-templates.md)
 + Designing and personalizing content {#designing-content}
   + EMail Designer{#email-designer}
-    + [Getting started](/help/acs/designing-content/email-designer/email-designer-getting-started.md)
+    + [Overview](/help/acs/designing-content/email-designer/email-designer-overview.md)
     + [Content templates](/help/acs/designing-content/email-designer/email-content-templates.md)
     + [Configure the mobile view](/help/acs/designing-content/email-designer/configure-the-mobile-view.md)
     + [Preview your email](/help/acs/designing-content/email-designer/preview-your-email.md)
@@ -72,6 +72,12 @@ audience: end-user
 + Developing {#developing}
   + Custom Resources {#custom-resources-develop}
     + [Introduction](/help/acs/managing-processes-and-data/custom-resources/custom-resources-overview.md)
++ Integrations {#integrations}
+  + Microsoft Dynamics 365 Connector {#microsoft-dynamics365-connector}
+    + [Introduction](/help/acs/integration/microsoft-dynamics-365-connector/introduction.md)
+    + [Configure Microsoft Dynamics 365](/help/acs/integration/microsoft-dynamics-365-connector/configure-microsoft-dynamics-365.md)
+    + [Configure Adobe IO](/help/acs/integration/microsoft-dynamics-365-connector/configure-adobe-io.md)
+    + [Configure Unifi](/help/acs/integration/microsoft-dynamics-365-connector/configure-unifi.md)
 + Administrating {#administrating}
   + [Access management](/help/acs/administrating/access-management.md)
   + Control Panel {#control-panel}

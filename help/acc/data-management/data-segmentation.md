@@ -4,8 +4,13 @@ seo-title: Adobe Campaign Classic and Data Segmentation
 description: Adobe Campaign allows you to do advanced segmentation through deep queries of the common consumer attributes and other data sources allowing you to create reusable lists, dynamically updating lists based on real-time changes to data, and even do more complex activities such as multi-variate testing on any of those data points. This tutorial explains the integrated customer profile, how to create and update the profiles and how to create customer segments based on these profiles. 
 seo-description: Adobe Campaign allows you to do advanced segmentation through deep queries of the common consumer attributes and other data sources allowing you to create reusable lists, dynamically updating lists based on real-time changes to data, and even do more complex activities such as multi-variate testing on any of those data points. This tutorial explains the integrated customer profile, how to create and update the profiles and how to create customer segments based on these profiles.
 uuid: a5b88127-5069-4620-a71e-5c35fbbe1f36
-products: SG_CAMPAIGN/CLASSIC
 discoiquuid: bf0ea5b2-a6d9-46bb-ae87-63b146754d07
+feature: Data segmentation
+topics: 
+kt: KT-1656
+doc-type: feature video
+activity: use
+team: evangelist
 ---
 
 # Data Segmentation
@@ -28,7 +33,7 @@ Adobe Campaign’s integrated customer profile enables marketers to both capture
 
 Once you have understood the profiles, you are ready to do advanced segmentation through deep queries of the common consumer attributes and other data sources. Allowing you to create reusable lists, dynamically updating lists based on real-time changes to data, and even do more complex activities such as multi-variate testing on any of those data points.
 
-Please note: This video was recorded in Adobe Campaign Classic V6, the functionality is excatly the same, however the workflow icons have changed.
+Please note: This video was recorded in Adobe Campaign Classic V6, the functionality is exactly the same, however the workflow icons have changed.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23635?quality=12)
 

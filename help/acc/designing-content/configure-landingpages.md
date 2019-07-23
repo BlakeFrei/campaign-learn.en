@@ -6,6 +6,12 @@ seo-description: Adobe Campaign Classic enables you to design and host a variety
 uuid: 3016d5a4-2edf-46f3-b332-b3b61d598f80
 products: SG_CAMPAIGN/CLASSIC
 discoiquuid: ca367cc3-b782-4fcc-b1ab-027aad5ef03c
+feature: Landing Pages
+topics: Configure
+kt: KT-1562
+doc-type: feature video
+activity: setup
+team: DOC
 ---
 
 # How to configure landing pages

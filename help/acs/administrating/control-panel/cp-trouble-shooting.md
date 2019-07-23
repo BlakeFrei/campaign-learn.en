@@ -4,9 +4,13 @@ seo-title: Trouble Shooting the Control Panel
 description: The Control Panel allows you to monitor and manage your SFTP storage by instance and whitelist IP addresses.
 seo-description: The Control Panel allows you to monitor and manage your SFTP storage by instance and whitelist IP addresses.
 uuid: e73e2288-85e2-45f4-9f13-2f1e89d30cca
-products: SG_CAMPAIGN/STANDARD
 discoiquuid: 700ba7da-6734-450b-a054-e547454f706e
-targetaudience: target-audience new;target-audience ongoing
+feature: Control Panel
+topics: Control Panel
+kt: KT-2938
+doc-type: article
+activity: use
+team: PM
 ---
 
 # Trouble Shooting the Control Panel
@@ -37,11 +41,9 @@ The Administrator needs to add the user to the Product Profile “Campaign-xxx-A
 ### Helpful videos
 
 >[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
-
 *Check IMS Org ID (00:26 min)*
 
 >[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
-
 *How to add an administrator to the product profile "administrators" to be able to use Control panel (01:03 min)*
 
 ### Helpful Documentation

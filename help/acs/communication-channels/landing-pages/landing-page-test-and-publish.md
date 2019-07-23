@@ -2,9 +2,13 @@
 title: Test and publish a landing page
 seo-title: Test and publish a landing page
 uuid: 410b8e37-b9b6-4763-988c-31312c1dc8a6
-products: SG_CAMPAIGN/STANDARD
 discoiquuid: b7dd29cf-cb56-4e6b-8050-400293a2e5e5
-targetaudience: target-audience new;target-audience ongoing
+feature: Landing Pages
+topics: Channels
+kt: KT-1813
+doc-type: feature video
+activity: use
+team: DOC
 ---
 
 # Test and publish a landing page {#test-and-publish-a-landing-page}

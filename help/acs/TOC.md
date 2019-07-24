@@ -33,18 +33,17 @@ user-guide-url: https://docs.adobe.com/content/help/en/campaign-learn/campaign-s
     + [Creating Multi-lingual Email and SMS Deliveries](/help/acs/communication-channels/create-multilingual-deliveries.md)
   + Mobile {#mobile}
     + SMS {#SMS}
-      + [SMS](/help/acs/communication-channels/mobile/sms-delivery.md)
+      + [SMS](/help/acs/communication-channels/mobile/sms/sms-delivery.md)
       + [Creating Multi-lingual Email and SMS Deliveries](/help/acs/communication-channels/create-multilingual-deliveries.md)
     + Push Notifications {#push}
-      + [Multi-lingual Push](/help/acs/communication-channels/mobile/Push/create-multilingual-push.md)
+      + [Multi-lingual Push](/help/acs/communication-channels/mobile/push/create-multilingual-push.md)
     + In-App Messages {#in-app}
       + [Overview](/help/acs/communication-channels/mobile/in-app/in-app-message-overview.md)
       + [Configure Events](/help/acs/communication-channels/mobile/in-app/configure-events.md)
-      + [Configure a mobile application using Adobe Experience Platform SDK](/help/acs/communication-channels/mobile/configure-mobile-app-using-aep-SDK.md)
       + [Create, manage, and publish In-App messages](/help/acs/communication-channels/mobile/in-app/create-manage-publish-in-app-messages.md)
       + [Create an In-App delivery within a workflow](/help/acs/communication-channels/mobile/in-app/in-app-activity.md)
       + [Report on your In-App delivery](/help/acs/communication-channels/mobile/in-app/in-app-reporting.md)
-    + [Configure a mobile application using Adobe Experience Platform SDK](/help/acs/communication-channels/mobile/configure-mobile-app-using-aep-SDK.md)
+    + [Configure a mobile application using Adobe Experience Platform SDK](/help/acs/communication-channels/mobile/configure-mobile-app-using-aep-sdk.md)
   + [Direct mail](/help/acs/communication-channels/direct-mail/directmail.md)
   + Transactional messaging {#transactional-messaging}
     + [Product listings in transactional emails](/help/acs/designing-content/product-listings-in-transactional-email.md)

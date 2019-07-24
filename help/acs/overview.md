@@ -10,6 +10,9 @@ Adobe Campaign provides a platform for designing cross-channel customer experien
 
 ## What's new
 
+* **[External API Activity (beta)](./managing-processes-and-data/external-api-activity.md)**
+    <br>
+    *Learn how to easily integrate Adobe Campaign Standard into your technology ecosystem for real-time personalization.*
 * **[External Signal Activity - Call a workflow with parameters](./managing-processes-and-data/external-signal-activity.md)**
   <br>
     *Learn how to configure a workflow to be triggered externally and receive parameters.*

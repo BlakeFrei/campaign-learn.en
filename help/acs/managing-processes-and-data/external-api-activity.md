@@ -1,6 +1,6 @@
 ---
-title: Configure and run workflow with API activity
-seo-title: Configure and run workflow with API activity
+title: Configure and run workflow with the External API activity
+seo-title: Configure and run workflow with the External API activity
 description: The External API activity allows easy data ingress and egress with REST API systems for batch and blast workflows. 
 seo-description: The External API activity allows easy data ingress and egress with REST API systems for batch and blast workflows. 
 feature: Data Management
@@ -11,7 +11,7 @@ activity: use
 team: TM
 ---
 
-# Configure and run workflow with API activity (beta)
+# Configure and run workflow with the External API activity (beta)
 
 The External API activity allows easy data ingress and egress with REST API systems for batch and blast workflows. 
 

@@ -70,6 +70,7 @@ audience: end-user
   + [External API Activity (beta)](/help/acs/managing-processes-and-data/external-api-activity.md)
 + Reporting {#reporting}
   + [Creating a Dynamic Report](/help/acs/reporting/creating-a-dynamic-report.md)
+  + [Creating Dynamic Report Using Custom Profile Attributes](/help/acs/reporting/custom-profile-attributes-dynamic-reports.md)
 + Developing {#developing}
   + Custom Resources {#custom-resources-develop}
     + [Introduction](/help/acs/managing-processes-and-data/custom-resources/custom-resources-overview.md)

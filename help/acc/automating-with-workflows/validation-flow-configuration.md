@@ -36,7 +36,7 @@ If you have the same set of reviewers for all deliveries in your campaign workfl
 
 You can also set up approvals at a delivery level. If delivery approvals steps and reviewers differ from the campaign approval steps and reviewers, the delivery settings will override the campaign settings.
 
->[!VIDEO](https://video.tv.adobe.com/v/25176?quality =12)
+>[!VIDEO](https://video.tv.adobe.com/v/25176?quality=12)
 
 ## Configuring an approval activity  {#configuring-an-approval-activity}
 

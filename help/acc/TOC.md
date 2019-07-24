@@ -1,18 +1,7 @@
 ---
-cloud: experience-cloud
-product: campaign
+sub-product: Campaign Classic
 user-guide-title: Adobe Campaign Classic Tutorials
-solution-title: Campaign Classic
-solution-hub-url: https://helpx.adobe.com/support/campaign/classic.html
-solution-image: assets/ac-icon-24.png
-getting-started-title: Getting Started
-getting-started-url: https://docs.campaign.adobe.com/doc/AC/en/PTF_Starting_with_Adobe_Campaign_About_Adobe_Campaign_Classic.html 
-tutorials-title: Tutorials
-tutorials-url: https://docs.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/overview.html
-mini-toc-levels: 2
-git-repo: https://github.com/AdobeDocs/campaign-learn.en
-index: yes
-audience: end-user
+user-guide-url: https://docs.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/overview.html
 ---
 
 # Adobe Campaign Classic Tutorials {#campaign-classic-tutorials}
@@ -54,7 +43,8 @@ audience: end-user
 + Monitoring {#monitoring}
   + [Workflow Heatmap](/help/acc/monitoring-campaign-classic/workflow-heatmap.md)
   + [Audit Trail](/help/acc/monitoring-campaign-classic/audit-trail.md)
-+ [How to Integrate Dynamics 365 with Adobe Campaign Classic](/help/acc/integrations/dynamics365-integration.md)
++ Integrations {#integrations}
+  + [How to Integrate Dynamics 365 with Adobe Campaign Classic](/help/acc/integrations/dynamics365-integration.md)
 + Administrating {#administrating}
   + Control Panel {#control-panel-acc}
     + [Control Panel Overview](/help/acc/monitoring-campaign-classic/control-panel/control-panel-overview.md)

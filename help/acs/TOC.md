@@ -67,6 +67,7 @@ audience: end-user
   + Custom Resources {#custom-resources-processes}
     + [Custom Resources Overview](/help/acs/managing-processes-and-data/custom-resources/custom-resources-overview.md)
   + [External Signal Activity](/help/acs/managing-processes-and-data/external-signal-activity.md)
+  + [External API Activity (beta)](/help/acs/managing-processes-and-data/external-api-activity.md)
 + Reporting {#reporting}
   + [Creating a Dynamic Report](/help/acs/reporting/creating-a-dynamic-report.md)
 + Developing {#developing}

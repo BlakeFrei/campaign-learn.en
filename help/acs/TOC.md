@@ -70,6 +70,7 @@ user-guide-url: https://docs.adobe.com/content/help/en/campaign-learn/campaign-s
   + [In-App Activity](/help/acs/communication-channels/mobile/in-app/in-app-activity.md)
 + Reporting {#reporting}
   + [Creating a Dynamic Report](/help/acs/reporting/creating-a-dynamic-report.md)
+  + [Creating Dynamic Report Using Custom Profile Attributes](/help/acs/reporting/custom-profile-attributes-dynamic-reports.md)
   + [In-App Reports](/help/acs/communication-channels/mobile/in-app/in-app-reporting.md)
 + Developing {#developing}
   + Custom Resources {#custom-resources-develop}

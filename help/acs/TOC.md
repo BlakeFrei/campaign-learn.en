@@ -36,7 +36,7 @@ user-guide-url: https://docs.adobe.com/content/help/en/campaign-learn/campaign-s
       + [SMS](/help/acs/communication-channels/mobile/sms/sms-delivery.md)
       + [Creating Multi-lingual Email and SMS Deliveries](/help/acs/communication-channels/create-multilingual-deliveries.md)
     + Push Notifications {#push}
-      + [Multi-lingual Push](/help/acs/communication-channels/mobile/push/create-multilingual-push.md)
+      + [Multi-lingual Push](/help/acs/communication-channels/mobile/push-notifications/create-multilingual-push.md)
     + In-App Messages {#in-app}
       + [Overview](/help/acs/communication-channels/mobile/in-app/in-app-message-overview.md)
       + [Configure Events](/help/acs/communication-channels/mobile/in-app/configure-events.md)

@@ -38,7 +38,7 @@ For more on extensions, refer to the [Configure Campaign Standard Extension in L
 
 ## Steps to Set Up In-App Messages
 
-1. [Configure a mobile application using Adobe Experience Platform SDK](/help/acs/communication-channels/mobile/configure-mobile-app-using-aep-SDK.md)
+1. [Configure a mobile application using Adobe Experience Platform SDK](/help/acs/communication-channels/mobile/configure-mobile-apps-using-aep-sdk.md)
 2. [Configure Events](/help/acs/communication-channels/mobile/in-app/configure-events.md)
 3. [Create, manage, and publish In-App messages](/help/acs/communication-channels/mobile/in-app/create-manage-publish-in-app-messages.md)
 4. [Create an In-App delivery within a workflow](/help/acs/communication-channels/mobile/in-app/in-app-activity.md)

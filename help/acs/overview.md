@@ -25,11 +25,11 @@ Adobe Campaign provides a platform for designing cross-channel customer experien
 <table>
 <tr>
   <td>
-    <a href="./communication-channels/mobile/in-app-message.md">
+    <a href="./communication-channels/mobile/in-app-message-overview.md">
       <img alt="In-App Messaging (tutorial)" src="./assets/in_app_messaging.png"/>
     </a>
     <div>
-      <a href="./communication-channels/mobile/in-app-message.md">
+      <a href="./communication-channels/mobile/in-app-message-overview.md">
     <strong>In-App Messaging (tutorial)</strong>
     </a>
     </div>

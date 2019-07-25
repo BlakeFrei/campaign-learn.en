@@ -10,6 +10,9 @@ Adobe Campaign provides a platform for designing cross-channel customer experien
 
 ## What's new
 
+* **[External API Activity (beta)](./managing-processes-and-data/external-api-activity.md)**
+    <br>
+    *Learn how to easily bring data into the workflow from an external system via a REST API call.*
 * **[External Signal Activity - Call a workflow with parameters](./managing-processes-and-data/external-signal-activity.md)**
   <br>
     *Learn how to configure a workflow to be triggered externally and receive parameters.*
@@ -22,11 +25,11 @@ Adobe Campaign provides a platform for designing cross-channel customer experien
 <table>
 <tr>
   <td>
-    <a href="./communication-channels/mobile/in-app-message.md">
+    <a href="./communication-channels/mobile/in-app/in-app-message-overview.md"> 
       <img alt="In-App Messaging (tutorial)" src="./assets/in_app_messaging.png"/>
     </a>
     <div>
-      <a href="./communication-channels/mobile/in-app-message.md">
+      <a href="./communication-channels/mobile/in-app/in-app-message-overview.md">
     <strong>In-App Messaging (tutorial)</strong>
     </a>
     </div>

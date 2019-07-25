@@ -6,6 +6,7 @@ seo-description: When setting up ACS for GDPR you need to ensure that any custom
 uuid: a8a4a7d7-18a1-4631-9623-cff0c30042ac
 discoiquuid: 53bca09d-1a6b-42a9-a849-895773719eaa
 feature: GDPR
+topic: Compliance
 kt: KT-1243
 doc-type: feature video
 activity: use

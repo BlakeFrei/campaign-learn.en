@@ -35,7 +35,7 @@ In order to help you facilitate your GDPR readiness, Adobe Campaign allows you t
 
 >[!VIDEO](https://video.tv.adobe.com/v/22677?quality=12)
 
-**Execute a GDPR Request
+**4.Execute a GDPR Request**
 In Adobe Campaign privacy requests are executed by workflows. This video describes which workflows access and delete requests and what happens when they are executed.
 
 >[!VIDEO](https://video.tv.adobe.com/v/22770?quality=12)

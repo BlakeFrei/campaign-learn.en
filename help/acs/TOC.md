@@ -2,6 +2,12 @@
 sub-product: Campaign Standard
 user-guide-title: Adobe Campaign Standard Tutorials
 user-guide-url: https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/overview.html
+experience-league-title: Experience League
+experience-league-url: https://experienceleague.adobe.com/?tag=Campaign+Standard#recommended/solutions/campaign
+tutorials-title: Tutorials
+tutorials-url: https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/overview.html
+documentation-title: Documentation
+documentation-url: https://docs.adobe.com/content/help/en/campaign-standard/using/campaign-standard-home.html
 ---
 
 # Adobe Campaign Standard Tutorials {#campaign-standard-tutorials}
@@ -33,7 +39,7 @@ user-guide-url: https://docs.adobe.com/content/help/en/campaign-learn/campaign-s
     + [Creating Multi-lingual Email and SMS Deliveries](/help/acs/communication-channels/create-multilingual-deliveries.md)
   + Mobile {#mobile}
     + SMS{#sms}
-      + [SMS](/help/acs/communication-channels/mobile/sms/sms-delivery.md)
+      + [Creating a SMS Delivery](/help/acs/communication-channels/mobile/sms/sms-delivery.md)
       + [Creating Multi-lingual Email and SMS Deliveries](/help/acs/communication-channels/create-multilingual-deliveries.md)
     + Push Notifications {#push}
       + [Multi-lingual Push](/help/acs/communication-channels/mobile/push-notifications/create-multilingual-push.md)
@@ -88,9 +94,9 @@ user-guide-url: https://docs.adobe.com/content/help/en/campaign-learn/campaign-s
     + [Add URL Permissions](/help/acc/monitoring-campaign-classic/control-panel/control-panel-url-permissions.md)
     + [Trouble Shooting](/help/acs/administrating/control-panel/cp-trouble-shooting.md)
 + Compliance {#compliance}
-+ General Data Protection Regulation (GDPR) {#gdpr}
-  + [Create GDPR Requests with the Campaign Standard User Interface](/help/acs/compliance/gdpr/gdpr-overview.md)
-  + [Namespaces for GDPR](/help/acs/compliance/gdpr/gdpr-namespaces.md)
-  + [Create custom resources for GDPR](/help/acs/compliance/gdpr/gdpr-custom-resources.md)
-  + [Create and track GDPR requests](/help/acs/compliance/gdpr/create-and-track-gdpr-requests.md)
-  + [Execute GDPR requests](/help/acs/compliance/gdpr/gdpr-execute-requests.md)
+  + General Data Protection Regulation (GDPR) {#gdpr}
+    + [Create GDPR Requests with the Campaign Standard User Interface](/help/acs/compliance/gdpr/gdpr-overview.md)
+    + [Namespaces for GDPR](/help/acs/compliance/gdpr/gdpr-namespaces.md)
+    + [Create custom resources for GDPR](/help/acs/compliance/gdpr/gdpr-custom-resources.md)
+    + [Create and track GDPR requests](/help/acs/compliance/gdpr/create-and-track-gdpr-requests.md)
+    + [Execute GDPR requests](/help/acs/compliance/gdpr/gdpr-execute-requests.md)

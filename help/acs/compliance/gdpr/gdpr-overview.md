@@ -1,10 +1,8 @@
 ---
 title: How to Create General Data Protection Regulation (GDPR) Requests with the Adobe Campaign Standard User Interface
 seo-title: How to Create General Data Protection Regulation (GDPR) Requests with the Adobe Campaign Standard User Interface
-description: Adobe Campaign offers Data Controllers three possibilities for performing GDPR access requests -
-Via the Privacy Core Service integration, the Adobe Campaign interface, the API. The tutorial explains how the create GDPR requests via the Adobe Campaign Standard interface.
-seo-description: Adobe Campaign offers Data Controllers three possibilities for performing GDPR access requests -
-Via the Privacy Core Service integration, the Adobe Campaign interface, the API. The tutorial explains how the create GDPR requests via the Adobe Campaign Standard interface.
+description: The tutorial explains how the create GDPR requests via the Adobe Campaign Standard interface
+seo-description: The tutorial explains how the create GDPR requests via the Adobe Campaign Standard interface
 feature: GDPR
 topic: Compliance
 kt: KT-1480

@@ -5,7 +5,7 @@ user-guide-url: https://docs.adobe.com/content/help/en/campaign-learn/campaign-c
 solution-title: Experience League
 solution-hub-url: https://experienceleague.adobe.com/?tag=Campaign+Classic#recommended/solutions/campaign
 getting-started-title: Tutorials
-getting-started-url: https://docs-stg.corp.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/overview.html
+getting-started-url: https://docs.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/overview.html
 tutorials-title: Documentation
 tutorials-url: https://docs.campaign.adobe.com/doc/AC/en/PTF_Starting_with_Adobe_Campaign_About_Adobe_Campaign_Classic.html
 ---

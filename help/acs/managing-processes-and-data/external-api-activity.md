@@ -33,6 +33,7 @@ Example use cases:
 >This capability is currently in public beta. You need to accept the usage agreement before starting using the External API activity. Please note that since this public
 >beta capability has not yet been commercially released by Adobe, it is not supported by Adobe Client Care, it may contain errors and may not function as well as other released features.
 >
+
 ## Additional Resources
 
 * [External API (Documentation)](https://docs.adobe.com/content/help/en/campaign-standard/using/managing-processes-and-data/data-management-activities/external-api.html)

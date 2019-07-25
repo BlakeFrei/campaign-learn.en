@@ -1,14 +1,8 @@
 ---
 cloud: experience-cloud
 product: campaign
-user-guide-title: Adobe Campaign Classic Tutorials
-solution-title: Campaign Classic
-experience-league-title: Experience League
-experience-league-url: https://experienceleague.adobe.com/?tag=Campaign+Classic#recommended/solutions/campaign
-tutorials-title: Tutorials
-tutorials-url: https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/overview.html
-documentation-title: Documentation
-documentation-url: https://docs.campaign.adobe.com/doc/AC/en/PTF_Starting_with_Adobe_Campaign_About_Adobe_Campaign_Classic.html
+solution-title: Campaign 
+mini-toc-levels: 3
 git-repo: https://github.com/AdobeDocs/campaign-learn.en
 index: yes
 ---

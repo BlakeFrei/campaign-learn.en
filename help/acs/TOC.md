@@ -64,7 +64,8 @@ user-guide-url: https://docs.adobe.com/content/help/en/campaign-learn/campaign-s
   + [Create a workflow](/help/acs/managing-processes-and-data/create-workflow.md)
   + [Importing profiles with a workflow](/help/acs/managing-processes-and-data/importing-profiles.md)
   + Custom Resources {#custom-resources-processes}
-    + [Custom Resources Overview](/help/acs/managing-processes-and-data/custom-resources/custom-resources-overview.md)
+    + [Working with Custom Resources​](/help/acs/managing-processes-and-data/custom-resources/custom-resources.md)
+    + [Create custom resources for GDPR](/help/acs/gdpr/gdpr-custom-resources.md)
   + [External Signal Activity](/help/acs/managing-processes-and-data/external-signal-activity.md)
   + [External API Activity (beta)](/help/acs/managing-processes-and-data/external-api-activity.md)
   + [In-App Activity](/help/acs/communication-channels/mobile/in-app/in-app-activity.md)
@@ -75,6 +76,7 @@ user-guide-url: https://docs.adobe.com/content/help/en/campaign-learn/campaign-s
 + Developing {#developing}
   + Custom Resources {#custom-resources-develop}
     + [Introduction](/help/acs/managing-processes-and-data/custom-resources/custom-resources-overview.md)
+    + [Custom resources for GDPR](/help/acs/gdpr/gdpr-custom-resources.md)
 + Integrating {#integrations}
   + Microsoft Dynamics 365 Connector {#microsoft-dynamics365-connector}
     + [Introduction](/help/acs/integration/microsoft-dynamics-365-connector/introduction.md)
@@ -88,8 +90,9 @@ user-guide-url: https://docs.adobe.com/content/help/en/campaign-learn/campaign-s
     + [Managing SFTP Servers](/help/acs/administrating/control-panel/cp-managing-sftp-servers.md)
     + [Add URL Permissions](/help/acc/monitoring-campaign-classic/control-panel/control-panel-url-permissions.md)
     + [Trouble Shooting](/help/acs/administrating/control-panel/cp-trouble-shooting.md)
-+ GDPR {#gdpr}
++ General Data Protection Regulation (GDPR) {#gdpr}
+  + [Create GDPR Requests with the Campaign Standard User Interface]/(help/acs/gdpr/gdpr-overview.md)
   + [Namespaces for GDPR](/help/acs/gdpr/gdpr-namespaces.md)
-  + [Custom resources for GDPR](/help/acs/gdpr/gdpr-custom-resources.md)
+  + [Create custom resources for GDPR](/help/acs/gdpr/gdpr-custom-resources.md)
   + [Create and track GDPR requests](/help/acs/gdpr/create-and-track-gdpr-requests.md)
   + [Execute GDPR requests](/help/acs/gdpr/gdpr-execute-requests.md)

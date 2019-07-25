@@ -6,7 +6,7 @@ seo-description: In order to help you facilitate your GDPR readiness, Adobe Camp
 uuid: 5b2178f6-bb55-45e1-8353-def7963b6336
 discoiquuid: 94e6e37c-df5b-418e-bd7b-5934b68ae1b3
 feature: GDPR
-topic
+topic: Compliance
 kt: KT-1242
 doc-type: feature video
 activity: use

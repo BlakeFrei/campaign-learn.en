@@ -25,6 +25,7 @@ Example use cases:
 * Checking the weather in local regions and using it to personalize content (each zip code used could potentially retrieve its own local temperature
   
   >[!VIDEO](https://video.tv.adobe.com/v/28200/?quality=12)
+  
   *External API Activity (min 04:12)*
 
 >[!NOTE]

@@ -4,7 +4,7 @@ seo-title: Create namespaces for GDPR requests
 uuid: 28070df7-49bd-4582-b1be-a48e0e0708cc
 discoiquuid: 22e136d0-0da2-445c-82b3-10986c19a389
 feature: GDPR
-topics: topic
+topic: Compliance
 kt: KT-1460
 doc-type: feature video
 activity: use
@@ -19,6 +19,6 @@ This videos show how to create namespaces for GDPR requests.
 
 >[!VIDEO](https://video.tv.adobe.com/v/22600?quality=12)
 
-## Supporting materials {#supporting-materials}
+## Additional Resources 
 
 * [Detailed information on Campaign Standard - General Data Protection Regulation](https://docs.campaign.adobe.com/doc/standard/getting_started/en/ACS_GDPR.html)

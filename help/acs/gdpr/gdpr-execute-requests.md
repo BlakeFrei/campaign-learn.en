@@ -6,6 +6,7 @@ seo-description: In Adobe Campaign privacy requests are executed by workflows. T
 uuid: dc9fd5df-5470-47a0-b71c-10ecfbfec080
 discoiquuid: b3adedce-4942-47a5-b75f-4e3aa2f5c77c
 feature: GDPR
+topic: Compliance
 kt: KT-1525
 doc-type: feature video
 activity: use

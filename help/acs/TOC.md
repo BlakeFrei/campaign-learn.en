@@ -94,9 +94,9 @@ documentation-url: https://docs.adobe.com/content/help/en/campaign-standard/usin
     + [Add URL Permissions](/help/acc/monitoring-campaign-classic/control-panel/control-panel-url-permissions.md)
     + [Trouble Shooting](/help/acs/administrating/control-panel/cp-trouble-shooting.md)
 + Compliance {#compliance}
-+ General Data Protection Regulation (GDPR) {#gdpr}
-  + [Create GDPR Requests with the Campaign Standard User Interface](/help/acs/compliance/gdpr/gdpr-overview.md)
-  + [Namespaces for GDPR](/help/acs/compliance/gdpr/gdpr-namespaces.md)
-  + [Create custom resources for GDPR](/help/acs/compliance/gdpr/gdpr-custom-resources.md)
-  + [Create and track GDPR requests](/help/acs/compliance/gdpr/create-and-track-gdpr-requests.md)
-  + [Execute GDPR requests](/help/acs/compliance/gdpr/gdpr-execute-requests.md)
+  + General Data Protection Regulation (GDPR) {#gdpr}
+    + [Create GDPR Requests with the Campaign Standard User Interface](/help/acs/compliance/gdpr/gdpr-overview.md)
+    + [Namespaces for GDPR](/help/acs/compliance/gdpr/gdpr-namespaces.md)
+    + [Create custom resources for GDPR](/help/acs/compliance/gdpr/gdpr-custom-resources.md)
+    + [Create and track GDPR requests](/help/acs/compliance/gdpr/create-and-track-gdpr-requests.md)
+    + [Execute GDPR requests](/help/acs/compliance/gdpr/gdpr-execute-requests.md)

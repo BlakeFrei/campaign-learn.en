@@ -1,6 +1,6 @@
 ---
-title: Configuring a mobile application using Adobe Experience Platform SDK
-seo-title: Configuring a mobile application using Adobe Experience Platform SDK
+title: Configuring mobile applications using Adobe Experience Platform SDK
+seo-title: Configuring mobile applications using Adobe Experience Platform SDK
 description: To send In-App Messages or Push Notifications with an Experience Cloud SDK application, a mobile app has to be set up in Adobe Experience Platform Launch and be configured in Adobe Campaign
 seo-description: To send In-App Messages or Push Notifications with an Experience Cloud SDK application, a mobile app has to be set up in Adobe Experience Platform Launch and be configured in Adobe Campaign
 feature: Mobile SDK
@@ -11,7 +11,7 @@ activity: use
 team: TM
 ---
 
-# Configuring a mobile application using Adobe Experience Platform SDK {#configuring-a-mobile-application-using-adobe-experience-platform-sdk}
+# Configuring mobile applications using Adobe Experience Platform SDK {#configuring-a-mobile-application-using-adobe-experience-platform-sdk}
 
 To send In-App Messages or Push Notifications with an Experience Cloud SDK application, a mobile app has to be set up in Adobe Experience Platform Launch and be configured in Adobe Campaign.
 

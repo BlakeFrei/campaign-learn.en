@@ -75,7 +75,7 @@ user-guide-url: https://docs.adobe.com/content/help/en/campaign-learn/campaign-s
 + Developing {#developing}
   + Custom Resources {#custom-resources-develop}
     + [Introduction](/help/acs/managing-processes-and-data/custom-resources/custom-resources-overview.md)
-+ Integrations {#integrations}
++ Integrating {#integrations}
   + Microsoft Dynamics 365 Connector {#microsoft-dynamics365-connector}
     + [Introduction](/help/acs/integration/microsoft-dynamics-365-connector/introduction.md)
     + [Configure Microsoft Dynamics 365](/help/acs/integration/microsoft-dynamics-365-connector/configure-microsoft-dynamics-365.md)

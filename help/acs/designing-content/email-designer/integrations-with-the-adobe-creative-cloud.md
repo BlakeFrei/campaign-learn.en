@@ -1,8 +1,8 @@
 ---
 title: Integrations with the Adobe Creative Cloud
 seo-title: Integrations with the Adobe Creative Cloud
-feature: Email Designer 
-topics: Content Creation
+feature: Dreamweaver Integration 
+topics: Email Designer
 kt: KT-1427
 doc-type: feature video
 activity: use

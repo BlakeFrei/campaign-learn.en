@@ -5,7 +5,7 @@ description: This feature allows you to create transactional emails with a list 
 seo-description: This feature allows you to create transactional emails with a list of products and offerings.
 uuid: 04910914-d6e9-4196-bf6f-1d9dac8c18bd
 discoiquuid: 05d7c4ec-8ce0-48cf-b89e-4fc9f8760bc1
-feature: TRansactional Emails
+feature: Transactional Emails
 topics: Content Creation
 kt: KT-1728
 doc-type: feature video

@@ -39,7 +39,7 @@ documentation-url: https://docs.adobe.com/content/help/en/campaign-standard/usin
     + [Creating Multi-lingual Email and SMS Deliveries](/help/acs/communication-channels/create-multilingual-deliveries.md)
   + Mobile {#mobile}
     + SMS{#sms}
-      + [SMS](/help/acs/communication-channels/mobile/sms/sms-delivery.md)
+      + [Creating a SMS Delivery](/help/acs/communication-channels/mobile/sms/sms-delivery.md)
       + [Creating Multi-lingual Email and SMS Deliveries](/help/acs/communication-channels/create-multilingual-deliveries.md)
     + Push Notifications {#push}
       + [Multi-lingual Push](/help/acs/communication-channels/mobile/push-notifications/create-multilingual-push.md)

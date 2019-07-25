@@ -32,7 +32,7 @@ user-guide-url: https://docs.adobe.com/content/help/en/campaign-learn/campaign-s
     + [Sending a test, preparing and sending an email](/help/acs/communication-channels/email/sending-test-preparing-sending-email.md)
     + [Creating Multi-lingual Email and SMS Deliveries](/help/acs/communication-channels/create-multilingual-deliveries.md)
   + Mobile {#mobile}
-    + SMS {#SMS}
+    + SMS{#sms}
       + [SMS](/help/acs/communication-channels/mobile/sms/sms-delivery.md)
       + [Creating Multi-lingual Email and SMS Deliveries](/help/acs/communication-channels/create-multilingual-deliveries.md)
     + Push Notifications {#push}
@@ -87,7 +87,7 @@ user-guide-url: https://docs.adobe.com/content/help/en/campaign-learn/campaign-s
     + [Managing SFTP Servers](/help/acs/administrating/control-panel/cp-managing-sftp-servers.md)
     + [Add URL Permissions](/help/acc/monitoring-campaign-classic/control-panel/control-panel-url-permissions.md)
     + [Trouble Shooting](/help/acs/administrating/control-panel/cp-trouble-shooting.md)
-+ Compliance
++ Compliance {#compliance}
 + General Data Protection Regulation (GDPR) {#gdpr}
   + [Create GDPR Requests with the Campaign Standard User Interface](/help/acs/compliance/gdpr/gdpr-overview.md)
   + [Namespaces for GDPR](/help/acs/compliance/gdpr/gdpr-namespaces.md)

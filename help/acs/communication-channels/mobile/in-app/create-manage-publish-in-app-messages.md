@@ -1,8 +1,8 @@
 ---
 title: Create, manage, and publish In-App messages
 seo-title: Create, manage, and publish In-App messages
-description:With this channel, you will have the option to target your users through different delivery templates
-seo-description:With this channel, you will have the option to target your users through different delivery templates
+description: With this channel, you will have the option to target your users through different delivery templates
+seo-description: With this channel, you will have the option to target your users through different delivery templates
 feature: In-App
 topics: Channels
 kt: KT-1911

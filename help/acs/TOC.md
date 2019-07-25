@@ -43,7 +43,7 @@ user-guide-url: https://docs.adobe.com/content/help/en/campaign-learn/campaign-s
       + [Create, manage, and publish In-App messages](/help/acs/communication-channels/mobile/in-app/create-manage-publish-in-app-messages.md)
       + [Create an In-App delivery within a workflow](/help/acs/communication-channels/mobile/in-app/in-app-activity.md)
       + [Report on your In-App delivery](/help/acs/communication-channels/mobile/in-app/in-app-reporting.md)
-    + [Configure a mobile application using Adobe Experience Platform SDK](/help/acs/communication-channels/mobile/configure-mobile-app-using-aep-sdk.md)
+    + [Configure a mobile application using Adobe Experience Platform SDK](/help/acs/communication-channels/mobile/configure-mobile-apps-using-aep-sdk.md)
   + [Direct mail](/help/acs/communication-channels/direct-mail/directmail.md)
   + Transactional messaging {#transactional-messaging}
     + [Product listings in transactional emails](/help/acs/designing-content/product-listings-in-transactional-email.md)

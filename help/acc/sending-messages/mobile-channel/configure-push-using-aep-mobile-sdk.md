@@ -3,8 +3,8 @@ title: Configure the Push Channel using the Experience Platform Mobile SDK
 seo-title: Configure the Push Channel using the Experience Platform Mobile SDK 
 description: This video explains how to configure the Push channel for Campaign Classic using the Experience Cloud Mobile SDK. 
 seo-description: This video explains how to configure the Push channel for Campaign Classic using the Experience Cloud Mobile SDK.
-feature: Push
-topics: Configure
+feature: Mobile SDK
+topics: AEP
 kt: KT-2683
 doc-type: feature video
 activity: setup

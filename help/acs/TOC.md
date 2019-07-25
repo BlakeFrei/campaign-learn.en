@@ -63,9 +63,6 @@ user-guide-url: https://docs.adobe.com/content/help/en/campaign-learn/campaign-s
 + Managing processes and data {#managing-processes-and-data}
   + [Create a workflow](/help/acs/managing-processes-and-data/create-workflow.md)
   + [Importing profiles with a workflow](/help/acs/managing-processes-and-data/importing-profiles.md)
-  + Custom Resources {#custom-resources-processes}
-    + [Working with Custom Resources​](/help/acs/managing-processes-and-data/custom-resources/working-with-custom-resources.md)
-    + [Create custom resources for GDPR](/help/acs/gdpr/gdpr-custom-resources.md)
   + [External Signal Activity](/help/acs/managing-processes-and-data/external-signal-activity.md)
   + [External API Activity (beta)](/help/acs/managing-processes-and-data/external-api-activity.md)
   + [In-App Activity](/help/acs/communication-channels/mobile/in-app/in-app-activity.md)
@@ -75,8 +72,8 @@ user-guide-url: https://docs.adobe.com/content/help/en/campaign-learn/campaign-s
   + [In-App Reports](/help/acs/communication-channels/mobile/in-app/in-app-reporting.md)
 + Developing {#developing}
   + Custom Resources {#custom-resources-develop}
-    + [Creating Customer Resources](/help/acs/managing-processes-and-data/custom-resources/creating-custom-resources.md)
-    + [Custom resources for GDPR](/help/acs/gdpr/gdpr-custom-resources.md)
+    + [Creating Custom Resources](/help/acs/managing-processes-and-data/custom-resources/creating-custom-resources.md)
+    + [Custom resources for GDPR](/help/acs/compliance/gdpr/gdpr-custom-resources.md)
 + Integrating {#integrations}
   + Microsoft Dynamics 365 Connector {#microsoft-dynamics365-connector}
     + [Introduction](/help/acs/integration/microsoft-dynamics-365-connector/introduction.md)

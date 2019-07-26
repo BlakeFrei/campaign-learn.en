@@ -16,7 +16,7 @@ team: DOC
 
 Adobe Campaign's Dynamic Reports are designed to be a flexible freeform environment where you can explore data. It allows you to combine dimensions, metrics and time range in any combination, with unlimited breakdowns and comparisons. This video explains how to create a report.
 
->[!VIDEO](https://video.tv.adobe.com/v/25264/?quality=9)
+>[!VIDEO](https://video.tv.adobe.com/v/25264/?quality=12)
 
 ## Additional Resources
 

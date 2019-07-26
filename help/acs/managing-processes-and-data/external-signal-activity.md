@@ -6,7 +6,7 @@ seo-description: The External Signal Activity is used to organize and orchestrat
 uuid: 4f640ae6-a532-4feb-80dd-fceee98e0b38
 discoiquuid: 0e710e00-198b-42fe-9a55-2a8d86cca127
 feature: External Signal Activity
-topics: Data Management     
+topics: Execution  
 kt: KT-2750 
 doc-type: feature video
 activity: use
@@ -34,3 +34,6 @@ Once the workflow triggered, the parameters are ingested into the workflow's eve
 3. **Configure an End Activity** to call a workflow with external parameters
 
 >[!VIDEO](https://video.tv.adobe.com/v/16831/?quality=12)
+
+## Additional Resources
+* [External Signal (documentation)](https://docs.adobe.com/content/help/en/campaign-standard/using/managing-processes-and-data/data-management-activities/external-api.html)

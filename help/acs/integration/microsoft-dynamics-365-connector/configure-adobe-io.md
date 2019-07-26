@@ -13,10 +13,11 @@ team: PM
  
 # Configure Adobe IO {#configure-adobe-io}
  
- The video below explains how to set up API access and configure a new integration for Unifi. 
+ The video below explains how to set up API access and configure a new integration for Unifi.
 
->[!VIDEO](https://video.tv.adobe.com/v/27308?quality=12)
+ >[!VIDEO](https://video.tv.adobe.com/v/27308?quality=12)
 
 ## Additional Resources
 
-+ [Configure Adobe IO for MS Dynamics integration](https://helpx.adobe.com/campaign/kb/ms-dynamics-adobe-io.html)
+* [Configure Adobe IO for MS Dynamics integration](https://helpx.adobe.com/campaign/kb/ms-dynamics-adobe-io.html)
+  

@@ -77,8 +77,8 @@ getting-started-url: https://docs.adobe.com/content/help/en/campaign-standard/us
     + [External API Activity (beta)](/help/acs/managing-processes-and-data/data-management-activities/external-api-activity.md)
 + Reporting {#reporting}
   + [Creating a Dynamic Report](/help/acs/reporting/creating-a-dynamic-report.md)
-  + [Creating a report based on workflow segments](/help/acs/reporting/report-on-workflow-segments.md)
   + [Creating Dynamic Report Using Custom Profile Attributes](/help/acs/reporting/custom-profile-attributes-dynamic-reports.md)
+  + [Creating a report based on workflow segments](/help/acs/reporting/report-on-workflow-segments.md)
   + [In-App Reports](/help/acs/communication-channels/mobile/in-app/in-app-reporting.md)
 + Developing {#developing}
   + Custom Resources {#custom-resources-develop}
@@ -95,7 +95,6 @@ getting-started-url: https://docs.adobe.com/content/help/en/campaign-standard/us
   + Control Panel {#control-panel}
     + [Control Panel Overview](/help/acs/administrating/control-panel/control-panel-overview.md)
     + [Managing SFTP Servers](/help/acs/administrating/control-panel/cp-managing-sftp-servers.md)
-    + [Add URL Permissions](/help/acc/monitoring-campaign-classic/control-panel/control-panel-url-permissions.md)
     + [Trouble Shooting](/help/acs/administrating/control-panel/cp-trouble-shooting.md)
 + Compliance {#compliance}
   + General Data Protection Regulation (GDPR) {#gdpr}

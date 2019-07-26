@@ -49,7 +49,7 @@ getting-started-url: https://docs.campaign.adobe.com/doc/AC/en/PTF_Starting_with
 + Monitoring {#monitoring}
   + [Workflow Heatmap](/help/acc/monitoring-campaign-classic/workflow-heatmap.md)
   + [Audit Trail](/help/acc/monitoring-campaign-classic/audit-trail.md)
-+ Integrations {#integrations}
++ Integrating {#integrating}
   + [How to Integrate Dynamics 365 with Adobe Campaign Classic](/help/acc/integrations/dynamics365-integration.md)
 + Administrating {#administrating}
   + Control Panel {#control-panel-acc}

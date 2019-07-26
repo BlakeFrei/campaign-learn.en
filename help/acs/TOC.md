@@ -84,7 +84,7 @@ getting-started-url: https://docs.adobe.com/content/help/en/campaign-standard/us
   + Custom Resources {#custom-resources-develop}
     + [Creating Custom Resources](/help/acs/managing-processes-and-data/custom-resources/creating-custom-resources.md)
     + [Custom resources for GDPR](/help/acs/compliance/gdpr/gdpr-custom-resources.md)
-+ Integrating {#integrations}
++ Integrating {#integrating}
   + Microsoft Dynamics 365 Connector {#microsoft-dynamics365-connector}
     + [Introduction](/help/acs/integration/microsoft-dynamics-365-connector/introduction.md)
     + [Configure Microsoft Dynamics 365](/help/acs/integration/microsoft-dynamics-365-connector/configure-microsoft-dynamics-365.md)

@@ -14,7 +14,7 @@ getting-started-url: https://docs.adobe.com/content/help/en/campaign-standard/us
 
 + [Overview](/help/acs/overview.md)
 + What's new {#whats-new}
-  + [External API Activity (beta)](/help/acs/managing-processes-and-data/external-signal-activity.md)
+  + [External API Activity (beta)](/help/acs/managing-processes-and-data/data-management-activities/external-api-activity.md)
   + [Creating a report based on workflow segments](/help/acs/reporting/report-on-workflow-segments.md)
 + Getting started {#getting-started}
   + [Configure a list](/help/acs/getting-started/configure-a-list.md)
@@ -69,12 +69,12 @@ getting-started-url: https://docs.adobe.com/content/help/en/campaign-standard/us
 + Managing processes and data {#managing-processes-and-data}
   + [Create a workflow](/help/acs/managing-processes-and-data/create-workflow.md)
   + [Importing profiles with a workflow](/help/acs/managing-processes-and-data/importing-profiles.md)
-  + Execution Activities {#execution-activity}
-    + [External Signal Activity](/help/acs/managing-processes-and-data/external-signal-activity.md)
+  + Execution Activities {#execution-activities}
+    + [External Signal Activity](/help/acs/managing-processes-and-data/execution-activities/external-signal-activity.md)
   + Channel Activities {#channel-activities}
     + [In-App Activity](/help/acs/communication-channels/mobile/in-app/in-app-activity.md)
-  + Data Management Activities {#data-management}
-    + [External API Activity (beta)](/help/acs/managing-processes-and-data/external-api-activity.md)
+  + Data Management Activities {#data-management-activities}
+    + [External API Activity (beta)](/help/acs/managing-processes-and-data/data-management-activities/external-api-activity.md)
 + Reporting {#reporting}
   + [Creating a Dynamic Report](/help/acs/reporting/creating-a-dynamic-report.md)
   + [Creating Dynamic Report Using Custom Profile Attributes](/help/acs/reporting/custom-profile-attributes-dynamic-reports.md)

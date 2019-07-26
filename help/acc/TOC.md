@@ -4,10 +4,10 @@ user-guide-title: Adobe Campaign Classic Tutorials
 user-guide-url: https://docs.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/overview.html
 solution-title: Experience League
 solution-hub-url: https://experienceleague.adobe.com/?tag=Campaign+Classic#recommended/solutions/campaign
-getting-started-title: Tutorials
-getting-started-url: https://docs-stg.corp.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/overview.html
-tutorials-title: Documentation
-tutorials-url: https://docs.campaign.adobe.com/doc/AC/en/PTF_Starting_with_Adobe_Campaign_About_Adobe_Campaign_Classic.html
+tutorials-title: Tutorials
+tutorials-url: https://docs.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/overview.html
+getting-started-title: Documentation
+getting-started-url: https://docs.campaign.adobe.com/doc/AC/en/PTF_Starting_with_Adobe_Campaign_About_Adobe_Campaign_Classic.html
 ---
 
 # Adobe Campaign Classic Tutorials {#campaign-classic-tutorials}
@@ -49,7 +49,7 @@ tutorials-url: https://docs.campaign.adobe.com/doc/AC/en/PTF_Starting_with_Adobe
 + Monitoring {#monitoring}
   + [Workflow Heatmap](/help/acc/monitoring-campaign-classic/workflow-heatmap.md)
   + [Audit Trail](/help/acc/monitoring-campaign-classic/audit-trail.md)
-+ Integrations {#integrations}
++ Integrating {#integrating}
   + [How to Integrate Dynamics 365 with Adobe Campaign Classic](/help/acc/integrations/dynamics365-integration.md)
 + Administrating {#administrating}
   + Control Panel {#control-panel-acc}

@@ -7,7 +7,7 @@ uuid: 7f514d9b-c7e7-4d26-9d50-7613bac1c04f
 discoiquuid: fb18d66f-44d9-48a3-ba75-537bf3de5b45
 feature: Dynamic Content
 topics: Personalization
-kt: \KT-1559
+kt: KT-1559
 doc-type: feature video
 activity: use
 team: TM

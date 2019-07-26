@@ -4,18 +4,18 @@ user-guide-title: Adobe Campaign Standard Tutorials
 user-guide-url: https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/overview.html
 solution-title: Experience League
 solution-hub-url: https://experienceleague.adobe.com/?tag=Campaign+Standard#recommended/solutions/campaign
-getting-started-title: Tutorials
-getting-started-url: https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/overview.html
-tutorials-title: Documentation
-tutorials-url: https://docs.adobe.com/content/help/en/campaign-standard/using/campaign-standard-home.html
+tutorials-title: Tutorials
+tutorials-url: https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/overview.html
+getting-started-title: Documentation
+getting-started-url: https://docs.adobe.com/content/help/en/campaign-standard/using/campaign-standard-home.html
 ---
 
 # Adobe Campaign Standard Tutorials {#campaign-standard-tutorials}
 
 + [Overview](/help/acs/overview.md)
 + What's new {#whats-new}
-  + [External Signal Activity](/help/acs/managing-processes-and-data/external-signal-activity.md)
-  + [Product listings in transactional emails](/help/acs/designing-content/product-listings-in-transactional-email.md)
+  + [External API Activity (beta)](/help/acs/managing-processes-and-data/data-management-activities/external-api-activity.md)
+  + [Creating a report based on workflow segments](/help/acs/reporting/report-on-workflow-segments.md)
 + Getting started {#getting-started}
   + [Configure a list](/help/acs/getting-started/configure-a-list.md)
   + [Managing campaigns](/help/acs/getting-started/managing-campaigns.md)
@@ -69,18 +69,22 @@ tutorials-url: https://docs.adobe.com/content/help/en/campaign-standard/using/ca
 + Managing processes and data {#managing-processes-and-data}
   + [Create a workflow](/help/acs/managing-processes-and-data/create-workflow.md)
   + [Importing profiles with a workflow](/help/acs/managing-processes-and-data/importing-profiles.md)
-  + [External Signal Activity](/help/acs/managing-processes-and-data/external-signal-activity.md)
-  + [External API Activity (beta)](/help/acs/managing-processes-and-data/external-api-activity.md)
-  + [In-App Activity](/help/acs/communication-channels/mobile/in-app/in-app-activity.md)
+  + Execution Activities {#execution-activities}
+    + [External Signal Activity](/help/acs/managing-processes-and-data/execution-activities/external-signal-activity.md)
+  + Channel Activities {#channel-activities}
+    + [In-App Activity](/help/acs/communication-channels/mobile/in-app/in-app-activity.md)
+  + Data Management Activities {#data-management-activities}
+    + [External API Activity (beta)](/help/acs/managing-processes-and-data/data-management-activities/external-api-activity.md)
 + Reporting {#reporting}
   + [Creating a Dynamic Report](/help/acs/reporting/creating-a-dynamic-report.md)
   + [Creating Dynamic Report Using Custom Profile Attributes](/help/acs/reporting/custom-profile-attributes-dynamic-reports.md)
+  + [Creating a report based on workflow segments](/help/acs/reporting/report-on-workflow-segments.md)
   + [In-App Reports](/help/acs/communication-channels/mobile/in-app/in-app-reporting.md)
 + Developing {#developing}
   + Custom Resources {#custom-resources-develop}
     + [Creating Custom Resources](/help/acs/managing-processes-and-data/custom-resources/creating-custom-resources.md)
     + [Custom resources for GDPR](/help/acs/compliance/gdpr/gdpr-custom-resources.md)
-+ Integrating {#integrations}
++ Integrating {#integrating}
   + Microsoft Dynamics 365 Connector {#microsoft-dynamics365-connector}
     + [Introduction](/help/acs/integration/microsoft-dynamics-365-connector/introduction.md)
     + [Configure Microsoft Dynamics 365](/help/acs/integration/microsoft-dynamics-365-connector/configure-microsoft-dynamics-365.md)
@@ -91,7 +95,6 @@ tutorials-url: https://docs.adobe.com/content/help/en/campaign-standard/using/ca
   + Control Panel {#control-panel}
     + [Control Panel Overview](/help/acs/administrating/control-panel/control-panel-overview.md)
     + [Managing SFTP Servers](/help/acs/administrating/control-panel/cp-managing-sftp-servers.md)
-    + [Add URL Permissions](/help/acc/monitoring-campaign-classic/control-panel/control-panel-url-permissions.md)
     + [Trouble Shooting](/help/acs/administrating/control-panel/cp-trouble-shooting.md)
 + Compliance {#compliance}
   + General Data Protection Regulation (GDPR) {#gdpr}

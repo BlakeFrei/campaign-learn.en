@@ -34,9 +34,10 @@ The video below explains how to add an administrator to a Campaign instance
 >[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
 *How to add an administrator to the product profile "administrators" to be able to use Control panel (01:03 min)*
 
-[Managing SFTP Servers](/help/acs/administrating/control-panel/cp-managing-sftp-servers.md)
+### Control Panel How to Videos
 
-[Trouble Shooting](/help/acs/administrating/control-panel/cp-trouble-shooting.md)
+* [Managing SFTP Servers](/help/acs/administrating/control-panel/cp-managing-sftp-servers.md)
+* [Troubleshooting the Control Panel](/help/acs/administrating/control-panel/cp-trouble-shooting.md)
 
 ## Additional Resources
 

@@ -10,15 +10,12 @@ Adobe Campaign provides a platform for designing cross-channel customer experien
 
 ## What's new
 
-* **[External API Activity (beta)](./managing-processes-and-data/external-api-activity.md)**
+* **[External API Activity (beta)](./managing-processes-and-data/data-management-activities/external-api-activity.md)**
     <br>
     *Learn how to easily bring data into the workflow from an external system via a REST API call.*
-* **[External Signal Activity - Call a workflow with parameters](./managing-processes-and-data/external-signal-activity.md)**
+* **[Creating a report based on workflow segments](./reporting/custom-profile-attributes-dynamic-reports.md)**
   <br>
-    *Learn how to configure a workflow to be triggered externally and receive parameters.*
-* **[Control Panel](./administrating/control-panel/control-panel-overview.md)**
-  <br>
-    *Learn how to easily monitor key assets, as well as perform administrative tasks, such as SMPTP whitelisting, with the Control Panel.*
+    *Learn how to break down a delivery report into segments defined in a targeting workflow.*
 
 ## Staff Picks
 

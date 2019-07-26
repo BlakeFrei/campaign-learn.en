@@ -36,4 +36,6 @@ Once the workflow triggered, the parameters are ingested into the workflow's eve
 >[!VIDEO](https://video.tv.adobe.com/v/16831/?quality=12)
 
 ## Additional Resources
+
 * [External Signal (documentation)](https://docs.adobe.com/content/help/en/campaign-standard/using/managing-processes-and-data/data-management-activities/external-api.html)
+  

@@ -17,6 +17,6 @@ After creating a workflow and filtering your population into different targeted 
 
 The video below explains the three steps that are required to target these segments in your report:
 
->[!VIDEO](https://video.tv.adobe.com/v/28204?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/28262?quality=12)
 
 For more information see the [documentation](https://docs.adobe.com/content/help/en/campaign-standard/using/reporting/customizing-reports/creating-a-report-workflow-segment.html)

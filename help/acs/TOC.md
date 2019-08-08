@@ -1,4 +1,5 @@
 ---
+product: adobe campaign
 sub-product: Campaign Standard
 user-guide-title: Adobe Campaign Standard Tutorials
 user-guide-url: https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/overview.html

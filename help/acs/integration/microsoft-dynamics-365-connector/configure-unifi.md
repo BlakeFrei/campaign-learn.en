@@ -26,7 +26,8 @@ The following use cases are covered:
 
 The video below explains each of the use cases in more detail. 
 
->[video](https://video.tv.adobe.com/v/27394?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/27394?quality=12)
+
 *Use Cases (01:36 min)*
 
 ## Login and Credentials
@@ -34,11 +35,13 @@ The video below explains each of the use cases in more detail.
 ### Unifi Login And First Time User Experience
 
 >[!VIDEO](https://video.tv.adobe.com/v/27393?quality=12)
+
 *This video show how to login to Unifi for the first time (01:19 min)*
 
 ### Add the Credentials Information of Adobe Campaign Standard & Microsoft Dynamics 365 
 
->[video](https://video.tv.adobe.com/v/27395?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/27395?quality=12)
+
 *This video describes how to add the credential information for Adobe Campaign Standard & Microsoft Dynamics 365 to Unifi (01:23 min)*
 
 
@@ -50,7 +53,6 @@ The video below explains each of the use cases in more detail.
 ### Overview over the Unifi Jobs
 
 >[!VIDEO](https://video.tv.adobe.com/v/27392?quality=12)
-
 *This video explains the different Unifi jobs that required for the Adobe Campaign Standard integration with Microsoft Dynamics 265 (02:10 min)*
 
 ### Unifi Job Details: Ingress & Egress

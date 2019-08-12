@@ -1,4 +1,5 @@
 ---
+product: adobe campaign
 sub-product: Campaign Classic
 user-guide-title: Adobe Campaign Classic Tutorials
 user-guide-url: https://docs.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/overview.html

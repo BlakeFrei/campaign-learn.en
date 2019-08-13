@@ -10,7 +10,7 @@ activity: use
 team: DOC
 ---
 
-# Creating dynamic report using custom profile attributes{#creating-a-report}
+# Creating a dynamic report using custom profile attributes
 
 Adobe Campaign's Dynamic Reports are designed to be a flexible freeform environment where you can explore data by including custom profile attributes. It allows you to combine dimensions, metrics and time range in any combination, with unlimited breakdowns and comparisons. This video explains how to create a report.
 

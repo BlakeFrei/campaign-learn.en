@@ -1,6 +1,6 @@
 ---
 cloud: experience-cloud
-product: campaign
+product: adobe campaign
 mini-toc-levels: 3
 git-repo: https://github.com/AdobeDocs/campaign-learn.en
 index: yes

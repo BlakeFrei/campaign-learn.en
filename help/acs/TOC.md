@@ -93,6 +93,7 @@ getting-started-url: https://docs.adobe.com/content/help/en/campaign-standard/us
   + Control Panel {#control-panel}
     + [Control Panel Overview](/help/acs/administrating/control-panel/control-panel-overview.md)
     + [Managing SFTP Servers](/help/acs/administrating/control-panel/cp-managing-sftp-servers.md)
+    + [Managing SSL Certificated](/help/acs/administrating/control-panel/cp-managing-ssl-certificates.md)
     + [Trouble Shooting](/help/acs/administrating/control-panel/cp-trouble-shooting.md)
 + Compliance {#compliance}
   + General Data Protection Regulation (GDPR) {#gdpr}

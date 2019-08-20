@@ -38,9 +38,10 @@ The video below explains how to add an administrator to a Campaign instance
 
 ### Control Panel Videos
 
-* [Managing SFTP Servers](/help/acs/administrating/control-panel/cp-managing-sftp-servers.md)
+* [Managing SFTP Servers](/help/acc/monitoring-campaign-classic/control-panel/cp-acc-managing-ssl-certificates.md)
+* [Managing SSL Certificates](/help/acc/monitoring-campaign-classic/control-panel/cp-acc-managing-ssl-certificates.md)
 * [Add URL Permissions](/help/acc/monitoring-campaign-classic/control-panel/control-panel-url-permissions.md)
-* [Troubleshooting the Control Panel](/help/acs/administrating/control-panel/cp-trouble-shooting.md)
+* [Troubleshooting the Control Panel](/help/acc/monitoring-campaign-classic/control-panel/cp-acc-trouble-shooting.md)
 
 ### Additional Resources
 

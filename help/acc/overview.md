@@ -11,13 +11,13 @@ Adobe Campaign provides a platform for designing cross-channel customer experien
 
 ## What's New
 
+* **[Managing SSL Certificates](/help/acc/monitoring-campaign-classic/control-panel/cp-acc-managing-ssl-certificates.md)**
+   <br>
+    *Learn how to view the status of the SSL certificates of your subdomains and request renewals.*
+
 * **[ Configure Push Channel using the Experience Platform Mobile SDK](/help/acc/sending-messages/mobile-channel/configure-push-using-aep-mobile-sdk.md)**
     <br>
     *Learn how to configure the Push applications directly from Adobe Launch. (Campaign Classic release 19.1)*
-
-* **[Control Panel](/help/acc/monitoring-campaign-classic/control-panel/control-panel-overview.md)**
-    <br>
-    *Learn how to easily monitor key assets, as well as perform administrative tasks, such as SMPTP whitelisting, with the Control Panel.*
 
 
 ## Staff Picks

@@ -13,9 +13,6 @@ getting-started-url: https://docs.adobe.com/content/help/en/campaign-standard/us
 # Adobe Campaign Standard Tutorials {#campaign-standard-tutorials}
 
 + [Overview](/help/acs/overview.md)
-+ What's new {#whats-new}
-  + [External API Activity (beta)](/help/acs/managing-processes-and-data/data-management-activities/external-api-activity.md)
-  + [Creating a report based on workflow segments](/help/acs/reporting/report-on-workflow-segments.md)
 + Getting started {#getting-started}
   + [Configure a list](/help/acs/getting-started/configure-a-list.md)
   + [Managing campaigns](/help/acs/getting-started/managing-campaigns.md)

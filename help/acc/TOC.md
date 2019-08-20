@@ -14,9 +14,6 @@ getting-started-url: https://docs.campaign.adobe.com/doc/AC/en/PTF_Starting_with
 # Adobe Campaign Classic Tutorials {#campaign-classic-tutorials}
 
 + [Overview](/help/acc/overview.md)
-+ What's new {#whats-new}
-  + [Configure Push Channel using the Experience Platform Mobile SDK](/help/acc/sending-messages/mobile-channel/configure-push-using-aep-mobile-sdk.md)
-  + [Control Panel Overview](/help/acc/monitoring-campaign-classic/control-panel/control-panel-overview.md)
 + Getting Started {#getting-started}
   + [The User Interface](/help/acc/getting-started/interface-overview.md)
   + [Creating a campaign and an email](/help/acc/getting-started/creating-a-campaign-and-an-email.md)
@@ -56,3 +53,5 @@ getting-started-url: https://docs.campaign.adobe.com/doc/AC/en/PTF_Starting_with
   + Control Panel {#control-panel-acc}
     + [Control Panel Overview](/help/acc/monitoring-campaign-classic/control-panel/control-panel-overview.md)
     + [Adding URL Permissions](/help/acc/monitoring-campaign-classic/control-panel/control-panel-url-permissions.md)
+    + [Managing SFTP Servers](/help/acs/administrating/control-panel/cp-managing-sftp-servers.md)
+    + [Trouble Shooting](/help/acs/administrating/control-panel/cp-trouble-shooting.md)

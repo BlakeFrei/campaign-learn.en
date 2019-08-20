@@ -54,6 +54,4 @@ getting-started-url: https://docs.campaign.adobe.com/doc/AC/en/PTF_Starting_with
 + Administrating {#administrating}
   + Control Panel {#control-panel-acc}
     + [Control Panel Overview](/help/acc/monitoring-campaign-classic/control-panel/control-panel-overview.md)
-    + [Managing SFTP Servers](/help/acs/administrating/control-panel/cp-managing-sftp-servers.md)
     + [Adding URL Permissions](/help/acc/monitoring-campaign-classic/control-panel/control-panel-url-permissions.md)
-    + [Troubleshooting](/help/acs/administrating/control-panel/cp-trouble-shooting.md)

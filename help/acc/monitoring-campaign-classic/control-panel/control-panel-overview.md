@@ -3,8 +3,6 @@ title: Control Panel
 seo-title: Control Panel
 description: The Control Panel allows you to monitor and manage your SFTP storage by instance and whitelist IP addresses.
 seo-description: The Control Panel allows you to monitor and manage your SFTP storage by instance and whitelist IP addresses.
-uuid: e73e2288-85e2-45f4-9f13-2f1e89d30cca
-discoiquuid: 700ba7da-6734-450b-a054-e547454f706
 feature: Control Panel
 topics: Control Panel
 kt: KT-3262
@@ -24,7 +22,6 @@ The Control Panel allows Adobe Campaign administrators to easily monitor key ass
 Before you get started, you need to know your IMS Org ID. The video below describes where you can lookup your instance's IMS org ID.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
-
 *Check IMS Org ID (00:26 min)*
 
 ### Administrator Rights
@@ -33,14 +30,14 @@ Administrator rights are required to access to the Control Panel
 The video below explains how to add an administrator to a Campaign instance
 
 >[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
-
 *How to add an administrator to the product profile "administrators" to be able to use the Control panel (01:03 min)*
 
 ### Control Panel Videos
 
-* [Managing SFTP Servers](/help/acs/administrating/control-panel/cp-managing-sftp-servers.md)
-* [Add URL Permissions](/help/acc/monitoring-campaign-classic/control-panel/control-panel-url-permissions.md)
-* [Troubleshooting the Control Panel](/help/acs/administrating/control-panel/cp-trouble-shooting.md)
+* [Managing SFTP Servers](/help/acc/monitoring-campaign-classic/control-panel/managing-sftp-servers.md)
+* [Managing SSL Certificates](/help/acc/monitoring-campaign-classic/control-panel/managing-ssl-certificates.md)
+* [Add URL Permissions](/help/acc/monitoring-campaign-classic/control-panel/adding-url-permissions.md)
+* [Troubleshooting the Control Panel](/help/acc/monitoring-campaign-classic/control-panel/trouble-shooting.md)
 
 ### Additional Resources
 

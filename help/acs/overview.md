@@ -4,12 +4,16 @@ seo-title: Adobe Campaign Standard Tutorials - Overview
 products: SG_CAMPAIGN/STANDARD
 ---
 
-# Adobe Campaign Standard Tutorials - Overview 
+# Overview 
 
 Adobe Campaign provides a platform for designing cross-channel customer experiences and provides an environment for visual campaign orchestration, real time interaction management and cross channel execution. This user guide contains videos and tutorials on the many features and capabilities of Adobe Campaign Standard.
 
 ## What's new
 
+* **[Managing SSL Certificate](/help/acs/administrating/control-panel/managing-ssl-certificates.md)**
+   <br>
+    *Learn how to view the status of the SSL certificates of your subdomains and request renewals.*
+    
 * **[External API Activity (beta)](./managing-processes-and-data/data-management-activities/external-api-activity.md)**
     <br>
     *Learn how to easily bring data into the workflow from an external system via a REST API call.*

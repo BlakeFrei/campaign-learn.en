@@ -91,9 +91,9 @@ getting-started-url: https://docs.adobe.com/content/help/en/campaign-standard/us
   + [Access management](/help/acs/administrating/access-management.md)
   + Control Panel {#control-panel}
     + [Control Panel Overview](/help/acs/administrating/control-panel/control-panel-overview.md)
-    + [Managing SFTP Servers](/help/acs/administrating/control-panel/cp-managing-sftp-servers.md)
-    + [Managing SSL Certificates](/help/acs/administrating/control-panel/cp-managing-ssl-certificates.md)
-    + [Trouble Shooting](/help/acs/administrating/control-panel/cp-trouble-shooting.md)
+    + [Managing SFTP Servers](/help/acs/administrating/control-panel/managing-sftp-servers.md)
+    + [Managing SSL Certificates](/help/acs/administrating/control-panel/managing-ssl-certificates.md)
+    + [Trouble Shooting](/help/acs/administrating/control-panel/trouble-shooting.md)
 + Compliance {#compliance}
   + General Data Protection Regulation (GDPR) {#gdpr}
     + [Create GDPR Requests with the Campaign Standard User Interface](/help/acs/compliance/gdpr/gdpr-overview.md)

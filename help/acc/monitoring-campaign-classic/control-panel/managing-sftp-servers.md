@@ -4,7 +4,7 @@ seo-title: Managing SFTP Servers
 description: The Control Panel allows you to monitor and manage your SFTP storage by instance and whitelist IP addresses.
 seo-description: The Control Panel allows you to monitor and manage your SFTP storage by instance and whitelist IP addresses.
 feature: SFTP Server Whitelisting
-topics: Control Panel
+topics: ACC Control Panel
 kt: KT-3266
 doc-type: feature video
 activity: use

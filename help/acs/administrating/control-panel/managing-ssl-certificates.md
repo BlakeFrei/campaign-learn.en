@@ -18,4 +18,4 @@ The video below explains how you can view the status of the SSL certificates of 
 >[!VIDEO](https://video.tv.adobe.com/v/28492?quality=12)
 *Managing SSL Certificates (05:00 min)*
 
-For more information on Subdomains and certificates please see the [detailed product documentation]( https://helpx.adobe.com/campaign/kb/control-panel-subdomains-certificates.html).
+For more information on Subdomains and certificates please see the detailed [Product Documentation]( https://helpx.adobe.com/campaign/kb/control-panel-subdomains-certificates.html).

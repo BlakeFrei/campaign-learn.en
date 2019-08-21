@@ -11,7 +11,7 @@ activity: use
 team: PM
 ---
 
-# Managing SFTP Servers {#cp-managing-sftp-servers}
+# Managing SFTP Servers 
 
 ## Working with the Control Panel: Monitoring server capacity, whitelisting IP addresses, and adding SSH keys
 

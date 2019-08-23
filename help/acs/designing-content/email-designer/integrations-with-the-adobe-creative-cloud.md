@@ -29,7 +29,7 @@ The video explains what is required to enable the Dreamweaver integration and ho
 >[!VIDEO](https://video.tv.adobe.com/v/23121?quality=12)
 *How to use the Dreamweaver Integration in Adobe Campaign (02:37 min)*
 
-## Creative Cloud SDK Integration
+## Modify Images using the Creative Cloud SDK Integration
 
 This video describes how you can easily edit images directly from the Email Designer using the integrated Creative SDK functionality.
 

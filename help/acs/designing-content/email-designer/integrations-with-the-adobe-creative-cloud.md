@@ -27,6 +27,7 @@ This feature requires the  Dreamweaver Extension called **Adobe Campaign Integra
 The video explains what is required to enable the Dreamweaver integration and how to create and edit content for Adobe Campaign Standard using Dreamweaver.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23121?quality=12)
+*How to use the Dreamweaver Integration in Adobe Campaign (02:37 min)
 
 ## Creative Cloud SDK integration
 

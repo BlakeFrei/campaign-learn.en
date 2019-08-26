@@ -20,4 +20,5 @@ To implement fatigue rules, you define a maximum number of messages per profile 
 *How to create a fatigue rule (04:49 min)*
 
 ## Additional Resources
+
 * [Fatigue rules (documentation)](https://docs.adobe.com/content/help/en/campaign-standard/using/administrating/working-with-typology-rules/fatigue-rules.html)

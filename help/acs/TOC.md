@@ -95,6 +95,9 @@ getting-started-url: https://docs.adobe.com/content/help/en/campaign-standard/us
     + [Managing SFTP Servers](/help/acs/administrating/control-panel/managing-sftp-servers.md)
     + [Managing SSL Certificates](/help/acs/administrating/control-panel/managing-ssl-certificates.md)
     + [Trouble Shooting](/help/acs/administrating/control-panel/trouble-shooting.md)
+  + Typology Rules{#typology-rules}
+    + Fatigue Management{#fatigue-management}
+      + [Create Fatigue Rules](/help/acs/administrating/typology-rules/fatigue-management/create-fatigue-rules.md)
 + Compliance {#compliance}
   + General Data Protection Regulation (GDPR) {#gdpr}
     + [Create GDPR Requests with the Campaign Standard User Interface](/help/acs/compliance/gdpr/gdpr-overview.md)

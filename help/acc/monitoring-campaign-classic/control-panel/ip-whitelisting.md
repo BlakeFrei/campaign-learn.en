@@ -13,11 +13,7 @@ team: PM
 
 # IP whitelisting for Instance Access
 
-The Control Panel allows you to set up new connections to your instances by whitelisting IP address ranges.
-
-By default, an Adobe Campaign Classic instance is not accessible from various IP addresses.
-
-Therefore, an IP address needs to be whitelisted for two reasons:
+The Control Panel allows you to set up new connections to your instances by whitelisting IP address ranges. By default, an Adobe Campaign Classic instance is not accessible from various IP addresses. Therefore, an IP address needs to be whitelisted:
 
 * To allow access to the Campaign instance from this IP address
 * To connect an API to your Message Center or marketing instance

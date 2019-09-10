@@ -1,6 +1,6 @@
 ---
-title: IP whitelisting for Instance Access
-seo-title: IP whitelisting for Instance Access
+title: IP Whitelisting for Instance Access
+seo-title: IP Whitelisting for Instance Access
 description: The video below explains how to set up new connections to your instances by whitelisting IP addresses ranges.
 seo-description: The video below explains how to set up new connections to your instances by whitelisting IP addresses ranges.
 feature: IP Whitelisting
@@ -11,7 +11,7 @@ activity: use
 team: PM
 ---
 
-# IP whitelisting for Instance Access
+# IP Whitelisting for Instance Access
 
 The Control Panel allows you to set up new connections to your instances by whitelisting IP address ranges. By default, an Adobe Campaign Classic instance is not accessible from various IP addresses. Therefore, an IP address needs to be whitelisted:
 

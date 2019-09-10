@@ -1,6 +1,6 @@
 ---
-title: IP whitelisting for Instance access
-seo-title: IP whitelisting for Instance access
+title: IP whitelisting for Instance Access
+seo-title: IP whitelisting for Instance Access
 description: The video below explains how to set up new connections to your instances by whitelisting IP addresses ranges.
 seo-description: The video below explains how to set up new connections to your instances by whitelisting IP addresses ranges.
 feature: IP Whitelisting

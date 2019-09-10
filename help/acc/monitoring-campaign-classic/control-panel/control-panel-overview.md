@@ -32,14 +32,29 @@ The video below explains how to add an administrator to a Campaign instance
 >[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
 *How to add an administrator to the product profile "administrators" to be able to use the Control panel (01:03 min)*
 
-### Control Panel Videos
+## Control Panel Tutorials
 
-* [Managing SFTP Servers](/help/acc/monitoring-campaign-classic/control-panel/managing-sftp-servers.md)
-* [Managing SSL Certificates](/help/acc/monitoring-campaign-classic/control-panel/managing-ssl-certificates.md)
-* [Add URL Permissions](/help/acc/monitoring-campaign-classic/control-panel/adding-url-permissions.md)
-* [Troubleshooting the Control Panel](/help/acc/monitoring-campaign-classic/control-panel/trouble-shooting.md)
+*  **[Managing SFTP Servers](/help/acc/monitoring-campaign-classic/control-panel/managing-sftp-servers.md)**
+    <br>
+    *Learn how to monitor the server capacity, whitelist IP addresses, and add SSH keys*
 
-### Additional Resources
+*   **[Managing SSL Certificates](/help/acc/monitoring-campaign-classic/control-panel/managing-ssl-certificates.md)**
+    <br>
+    *Learn how you can view the status of the SSL certificates of your subdomains, as well as request renewals.*
+
+*   **[Add URL Permissions](/help/acc/monitoring-campaign-classic/control-panel/adding-url-permissions.md)**
+    <br>
+    *how to add some outside URLs to the list of authorized URLs, so that your instance can connect to them.*
+
+* **[IP Whitelisting for Instance Access](/help/acc/monitoring-campaign-classic/control-panel/ip-whitelisting.md)**
+    <br>
+    *Learn how to set up new connections to your instances by whitelisting IP addresses ranges.*
+
+* **[Troubleshooting the Control Panel](/help/acc/monitoring-campaign-classic/control-panel/trouble-shooting.md)**
+  <br>
+    *Understand how to troubleshoot the Control Panel*
+
+## Additional Resources
 
 * [Discovering Campaign Control Panel (documentation)](https://helpx.adobe.com/campaign/kb/control-panel-overview.html)
 * [Granting access to Control Panel (documentation)](https://helpx.adobe.com/campaign/kb/control-panel-access.html)

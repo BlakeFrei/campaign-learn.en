@@ -17,7 +17,7 @@ team: PM
 
 The Control Panel allows Adobe Campaign administrators to easily monitor key assets as well as perform administrative tasks, like managing the SFTP storage by instance or whitelist IP addresses.
 
-## Prerequisites {#prerequisites}
+## Prerequisites
 
 ### Confirm IMS Org ID
 
@@ -34,11 +34,20 @@ The video below explains how to add an administrator to a Campaign instance
 >[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
 *How to add an administrator to the product profile "administrators" to be able to use Control panel (01:03 min)*
 
-### Control Panel How to Videos
+## Control Panel Tutorials
 
-* [Managing SFTP Servers](/help/acs/administrating/control-panel/managing-sftp-servers.md)
-* [Managing SSL Certificates](/help/acs/administrating/control-panel/managing-ssl-certificates.md)
-* [Trouble Shooting](/help/acs/administrating/control-panel/trouble-shooting.md)
+* **[Managing SFTP Servers](/help/acs/administrating/control-panel/managing-sftp-servers.md)**
+    <br>
+    *Learn how to monitor the server capacity, whitelist IP addresses, and add SSH keys*
+
+* **[Managing SSL Certificates](/help/acs/administrating/control-panel/managing-ssl-certificates.md)**
+    <br>
+     *Learn how you can view the status of the SSL certificates of your subdomains, as well as request renewals.*
+
+* **[Trouble Shooting](/help/acs/administrating/control-panel/trouble-shooting.md)**
+    <br>
+    *Understand how to troubleshoot the Control Panel*
+
 
 ## Additional Resources
 

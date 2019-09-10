@@ -38,7 +38,7 @@ The video below explains how to add an administrator to a Campaign instance
 * [Managing SSL Certificates](/help/acc/monitoring-campaign-classic/control-panel/managing-ssl-certificates.md)
 * [Add URL Permissions](/help/acc/monitoring-campaign-classic/control-panel/adding-url-permissions.md)
 * [Troubleshooting the Control Panel](/help/acc/monitoring-campaign-classic/control-panel/trouble-shooting.md)
-* [IP Whitelisting for Instance Access](/help/acc/monitoring-campaign-classic/control-panel/ip_whitelisting.md)
+* [IP Whitelisting for Instance Access](/help/acc/monitoring-campaign-classic/control-panel/ip-whitelisting.md)
 
 ### Additional Resources
 

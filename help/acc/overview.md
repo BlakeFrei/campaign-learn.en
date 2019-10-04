@@ -11,9 +11,9 @@ Adobe Campaign provides a platform for designing cross-channel customer experien
 
 ## What's New
 
-* **[Managing SSL Certificates](/help/acc/monitoring-campaign-classic/control-panel/managing-ssl-certificates.md)**
-   <br>
-    *Learn how to view the status of the SSL certificates of your subdomains and request renewals.*
+* **[IP Whitelisting for Instance Access](/help/acc/monitoring-campaign-classic/control-panel/ip-whitelisting.md)**
+    <br>
+    *Learn how to set up new connections to your instances by whitelisting IP addresses ranges.*
 
 * **[ Configure Push Channel using the Experience Platform Mobile SDK](/help/acc/sending-messages/mobile-channel/configure-push-using-aep-mobile-sdk.md)**
     <br>

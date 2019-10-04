@@ -55,5 +55,6 @@ getting-started-url: https://docs.campaign.adobe.com/doc/AC/en/PTF_Starting_with
     + [Managing SFTP Servers](/help/acc/monitoring-campaign-classic/control-panel/managing-sftp-servers.md)
     + [Managing SSL Certificates](/help/acc/monitoring-campaign-classic/control-panel/managing-ssl-certificates.md)
     + [Add URL Permissions](/help/acc/monitoring-campaign-classic/control-panel/adding-url-permissions.md)
+    + [IP Whitelisting for Instance Access](/help/acc/monitoring-campaign-classic/control-panel/ip-whitelisting.md)
     + [Troubleshooting the Control Panel](/help/acc/monitoring-campaign-classic/control-panel/trouble-shooting.md)
   

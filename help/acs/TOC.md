@@ -101,7 +101,7 @@ getting-started-url: https://docs.adobe.com/content/help/en/campaign-standard/us
 + Compliance {#compliance}
   + General Data Protection Regulation (GDPR) {#gdpr}
     + [Create GDPR Requests with the Campaign Standard User Interface](/help/acs/compliance/gdpr/gdpr-overview.md)
-    + [Create Namespaces for Privacy Requests](/help/acs/compliance/gdpr/create_namespaces_for_privacy_requests.md)
+    + [Create Namespaces for Privacy Requests](/help/acs/compliance/gdpr/create-namespaces-for-privacy-requests.md)
     + [Create custom resources for GDPR](/help/acs/compliance/gdpr/gdpr-custom-resources.md)
     + [Create and track GDPR requests](/help/acs/compliance/gdpr/create-and-track-gdpr-requests.md)
     + [Execute GDPR requests](/help/acs/compliance/gdpr/gdpr-execute-requests.md)

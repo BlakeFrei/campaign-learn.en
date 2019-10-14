@@ -28,7 +28,7 @@ Adobe Campaign offers Data Controllers three methods for performing Privacy acce
 1. [Create a Namespace](/help/acs/privacy/namespaces-for-privacy-requests.md)
 2. [Modify Custom Resources](/help/acs/privacy/custom-resources-for-privacy-requests.md)
 
-### Create,track and execute privacy requests through the Adobe Campaign user interface
+### Create,track and execute Privacy requests through the Adobe Campaign user interface
 
 * [Create and track privacy requests through the Adobe Campaign user interface](/help/acs/privacy/create-and-track-privacy-requests.md)
 * [Execute privacy requests](/help/acs/privacy/execute-privacy-requests.md)

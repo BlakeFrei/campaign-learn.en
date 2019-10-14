@@ -5,8 +5,8 @@ description: When setting up ACS for GDPR you need to ensure that any custom dat
 seo-description: When setting up ACS for GDPR you need to ensure that any custom data that is linked to a profile will get deleted when the profile is deleted. This video explains how to modify your custom resources in order to fulfill this requirement.
 uuid: a8a4a7d7-18a1-4631-9623-cff0c30042ac
 discoiquuid: 53bca09d-1a6b-42a9-a849-895773719eaa
-feature: GDPR
-topic: Compliance
+feature: GDPR, CCPA
+topic: Privacy
 kt: KT-1243
 doc-type: feature video
 activity: use
@@ -19,6 +19,12 @@ When setting up ACS for GDPR you need to ensure that any custom data that is lin
 
 >[!VIDEO](https://video.tv.adobe.com/v/23326?quality=12)
 
-## Supporting materials {#supporting-materials}
+>**NOTE: Opt-out for the Sale of Personal Information (CCPA)**
+>
+> Starting with 19.4, a CCPA Opt-Out field is provided out-of-the-box in the Campaign interface and API. For 19.3, to leverage this information, you need to create this field in Adobe Campaign Standard. Please see the [detailed documentation](https://helpx.adobe.com/campaign/content/help/en/campaign/kb/acs-privacy.html#ccpa) for more information.
+> 
+> You can check your version by clicking on the ? icon in the top right of the interface and selecting About.
 
-* [Detailed information on Campaign Standard - General Data Protection Regulation](https://docs.campaign.adobe.com/doc/standard/getting_started/en/ACS_GDPR.html)
+## Additional Resources
+
+* [General Privacy guidelines for Campaign](https://helpx.adobe.com/campaign/kb/campaign-privacy-overview.html)

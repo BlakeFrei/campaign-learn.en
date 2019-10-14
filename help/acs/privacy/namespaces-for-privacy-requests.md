@@ -6,7 +6,7 @@ seo-description: A prerequisite to be able to create Privacy access and delete r
 uuid: 28070df7-49bd-4582-b1be-a48e0e0708cc
 discoiquuid: 22e136d0-0da2-445c-82b3-10986c19a389
 feature: GDPR, CCPA
-topic: Compliance
+topic: Privacy
 kt: KT-1460
 doc-type: feature video
 activity: use
@@ -21,6 +21,6 @@ This videos explains how to create namespaces for Privacy requests.
 
 >[!VIDEO](https://video.tv.adobe.com/v/22600?quality=12)
 
-## Additional Resources 
+## Additional Resources
 
-* [Detailed information on Campaign Standard - General Data Protection Regulation](https://docs.campaign.adobe.com/doc/standard/getting_started/en/ACS_GDPR.html)
+* [General Privacy guidelines for Campaign](https://helpx.adobe.com/campaign/kb/campaign-privacy-overview.html)

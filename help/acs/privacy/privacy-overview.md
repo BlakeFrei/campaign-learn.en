@@ -33,8 +33,6 @@ Adobe Campaign offers Data Controllers three methods for performing Privacy acce
 * [Create and track privacy requests through the Adobe Campaign user interface](/help/acs/privacy/create-and-track-privacy-requests.md)
 * [Execute privacy requests](/help/acs/privacy/execute-privacy-requests.md)
 
-## CCPA 
-
 ## Additional Resources
 
 * [General Privacy guidelines for Campaign](https://helpx.adobe.com/campaign/kb/campaign-privacy-overview.html)

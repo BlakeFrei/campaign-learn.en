@@ -25,7 +25,7 @@ The following video explains how the mirror page URL is being used:
 
 You access your integration details via single sign on. The video below explains how to do this.
 
-[!VIDEO](https://video.tv.adobe.com/v/29254?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/29254?quality=12)
 
 ## How to configure the Microsoft Dynamics 365 Connector - Video tutorials
 

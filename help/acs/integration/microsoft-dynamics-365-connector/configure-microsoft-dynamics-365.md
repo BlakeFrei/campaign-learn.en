@@ -21,6 +21,8 @@ For more information also see the product documentation [Configure Microsoft Dyn
 
 >[!VIDEO](https://video.tv.adobe.com/v/27637?quality=12)
 
+Please see the detailed documentation to learn more about how to work with [Custom Entities](https://helpx.adobe.com/campaign/kb/acs-dynamics-custom-entities.html).
+
 ## Additional Resources
 
 [Configure Microsoft Dynamics 365 for Campaign integration](https://helpx.adobe.com/content/help/en/campaign/kb/ms-dynamics-integration.html)

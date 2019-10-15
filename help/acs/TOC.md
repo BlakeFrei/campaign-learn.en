@@ -81,7 +81,6 @@ getting-started-url: https://docs.adobe.com/content/help/en/campaign-standard/us
 + Developing {#developing}
   + Custom Resources {#custom-resources-develop}
     + [Creating Custom Resources](/help/acs/managing-processes-and-data/custom-resources/creating-custom-resources.md)
-    + [Custom resources for GDPR](/help/acs/compliance/gdpr/gdpr-custom-resources.md)
 + Integrating {#integrating}
   + Microsoft Dynamics 365 Connector {#microsoft-dynamics365-connector}
     + [Introduction](/help/acs/integration/microsoft-dynamics-365-connector/introduction.md)
@@ -98,10 +97,9 @@ getting-started-url: https://docs.adobe.com/content/help/en/campaign-standard/us
   + Typology Rules{#typology-rules}
     + Fatigue Management{#fatigue-management}
       + [Create Fatigue Rules](/help/acs/administrating/typology-rules/fatigue-management/create-fatigue-rules.md)
-+ Compliance {#compliance}
-  + General Data Protection Regulation (GDPR) {#gdpr}
-    + [Create GDPR Requests with the Campaign Standard User Interface](/help/acs/compliance/gdpr/gdpr-overview.md)
-    + [Namespaces for GDPR](/help/acs/compliance/gdpr/gdpr-namespaces.md)
-    + [Create custom resources for GDPR](/help/acs/compliance/gdpr/gdpr-custom-resources.md)
-    + [Create and track GDPR requests](/help/acs/compliance/gdpr/create-and-track-gdpr-requests.md)
-    + [Execute GDPR requests](/help/acs/compliance/gdpr/gdpr-execute-requests.md)
++ Privacy {#privacy}
+  + [Overview](/help/acs/privacy/privacy-overview.md)
+  + [Namespaces for Privacy Requests](/help/acs/privacy/namespaces-for-privacy-requests.md)
+  + [Custom resources for Privacy requests](/help/acs/privacy/custom-resources-for-privacy-requests.md)
+  + [Create and track Privacy requests](/help/acs/privacy/create-and-track-privacy-requests.md)
+  + [Execute Privacy requests](/help/acs/privacy/execute-privacy-requests.md)

@@ -17,7 +17,17 @@ With the integration between ACS and Dynamics 365, you can activate your CRM dat
 
 >[!VIDEO](https://video.tv.adobe.com/v/27975?quality=12)
 
-## Steps to configure - Video tutorials
+The following video explains how the mirror page URL is being used:
+
+>[!VIDEO](https://video.tv.adobe.com/v/29253?quality=12)
+
+## Single Sign On (SSO)
+
+You access your integration details via single sign on. The video below explains how to do this.
+
+>[!VIDEO](https://video.tv.adobe.com/v/29254?quality=12)
+
+## How to configure the Microsoft Dynamics 365 Connector - Video tutorials
 
 1. [Configure Microsoft Dynamics 365](/help/acs/integration/microsoft-dynamics-365-connector/configure-microsoft-dynamics-365.md)
 2. [Configure Adobe IO](/help/acs/integration/microsoft-dynamics-365-connector/configure-adobe-io.md)

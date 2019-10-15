@@ -13,7 +13,7 @@ activity: use
 team: TM
 ---
 
-# How to execute GDPR requests
+# How to execute Privacy requests
 
 In Adobe Campaign privacy requests are executed by workflows. This video describes which workflows access and delete requests and what happens when they are executed.
 

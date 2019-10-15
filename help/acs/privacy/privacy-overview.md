@@ -15,11 +15,21 @@ team: TM
 
 Adobe Campaign offers Data Controllers three methods for performing Privacy access and delete requests of PII data in compliance with privacy acts such as GDPR and CCPA. :
 
-* **Via the Privacy Core Service integration(Adobe recommended method:** Privacy requests pushed from the Privacy Core Service to all Experience Cloud solutions are automatically handled by Campaign via a dedicated workflow. Refer to the [Adobe Experience Platform Privacy Service](https://adobe.io/apis/cloudplatform/gdpr.html) to learn how to create Privacy requests from the Privacy Core Service.
+* **Via the Privacy Core Service integration:** Privacy requests pushed from the Privacy Core Service to all Experience Cloud solutions are automatically handled by Campaign via a dedicated workflow. Refer to the [Adobe Experience Platform Privacy Service](https://adobe.io/apis/cloudplatform/gdpr.html) to learn how to create Privacy requests from the Privacy Core Service.
   
 * **Via the API:** Adobe Campaign provides an API that allows the automatic process of Privacy requests using REST.
   
 * **Via the Adobe Campaign interface:** for each Privacy request, the Data Controller creates a new privacy request in Adobe Campaign
+
+>[!Note] 
+>
+> **CHANGES WITH ACS 19.4**
+>The [Privacy Core Service integration](https://adobe.io/apis/cloudplatform/gdpr.html) is the method you should use for all access and delete requests. Starting 19.4, the >use of the Campaign API and interface for access and delete requests is deprecated. For more on Campaign Standard deprecated and removed features, refer to [this page]>(https://helpx.adobe.com/campaign/kb/acs-deprecated-and-removed-features.html).
+>
+>**Opt-out for the Sale of Personal Information (CCPA)**
+>Starting with 19.4, a CCPA Opt-Out field is provided out-of-the-box in the Campaign interface and API. For 19.3, to leverage this information, you need to create this >field in Adobe Campaign Standard. Please see the [detailed documentation](https://helpx.adobe.com/campaign/kb/acs-privacy.html#ccpa) for more information.
+>
+> You can check your version by clicking on the ? icon in the top right of the interface and selecting About.
 
 ## Video Tutorials
 

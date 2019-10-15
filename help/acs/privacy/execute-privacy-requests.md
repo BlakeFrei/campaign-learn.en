@@ -21,5 +21,5 @@ In Adobe Campaign privacy requests are executed by workflows. This video describ
 
 ## Additional Resources
 
-* [General Privacy guidelines for Campaign](https://helpx.adobe.com/campaign/kb/campaign-privacy-overview.html) 
+* [General Privacy guidelines for Campaign](https://helpx.adobe.com/campaign/kb/campaign-privacy-overview.html)
 * [CCPA for ACS](https://helpx.adobe.com/campaign/kb/acs-privacy.html#ccpa)

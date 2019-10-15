@@ -21,7 +21,7 @@ Adobe Campaign offers Data Controllers three methods for performing Privacy acce
   
 * **Via the Adobe Campaign interface:** for each Privacy request, the Data Controller creates a new privacy request in Adobe Campaign
 
->[!Note] 
+>[!NOTE] 
 >
 > **CHANGES WITH ACS 19.4**
 >The [Privacy Core Service integration](https://adobe.io/apis/cloudplatform/gdpr.html) is the method you should use for all access and delete requests. Starting 19.4, the >use of the Campaign API and interface for access and delete requests is deprecated. For more on Campaign Standard deprecated and removed features, refer to [this page]>(https://helpx.adobe.com/campaign/kb/acs-deprecated-and-removed-features.html).

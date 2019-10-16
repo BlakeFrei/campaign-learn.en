@@ -10,7 +10,7 @@ doc-type: tutorial
 activity: use
 team: TM
 ---
-#Integrate Mobile SDK with Android App
+# Integrate Mobile SDK with Android App
 In this part, we will integrate the Android app with Mobile SDK. To integrate mobile SDK with the Android app, please follow the following steps:
 
 * Open the ACSPushTutorial project in Android Studio
@@ -72,3 +72,4 @@ Your AndroidManifest.xml should look like this
 
 </manifest>
 ```
+

@@ -11,6 +11,7 @@ activity: use
 team: TM
 ---
 # Set push identifier
+
 **pushIdentifier** is a string that contains the device token for push notifications. This is the same token that is sent by Firebase and is passed  to the SDK using the MobileCore.setPushIdentifier method.
 
 Open your project in Android studio. Delete the entire code in MainActivity **except the first line which is your package statement**

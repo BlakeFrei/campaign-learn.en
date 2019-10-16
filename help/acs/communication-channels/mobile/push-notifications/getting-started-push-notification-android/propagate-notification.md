@@ -78,7 +78,9 @@ notificationManager.notify(0 /* ID of notification */, notificationBuilder.build
 }
 
 ```
+
 ## Modify AndroidManifest.xml
+
  Add the service that was created to your AndroidManifest.xml. The final AndroidManifest.xml should look like below
 
 ```xml {.line-numbers}

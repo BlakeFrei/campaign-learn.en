@@ -10,7 +10,8 @@ doc-type: tutorial
 activity: use
 team: TM
 ---
-#Register Extensions with your mobile app
+
+# Register Extensions with your mobile app
 
 In this part we will add the code to register the UserProfile,Identity,Lifecycle and Signal extensions. These extensions are part of [Mobile Core Extensions](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/mobile-core). We will also need to register the Campaign extension as shown in the code below.
 

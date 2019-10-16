@@ -11,6 +11,7 @@ activity: use
 team: TM
 ---
 ## Create Push Notification
+
 We now need to create and send push notification using Adobe Campaign. [Detailed documentation on push notification](https://docs.adobe.com/content/help/en/campaign-standard/using/communication-channels/push-notifications/about-push-notifications.html). To create a simple push notification for testing purposes, please follow the following steps.
 
 * Login to your Adobe Campaign Standard instance

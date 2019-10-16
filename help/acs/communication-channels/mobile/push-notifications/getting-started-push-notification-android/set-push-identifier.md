@@ -77,6 +77,7 @@ MobileCore.lifecyclePause();
 ```
 
 ## Test your app
+
 Now is a good time to test your app, before going any further.
 
 * Run your app by clicking green arrow or select Run->Run'app'
@@ -85,6 +86,7 @@ Now is a good time to test your app, before going any further.
 ![logcat-token](assets/logcat-got-token.PNG)
 
 ### Check Mobile Application Subscribers
+
 Login to your Adobe Campaign Standard instance
 Navigate Administration->Channels->Mobile App(AEP SDK). Open the appropriate mobile application. Tab to the Mobile Application Subscribers tab. You should a registration token
 ![mobile-application-subscribers](assets/mobile-application-subscribers.PNG)

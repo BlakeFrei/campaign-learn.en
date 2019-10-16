@@ -11,6 +11,7 @@ activity: use
 team: TM
 ---
 # Integrate Mobile SDK with Android App
+
 In this part, we will integrate the Android app with Mobile SDK. To integrate mobile SDK with the Android app, please follow the following steps:
 
 * Open the ACSPushTutorial project in Android Studio
@@ -40,6 +41,7 @@ Open AndroidManifest.xml and paste the following 2 lines after the manifest elem
 <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
 
 ```
+
 copy the following line in the application element
 android:name=".MainApp"
 Save your AndroidManifest.xml

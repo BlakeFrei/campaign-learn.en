@@ -10,7 +10,7 @@ doc-type: tutorial
 activity: use
 team: TM
 ---
-## Add Service to send notification
+# Add Service to send notification
 
 In this part, we will propagate the message received from Adobe Campaign using Android Notification Manager. Notification manager is used to notify the user of events that happen. This is how you tell the user that something has happened in the background.
 
@@ -78,7 +78,7 @@ notificationManager.notify(0 /* ID of notification */, notificationBuilder.build
 }
 
 ```
-##Modify AndroidManifest.xml
+## Modify AndroidManifest.xml
  Add the service that was created to your AndroidManifest.xml. The final AndroidManifest.xml should look like below
 
 ```xml {.line-numbers}

@@ -11,7 +11,8 @@ activity: use
 team: TM
 ---
 
-**Creating Android App and Configuring to use Firebase Cloud Messaging**
+# Creating Android App and Configuring to use Firebase Cloud Messaging
+
 In this part we will create Android App to receive push notifications sent from Adobe Campaign Standard.In order to receive the push notifications, app needs to be registered with Google's Firebase Cloud Service.
 
 * Login to your Firebase account. Firebase is Google's mobile platform that helps you quickly develop high-quality apps. If you do not have Firebase account, please create one [from here](https://firebase.google.com).
@@ -35,7 +36,7 @@ In this part we will create Android App to receive push notifications sent from 
  ![fcm-successfull](assets/android-firebase-success.PNG)
 * [Make sure your project is listed in Firebase console](https://console.firebase.google.com/)
 
-##Configure Push Channel Settings
+## Configure Push Channel Settings
 
 * Login to Firebase console
 * Open the **ACSPushTutorial** project. Click on the gear icon and open the project settings 

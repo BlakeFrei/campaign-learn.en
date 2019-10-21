@@ -41,7 +41,7 @@ getting-started-url: https://docs.adobe.com/content/help/en/campaign-standard/us
       + [Creating a SMS Delivery](/help/acs/communication-channels/mobile/sms/sms-delivery.md)
       + [Creating Multi-lingual Email and SMS Deliveries](/help/acs/communication-channels/create-multilingual-deliveries.md)
     + Push Notifications {#push}
-      + Getting Started with Push Notifications {#getting-started-push-notifications}
+      + Getting Started with Push Notifications for Android {#getting-started-push-notifications}
         + [Introduction](/help/acs/communication-channels/mobile/push-notifications/getting-started-push-notification-android/getting-started-with-push-notifications-android.md)
         + [Create Android App](/help/acs/communication-channels/mobile/push-notifications/getting-started-push-notification-android/create-android-app.md)
         + [Integrating the Mobile SDK](/help/acs/communication-channels/mobile/push-notifications/getting-started-push-notification-android/integrating-with-mobile-sdk.md)

@@ -23,23 +23,24 @@ getting-started-url: https://docs.adobe.com/content/help/en/campaign-standard/us
   + [Sending a test, preparing and sending an email](/help/acs/communication-channels/email/sending-test-preparing-sending-email.md)
   + [Create a workflow](/help/acs/managing-processes-and-data/create-workflow.md)
   + [Importing profiles with a workflow](/help/acs/managing-processes-and-data/importing-profiles.md)
-  + [User access management](/help/acs/administrating/access-management.md)
+  + [Access management](/help/acs/administrating/access-management.md)
   + [Creating a Dynamic Report](/help/acs/reporting/creating-a-dynamic-report.md)
 + Profiles and audiences {#profiles-and-audiences}
-  + [Create a profile](/help/acs/profiles-and-audiences/creating-a-profile.md)
+  + [Creating a profile](/help/acs/profiles-and-audiences/creating-a-profile.md)
   + [Creating a test profile](/help/acs/profiles-and-audiences/test-profiles.md)
   + [Importing profiles with a workflow](/help/acs/managing-processes-and-data/importing-profiles.md)
   + [Managing subscriptions](/help/acs/managing-processes-and-data/services-and-subscriptions.md)
 + Communication channels {#communication-channels}
-  
   + Email {#email}
     + [Create an email](/help/acs/communication-channels/email/create-email-from-homepage.md)
     + [Sending a test, preparing and sending an email](/help/acs/communication-channels/email/sending-test-preparing-sending-email.md)
     + [Creating Multi-lingual Email and SMS Deliveries](/help/acs/communication-channels/create-multilingual-deliveries.md)
+    + [Convert an existing email or SMS delivery to multilingual](/help/acs/communication-channels/covert-into-multilingual-deliveries.md)
   + Mobile {#mobile}
     + SMS{#sms}
       + [Creating a SMS Delivery](/help/acs/communication-channels/mobile/sms/sms-delivery.md)
       + [Creating Multi-lingual Email and SMS Deliveries](/help/acs/communication-channels/create-multilingual-deliveries.md)
+      + [Convert an existing email or SMS delivery to multilingual](/help/acs/communication-channels/covert-into-multilingual-deliveries.md)
     + Push Notifications {#push}
       + Getting Started with Push Notifications for Android {#getting-started-push-notifications}
         + [Introduction](/help/acs/communication-channels/mobile/push-notifications/getting-started-push-notification-android/getting-started-with-push-notifications-android.md)
@@ -49,7 +50,7 @@ getting-started-url: https://docs.adobe.com/content/help/en/campaign-standard/us
         + [Set Push Identifier](/help/acs/communication-channels/mobile/push-notifications/getting-started-push-notification-android/set-push-identifier.md)
         + [Propagate Notifications](/help/acs/communication-channels/mobile/push-notifications/getting-started-push-notification-android/propagate-notification.md)
         + [Time to Test](/help/acs/communication-channels/mobile/push-notifications/getting-started-push-notification-android/send-push-notification.md)
-    + [Multi-lingual Push](/help/acs/communication-channels/mobile/push-notifications/create-multilingual-push.md)
+      + [Multi-lingual Push](/help/acs/communication-channels/mobile/push-notifications/create-multilingual-push.md)
     + In-App Messages {#in-app}
       + [Overview](/help/acs/communication-channels/mobile/in-app/in-app-message-overview.md)
       + [Configure Events](/help/acs/communication-channels/mobile/in-app/configure-events.md)

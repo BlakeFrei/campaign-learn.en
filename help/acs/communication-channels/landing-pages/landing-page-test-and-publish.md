@@ -11,7 +11,7 @@ activity: use
 team: DOC
 ---
 
-# Test and publish a landing page {#test-and-publish-a-landing-page}
+# Test and publish a landing page
 
 This video explains how test a landing page and how to publish it.
 

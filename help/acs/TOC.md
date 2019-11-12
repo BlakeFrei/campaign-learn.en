@@ -71,7 +71,8 @@ getting-started-url: https://docs.adobe.com/content/help/en/campaign-standard/us
     + [Configure the mobile view](/help/acs/designing-content/email-designer/configure-the-mobile-view.md)
     + [Preview your email](/help/acs/designing-content/email-designer/preview-your-email.md)
     + [Working with existing content](/help/acs/designing-content/email-designer/working-with-existing-content.md)
-    + [Integrations with the Creative Cloud](/help/acs/designing-content/email-designer/integrations-with-the-adobe-creative-cloud.md)
+    + [Creating content using Dreamweaver](/help/acs/designing-content/email-designer/dreamweaver-integration.md)
+    + [Edit images using Creative Cloud SDK](/help/acs/designing-content/email-designer/adobe-creative-cloud-sdk-integration.md)
   + [Product listings in transactional emails](/help/acs/designing-content/product-listings-in-transactional-email.md)
 + Managing processes and data {#managing-processes-and-data}
   + [Create a workflow](/help/acs/managing-processes-and-data/create-workflow.md)

@@ -1,8 +1,6 @@
 ---
 title: Configuring Product Listings in Transactional Emails
-seo-title: Configuring Product Listings in Transactional Emails 
-description: This feature allows you to create transactional emails with a list of products and offerings.
-seo-description: This feature allows you to create transactional emails with a list of products and offerings.
+description: The videos explain the steps that are required to configure Product Listings in Transactional Emails in Adobe Campaign Standard (ACS).
 uuid: 04910914-d6e9-4196-bf6f-1d9dac8c18bd
 discoiquuid: 05d7c4ec-8ce0-48cf-b89e-4fc9f8760bc1
 feature: Transactional Emails
@@ -17,7 +15,7 @@ team: TM
 
 You can configure a retargeting email that has a list of products, that are not known at design time. They will be added from the payload at run time. For example, you can automatically send a cart abandonment email, listing all the products that were in the user's cart with an image, price, and link to each product.
 
-The following videos explain the steps that are required to configure Product Listings in Transactional Emails feature.
+The following videos explain the steps that are required to configure Product Listings in Transactional Emails.
 
 **Please note:** **This feature is currently referred to as Loop within the product.**
 

@@ -1,19 +1,14 @@
 ---
-title: Integrations with the Adobe Creative Cloud
-seo-title: Integrations with the Adobe Creative Cloud
-feature: Dreamweaver Integration 
+title: Creating content for Adobe Campaign Standard (ACS) using Adobe Dreamweaver
+description: The video explains what is required to enable the Dreamweaver integration and how to create and edit content for Adobe Campaign Standard using Dreamweaver.
 topics: Email Designer
-kt: KT-1427
+kt: KT-1420
 doc-type: feature video
 activity: use
 team: TM
 ---
 
-# Integrations with the Adobe Creative Cloud {#integrations-with-the-adobe-creative-cloud}
-
-## Creating content using Dreamweaver
-
-This feature allows you to edit 
+# Creating content using Dreamweaver
 
 The Adobe Campaign Standard integration with Dreamweaver lets you edit an email's content in the Dreamweaver interface:
 
@@ -29,16 +24,8 @@ The video explains what is required to enable the Dreamweaver integration and ho
 >[!VIDEO](https://video.tv.adobe.com/v/23121?quality=12)
 *How to use the Dreamweaver Integration in Adobe Campaign (02:37 min)*
 
-## Modify Images using the Creative Cloud SDK Integration
-
-This video describes how you can easily edit images directly from the Email Designer using the integrated Creative SDK functionality.
-
->[!VIDEO](https://video.tv.adobe.com/v/23117?quality=12)
-*Creative Cloud SDk Integration (02:40 min)*
-
 ## Additional Resources
 
-* [Design through Adobe Campaign integrations](https://helpx.adobe.com/campaign/standard/designing/using/about-email-content-design.html#design-through-adobe-campaign-integrations)
 * [Troubleshooting the Adobe Campaign Dreamweaver installation](https://helpx.adobe.com/dreamweaver/kb/dreamweaver-campaign-integration-issue.html)
 * [Adobe Dreamweaver Documentation](https://helpx.adobe.com/dreamweaver/using/working-with-dreamweaver-and-campaign.html)
 * [Install add-ons and extensions for Adobe apps](https://helpx.adobe.com/creative-cloud/kb/installingextensionsandaddons.html) 

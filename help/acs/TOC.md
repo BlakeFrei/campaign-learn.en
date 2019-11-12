@@ -31,15 +31,16 @@ getting-started-url: https://docs.adobe.com/content/help/en/campaign-standard/us
   + [Importing profiles with a workflow](/help/acs/managing-processes-and-data/importing-profiles.md)
   + [Managing subscriptions](/help/acs/managing-processes-and-data/services-and-subscriptions.md)
 + Communication channels {#communication-channels}
-  
   + Email {#email}
     + [Create an email](/help/acs/communication-channels/email/create-email-from-homepage.md)
     + [Sending a test, preparing and sending an email](/help/acs/communication-channels/email/sending-test-preparing-sending-email.md)
     + [Creating Multi-lingual Email and SMS Deliveries](/help/acs/communication-channels/create-multilingual-deliveries.md)
+    +  + [Convert an existing email or SMS delivery to multilingual](/help/acs/communication-channels/covert-into-multilingual-deliveries.md)
   + Mobile {#mobile}
     + SMS{#sms}
       + [Creating a SMS Delivery](/help/acs/communication-channels/mobile/sms/sms-delivery.md)
       + [Creating Multi-lingual Email and SMS Deliveries](/help/acs/communication-channels/create-multilingual-deliveries.md)
+      + [Convert an existing email or SMS delivery to multilingual](/help/acs/communication-channels/covert-into-multilingual-deliveries.md)
     + Push Notifications {#push}
       + Getting Started with Push Notifications for Android {#getting-started-push-notifications}
         + [Introduction](/help/acs/communication-channels/mobile/push-notifications/getting-started-push-notification-android/getting-started-with-push-notifications-android.md)

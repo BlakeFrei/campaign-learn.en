@@ -30,5 +30,5 @@ This tutorial will walk you through the steps involved in sending push notificat
 * [Step 2 - Integrating the Mobile SDK](integrating-with-mobile-sdk.md)
 * [Step 3 - Register Mobile Extension](register-mobile-extensions.md)
 * [Step 4 - Set Push Identifier](set-push-identifier.md)
-* [Step 5 - Propagate Notifications](propogate-notifications.md)
+* [Step 5 - Propagate Notifications](propagate-notifications.md)
 * [Step 6 - Send Notification](send-push-notification.md)

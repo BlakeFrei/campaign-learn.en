@@ -52,7 +52,7 @@ In this part we will create Android App to receive push notifications sent from 
  5. Click on Adobe Campaign -> Administration->Channels->Mobile App
  6. Select the appropriate Mobile Application Property
  7. Click on the Android icon in the Push Channel settings section
-9. Paste the server key in the Server key field. Everything goes well you should see a SUCCESS message.
+8. Paste the server key in the Server key field. Everything goes well you should see a SUCCESS message.
     ![push-channel-settings](assets/push-channel-settings.PNG)
 
 To summarize, we have created Android App and connected the Android App with Firebase. We then connected the Mobile App with the Android App by pasting the Android App's server key in to the Mobile App in Adobe Campaign Standard.

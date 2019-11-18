@@ -21,7 +21,5 @@ This tutorial will walk you through the steps involved in sending push notificat
 * [You should have launch property configured with Adobe Campaign Standard Extension](https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-mobile-ios-swift-apps-with-launch/configure-launch/launch-create-a-property.html)
 
 * Make sure the corresponding property's status in Adobe Campaign Standard is set to configured.
-* [Have an active Google Firebase account](https://google.firebase.com) 
+* [Have an active Google Firebase account](https://firebase.google.com) 
 * [Latest version of Android Studio installed](https://developer.android.com/studio)
-
-

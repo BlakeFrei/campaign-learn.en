@@ -52,9 +52,10 @@ getting-started-url: https://docs.adobe.com/content/help/en/campaign-standard/us
         + [Send Notification](/help/acs/communication-channels/mobile/push-notifications/getting-started-push-notification-android/send-push-notification.md)
       + [Multi-lingual Push](/help/acs/communication-channels/mobile/push-notifications/create-multilingual-push.md)
     + In-App Messages {#in-app}
-      + [Overview](/help/acs/communication-channels/mobile/in-app/in-app-message-overview.md)
+      + [Introduction to In-App Messages](/help/acs/communication-channels/mobile/in-app/in-app-message-overview.md)
       + [Configure Events](/help/acs/communication-channels/mobile/in-app/configure-events.md)
-      + [Create, manage, and publish In-App messages](/help/acs/communication-channels/mobile/in-app/create-manage-publish-in-app-messages.md)
+      + [Broadcast an In-App message - Template](/help/acs/communication-channels/mobile/in-app/broadcast-in-app-message.md)
+      + [Target users based on their Campaign profile - Template](/help/acs/communication-channels/mobile/in-app/target-users-based-on-campaign-profil.md)
       + [Create an In-App delivery within a workflow](/help/acs/communication-channels/mobile/in-app/in-app-activity.md)
       + [Report on your In-App delivery](/help/acs/communication-channels/mobile/in-app/in-app-reporting.md)
     + [Configure a mobile application using Adobe Experience Platform SDK](/help/acs/communication-channels/mobile/configure-mobile-apps-using-aep-sdk.md)
@@ -95,9 +96,14 @@ getting-started-url: https://docs.adobe.com/content/help/en/campaign-standard/us
 + Integrating {#integrating}
   + Microsoft Dynamics 365 Connector {#microsoft-dynamics365-connector}
     + [Introduction](/help/acs/integration/microsoft-dynamics-365-connector/introduction.md)
+    + [Single Sign On (SSO)](help/acs/integration/microsoft-dynamics-365-connector/single-sign-on.md)
+    + [Support for Mirror Page URL](/help/acs/integration/microsoft-dynamics-365-connector/mirror-page-url.md)
     + [Configure Microsoft Dynamics 365](/help/acs/integration/microsoft-dynamics-365-connector/configure-microsoft-dynamics-365.md)
     + [Configure Adobe IO](/help/acs/integration/microsoft-dynamics-365-connector/configure-adobe-io.md)
-    + [Configure Unifi](/help/acs/integration/microsoft-dynamics-365-connector/configure-unifi.md)
+    + [Configure Unifi - Introduction](/help/acs/integration/microsoft-dynamics-365-connector/configure-unifi-introduction.md)
+    + [Unifi Jobs - Overview](/help/acs/integration/microsoft-dynamics-365-connector/configure-unifi-jobs-overview.md)
+    + [Unifi Jobs - Ingress and Egress](/help/acs/integration/microsoft-dynamics-365-connector/configure-unifi-jobs-ingress-egress.md)
+    + [Unifi - Operationalization & Monitoring](/help/acs/integration/microsoft-dynamics-365-connector/configure-unifi-operalization-and-monitoring.md)
 + Administrating {#administrating}
   + [Access management](/help/acs/administrating/access-management.md)
   + Control Panel {#control-panel}

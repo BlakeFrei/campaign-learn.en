@@ -24,7 +24,7 @@ You can access your integration details via single sign on. The [video](/help/ac
 1. [Configure Microsoft Dynamics 365](/help/acs/integration/microsoft-dynamics-365-connector/configure-microsoft-dynamics-365.md)
 2. [Configure Adobe IO](/help/acs/integration/microsoft-dynamics-365-connector/configure-adobe-io.md
 3. Configure Unifi
-   * [Unifi Introduction](/help/acs/integration/microsoft-dynamics-365-connector/unifi-introduction.md)
+   * [Unifi Introduction](/help/acs/integration/microsoft-dynamics-365-connector/configure-unifi-introduction.md)
    * [Unifi Jobs - Overview](/help/acs/integration/microsoft-dynamics-365-connector/configure-unifi-jobs-overview.md)
    * [Unifi Jobs - Ingress and Egress](/help/acs/integration/microsoft-dynamics-365-connector/configure-unifi-jobs-ingress-egress.md)
    * [Unifi - Operationalization & Monitoring](/help/acs/integration/microsoft-dynamics-365-connector/configure-unifi-operalization-and-monitoring.md)

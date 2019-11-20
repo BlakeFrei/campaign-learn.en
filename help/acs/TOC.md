@@ -95,8 +95,8 @@ getting-started-url: https://docs.adobe.com/content/help/en/campaign-standard/us
     + [Creating Custom Resources](/help/acs/managing-processes-and-data/custom-resources/creating-custom-resources.md)
 + Integrating {#integrating}
   + Microsoft Dynamics 365 Connector {#microsoft-dynamics365-connector}
-    + [Introduction](help/acs/integration/microsoft-dynamics-365-connector/configure-unifi-introduction.md)
-    + [Single Sign On (SSO)](help/acs/integration/microsoft-dynamics-365-connector/single-sign-on.md)
+    + [Introduction](/help/acs/integration/microsoft-dynamics-365-connector/configure-unifi-introduction.md)
+    + [Single Sign On (SSO)](/help/acs/integration/microsoft-dynamics-365-connector/single-sign-on.md)
     + [Support for Mirror Page URL](/help/acs/integration/microsoft-dynamics-365-connector/mirror-page-url.md)
     + [Configure Microsoft Dynamics 365](/help/acs/integration/microsoft-dynamics-365-connector/configure-microsoft-dynamics-365.md)
     + [Configure Adobe IO](/help/acs/integration/microsoft-dynamics-365-connector/configure-adobe-io.md)

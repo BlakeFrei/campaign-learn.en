@@ -47,6 +47,8 @@ The video below explains each of the use cases in more detail.
     https://helpx-internal.corp.adobe.com/content/help/en/campaign/kb/acs-ms-dynamics.html#Notices)
 
 ## Additional Resources
-   * [Unifi Jobs - Overview](/help/acs/integration/microsoft-dynamics-365-connector/configure-unifi-jobs-overview.md)
-   * [Unifi Jobs - Ingress and Egress](/help/acs/integration/microsoft-dynamics-365-connector/configure-unifi-jobs-ingress-egress.md)
-   * [Unifi - Operationalization & Monitoring](/help/acs/integration/microsoft-dynamics-365-connector/configure-unifi-operalization-and-monitoring.md)
+
+* [Unifi Jobs - Overview](/help/acs/integration/microsoft-dynamics-365-connector/configure-unifi-jobs-overview.md)
+* [Unifi Jobs - Ingress and Egress](/help/acs/integration/microsoft-dynamics-365-connector/configure-unifi-jobs-ingress-egress.md)
+* [Unifi - Operationalization & Monitoring](/help/acs/integration/microsoft-dynamics-365-connector/configure-unifi-operalization-and-monitoring.md)
+  

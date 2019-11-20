@@ -17,21 +17,18 @@ With the integration between ACS and Dynamics 365, you can activate your CRM dat
 
 >[!VIDEO](https://video.tv.adobe.com/v/27975?quality=12)
 
-The following video explains how the mirror page URL is being used:
-
->[!VIDEO](https://video.tv.adobe.com/v/29253?quality=12)
-
-## Single Sign On (SSO)
-
-You access your integration details via single sign on. The video below explains how to do this.
-
->[!VIDEO](https://video.tv.adobe.com/v/29254?quality=12)
+You can access your integration details via single sign on. The [video](/help/acs/integration/microsoft-dynamics-365-connector/single-sign-on.md) below explains how to do this.
 
 ## How to configure the Microsoft Dynamics 365 Connector - Video tutorials
 
 1. [Configure Microsoft Dynamics 365](/help/acs/integration/microsoft-dynamics-365-connector/configure-microsoft-dynamics-365.md)
-2. [Configure Adobe IO](/help/acs/integration/microsoft-dynamics-365-connector/configure-adobe-io.md)
-3. [Configure Unifi](/help/acs/integration/microsoft-dynamics-365-connector/configure-unifi.md)
+2. [Configure Adobe IO](/help/acs/integration/microsoft-dynamics-365-connector/configure-adobe-io.md
+3. Configure Unifi
+   * [Unifi Introduction](/help/acs/integration/microsoft-dynamics-365-connector/configure-unifi-introduction.md)
+   * [Unifi Jobs - Overview](/help/acs/integration/microsoft-dynamics-365-connector/configure-unifi-jobs-overview.md)
+   * [Unifi Jobs - Ingress and Egress](/help/acs/integration/microsoft-dynamics-365-connector/configure-unifi-jobs-ingress-egress.md)
+   * [Unifi - Operationalization & Monitoring](/help/acs/integration/microsoft-dynamics-365-connector/configure-unifi-operalization-and-monitoring.md)
+4. [Using the mirror page URL](/help/acs/integration/microsoft-dynamics-365-connector/mirror-page-url.md)
 
 ## Additional Resources
 

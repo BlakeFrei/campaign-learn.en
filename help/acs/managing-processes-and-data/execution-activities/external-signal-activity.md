@@ -30,12 +30,11 @@ The video below explains the configuration steps required to:
 2. **Customize a workflow with external parameters** (eventsvariables):
 Once the workflow triggered, the parameters are ingested into the workflow's events variables and can be used within the workflow. See the [documentation](https://helpx.adobe.com/campaign/standard/automating/using/calling-a-workflow-with-external-parameters.html) for all activities that can be customized with event variables:
    * Configure the Test Activity (new in 19.2)
-   * Configure Read Audience and Email Delivery Activity 
+   * Configure Read Audience and Email Delivery Activity
 3. **Configure an End Activity** to call a workflow with external parameters
 
->[!VIDEO](https://video.tv.adobe.com/v/16831/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/27249/?quality=12)
 
 ## Additional Resources
 
 * [External Signal (documentation)](https://docs.adobe.com/content/help/en/campaign-standard/using/managing-processes-and-data/data-management-activities/external-api.html)
-  

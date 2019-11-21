@@ -1,10 +1,9 @@
 ---
 title: Configuring Events
 seo-title: Configuring Events
-description: When configuring an In-App message you need to define which user initiated action will trigger the message to be displayed. These actions are called events. 
-seo-description: When configuring an In-App message you need to define which user initiated action will trigger the message to be displayed. These actions are called events. 
+description: When configuring an In-App message in Adobe Campaign Standard (ACS) events define which user initiated action will trigger the message to be displayed. 
 feature: In-App
-topics: Channels
+topics: Mobile
 kt: KT-1911
 doc-type: feature video
 activity: use
@@ -50,13 +49,12 @@ An example use case could be a message introducing new features after an upgrade
 The following three categories are supported depending on what is instrumented in your mobile app:
 
 * Adobe Analytics
-* Context data 
+* Context data
 * View state.
 
 >[!NOTE]
 >
 >Analytics events require an Adobe Analytics licence. Once you have the [Analytics extension configured](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-analytics#configure-analytics-extension-in-launch) and have added [Analytics to your App](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-analytics#add-analytics-to-your-app), these events become available in the In-App configuration in ACS.
-
 
 ## Additional Resources
 

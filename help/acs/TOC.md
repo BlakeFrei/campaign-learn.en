@@ -81,15 +81,12 @@ getting-started-url: https://docs.adobe.com/content/help/en/campaign-standard/us
   + [Importing profiles with a workflow](/help/acs/managing-processes-and-data/importing-profiles.md)
   + Execution Activities {#execution-activities}
     + [External Signal Activity](/help/acs/managing-processes-and-data/execution-activities/external-signal-activity.md)
-  + Channel Activities {#channel-activities}
-    + [In-App Activity](/help/acs/communication-channels/mobile/in-app/in-app-activity.md)
   + Data Management Activities {#data-management-activities}
     + [External API Activity (beta)](/help/acs/managing-processes-and-data/data-management-activities/external-api-activity.md)
 + Reporting {#reporting}
   + [Creating a Dynamic Report](/help/acs/reporting/creating-a-dynamic-report.md)
   + [Creating Dynamic Report Using Custom Profile Attributes](/help/acs/reporting/custom-profile-attributes-dynamic-reports.md)
   + [Creating a report based on workflow segments](/help/acs/reporting/report-on-workflow-segments.md)
-  + [In-App Reports](/help/acs/communication-channels/mobile/in-app/in-app-reporting.md)
 + Developing {#developing}
   + Custom Resources {#custom-resources-develop}
     + [Creating Custom Resources](/help/acs/managing-processes-and-data/custom-resources/creating-custom-resources.md)

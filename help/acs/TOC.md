@@ -105,7 +105,10 @@ getting-started-url: https://docs.adobe.com/content/help/en/campaign-standard/us
   + [Access management](/help/acs/administrating/access-management.md)
   + Control Panel {#control-panel}
     + [Control Panel Overview](/help/acs/administrating/control-panel/control-panel-overview.md)
-    + [Managing SFTP Servers](/help/acs/administrating/control-panel/managing-sftp-servers.md)
+    + Managing SFTP Servers{#managing-sftp-servers}
+      + [Monitoring server capacity, whitelisting IP addresses, and adding SSH keys](help/acs/administrating/control-panel/monitoring-server-capacity-whitelisting-adding-ssh-key.md)
+      + [Generate a SSH Key](help/acs/administrating/control-panel/generate-ssh-key.md)
+      + [Connect to a SFTP Server](/help/acs/administrating/control-panel/connect-to-sftp-server.md)
     + [Managing SSL Certificates](/help/acs/administrating/control-panel/managing-ssl-certificates.md)
     + [Trouble Shooting](/help/acs/administrating/control-panel/trouble-shooting.md)
   + Typology Rules{#typology-rules}

@@ -1,8 +1,6 @@
 ---
-title: Managing SFTP Servers
-seo-title: Managing SFTP Servers
+title: Monitoring server capacity, whitelisting IP addresses, and adding SSH keys
 description: The Control Panel allows you to monitor and manage your SFTP storage by instance and whitelist IP addresses.
-seo-description: The Control Panel allows you to monitor and manage your SFTP storage by instance and whitelist IP addresses.
 feature: SFTP Server Whitelisting
 topics: Control Panel
 kt: KT-3266
@@ -11,9 +9,7 @@ activity: use
 team: PM
 ---
 
-# Managing SFTP Servers 
-
-## Working with the Control Panel: Monitoring server capacity, whitelisting IP addresses, and adding SSH keys
+# Monitoring server capacity, whitelisting IP addresses, and adding SSH keys
 
 To access the Control Panel go to Experience Cloud Home: [https://experiencecloud.adobe.com]( https://experiencecloud.adobe.com):
 
@@ -28,7 +24,7 @@ To access the Control Panel go to Experience Cloud Home: [https://experienceclou
 
 >[!NOTE]
 >
->**Instances:** Only the instances for which you have administrator rights will be listed. 
+>**Instances:** Only the instances for which you have administrator rights will be listed.
 >
 >**Job Logs:** Only jobs that were executed in the control panel are listed. The jobs that were executed outside of Control Panel are not included (for example workflows being executed, etc.)
 >
@@ -40,22 +36,11 @@ To access the Control Panel go to Experience Cloud Home: [https://experienceclou
 >
 >Orange - the server is 80% utilized
 >
->Red - the server is 90% utilized 
-
-## Generate SSH Key
+>Red - the server is 90% utilized
 
 You need to be able to generate a SSH key. The video below explains how to generate a SSH key using a terminal.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27259?quality=12)
 *How to create a SSH key (2:16 min)*
 
-## Connect to a SFTP Server
-
-Connecting to SFTP servers requires:
-
-* Whitelisting the IP address from which you are connecting to the SFTP server  
-* Private/public key pair that needs to be registered with Adobe Campaign
-* If connecting to the SFTP server directly you will also need SFTP client software
-
->[!VIDEO](https://video.tv.adobe.com/v/27263?quality=12)
-*Connect to a SFTP server (02:04 min)*
+## Additional Resources

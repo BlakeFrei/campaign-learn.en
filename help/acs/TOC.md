@@ -19,7 +19,7 @@ getting-started-url: https://docs.adobe.com/content/help/en/campaign-standard/us
   + [Functional Overview](/help/acs/getting-started/functional-overview.md)
   + [Configure a list](/help/acs/getting-started/configure-a-list.md)
   + [Managing campaigns](/help/acs/getting-started/managing-campaigns.md)
-  + [Understand Profiles and Audiences](/help/acs/getting-started/understand-profiles-and-audiences-in-acs.md)
+  + [Understand Profiles and Audiences](/help/acs/getting-started/creating-profiles-and-audiences-in-acs.md)
   + [Creating a test profile](/help/acs/profiles-and-audiences/test-profiles.md)
   + [Email Designer - Introduction](/help/acs/getting-started/email-designer-introduction.md)
   + [Create an email](/help/acs/communication-channels/email/create-email-from-homepage.md)
@@ -27,7 +27,7 @@ getting-started-url: https://docs.adobe.com/content/help/en/campaign-standard/us
   + [Create a workflow](/help/acs/managing-processes-and-data/create-workflow.md)
   + [Importing profiles with a workflow](/help/acs/managing-processes-and-data/importing-profiles.md)
   + [Access management](/help/acs/administrating/access-management.md)
-  + [Reporting](help/acs/getting-started/reporting-with-adobe-campaign-introduction.md)
+  + [Reporting](/help/acs/getting-started/reporting-with-adobe-campaign-introduction.md)
   + [Mobile Marketing with Adobe Campaign](/help/acs/getting-started/mobile-marketing-with-adobe-campaign.md)
   + [Growing with Adobe Campaign](/help/acs/getting-started/growing-with-adobe-campaign.md)
 + Profiles and audiences {#profiles-and-audiences}

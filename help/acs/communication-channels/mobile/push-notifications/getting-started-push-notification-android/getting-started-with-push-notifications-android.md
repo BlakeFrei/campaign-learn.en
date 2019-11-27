@@ -23,9 +23,9 @@ This tutorial will walk you through the steps involved in sending push notificat
 
 ## Tutorial Steps
 
-* [Step 1 - Create Android App](create-android-app.md)
-* [Step 2 - Integrating the Mobile SDK](integrating-with-mobile-sdk.md)
-* [Step 3 - Register Mobile Extension](register-mobile-extensions.md)
-* [Step 4 - Set Push Identifier](set-push-identifier.md)
-* [Step 5 - Propagate Notifications](propagate-notification.md)
-* [Step 6 - Send Notification](send-push-notification.md)
+* [Step 1 - Create Android App](/help/acs/communication-channels/mobile/push-notifications/getting-started-push-notification-android/create-android-app.md)
+* [Step 2 - Integrating the Mobile SDK](/help/acs/communication-channels/mobile/push-notifications/getting-started-push-notification-android/integrating-with-mobile-sdk.md)
+* [Step 3 - Register Mobile Extension](/help/acs/communication-channels/mobile/push-notifications/getting-started-push-notification-android/register-mobile-extensions.md)
+* [Step 4 - Set Push Identifier](/help/acs/communication-channels/mobile/push-notifications/getting-started-push-notification-android/set-push-identifier.md)
+* [Step 5 - Propagate Notifications](/help/acs/communication-channels/mobile/push-notifications/getting-started-push-notification-android/propagate-notification.md)
+* [Step 6 - Send Notification](/help/acs/communication-channels/mobile/push-notifications/getting-started-push-notification-android/send-push-notification.md)

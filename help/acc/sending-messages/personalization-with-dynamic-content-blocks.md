@@ -24,7 +24,7 @@ In Adobe Campaign, you can personalize content or the appearance of messages and
 
 This tutorial demonstrated how to personalize delivery content, use JavaScript code in delivery templates, standardize and share content blocks in different delivery templates.
 
-## Create and add a personalization block to a delivery 
+## Create and add a personalization block to a delivery
 
 A personalization block is dynamic, personalized and contains specific rendering code that can be added to deliveries. For example, you can add images, email headers, email footers, mirror page links, unsubscription links, and much more.
 
@@ -36,13 +36,12 @@ Personalization fields are used for first-level personalization of the content o
 
 >[!VIDEO](https://video.tv.adobe.com/v/24925?quality=12)
 
-## Add conditional content to a delivery 
+## Add conditional content to a delivery
 
 By configuring conditional content fields, you can create advanced personalization. Complete text blocks and/or images are replaced when a particular condition is satisfied. This video demonstrated how to add conditional content to a delivery on the example of a multi-lingual newsletter.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24926?quality=12)
 
-## Additional Resources 
+## Additional Resources
 
 * [About Personalization](https://docs.campaign.adobe.com/doc/AC/en/DLV_Personalizing_deliveries_About_personalization.html)
-

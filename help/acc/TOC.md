@@ -28,6 +28,7 @@ getting-started-url: https://docs.campaign.adobe.com/doc/AC/en/PTF_Starting_with
     + [Manage seed and proofs in an email](/help/acc/sending-messages/managing-seed-and-proofs.md)
     + [Personalize emails using dynamic content blocks](/help/acc/sending-messages/personalization-with-dynamic-content-blocks.md)
     + [Configure recurring and continuous email campaigns](/help/acc/sending-messages/recurring-deliveries.md)
+    + [Defining Interactive Email Content with AMP](/help/acc/sending-messages/email-channel/defining-interactive-email-content-with-amp.md)
   + Push Channel {#push-channel}
     + [Configure Push Channel using the Experience Platform Mobile SDK](/help/acc/sending-messages/mobile-channel/configure-push-using-aep-mobile-sdk.md)
   + [Configure and deploy delivery templates](/help/acc/sending-messages/delivery-template-configuration.md)

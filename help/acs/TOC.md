@@ -16,7 +16,7 @@ getting-started-url: https://docs.adobe.com/content/help/en/campaign-standard/us
 + [Overview](/help/acs/overview.md)
 + Getting started {#getting-started}
   + [Introduction to Adobe Campaign Standard](/help/acs/getting-started/adobe-campaign-standard-introduction.md)
-  + [Functional Overview](help/acs/getting-started/functional-overview.md)
+  + [Functional Overview](/help/acs/getting-started/functional-overview.md)
   + [Configure a list](/help/acs/getting-started/configure-a-list.md)
   + [Managing campaigns](/help/acs/getting-started/managing-campaigns.md)
   + [Understand Profiles and Audiences](/help/acs/getting-started/creating-profiles-and-audiences-in-acs.md)

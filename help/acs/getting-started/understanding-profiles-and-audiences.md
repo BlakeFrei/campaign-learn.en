@@ -9,7 +9,7 @@ activity: understand
 team: WWFRE
 ---
 
-#  Understanding Profiles and Audiences in Adobe Campaign Standard
+# Understanding Profiles and Audiences in Adobe Campaign Standard
 
 This video explains the concept of profiles and audiences and how to create profiles and audiences.
 

@@ -20,7 +20,7 @@ getting-started-url: https://docs.adobe.com/content/help/en/campaign-standard/us
   + [Getting started with the UI](/help/acs/getting-started/getting-started-with-the-ui.md)
   + [Configure a list](/help/acs/getting-started/configure-a-list.md)
   + [Managing campaigns](/help/acs/getting-started/managing-campaigns.md)
-  + [Understand Profiles and Audiences](/help/acs/getting-started/understanding-profiles-and-audiences.md)
+  + [Understanding Profiles and Audiences](/help/acs/getting-started/understanding-profiles-and-audiences.md)
   + [Email Designer - Introduction](/help/acs/getting-started/email-designer-introduction.md)
   + [Create an email](/help/acs/communication-channels/email/create-email-from-homepage.md)
   + [Sending a test, preparing and sending an email](/help/acs/communication-channels/email/sending-test-preparing-sending-email.md)

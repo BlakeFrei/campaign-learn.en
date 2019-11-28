@@ -9,8 +9,8 @@ activity: understand
 team: WWFRE
 ---
 
-# Functional Overview
+# Getting Started with the UI 
 
-This video gives you an overview over the Adobe Campaign Standard (ACS) functionality.
+This video gives you an overview over the Adobe Campaign Standard user interface.
 
 >[!VIDEO](https://video.tv.adobe.com/v/18469?quality=12)

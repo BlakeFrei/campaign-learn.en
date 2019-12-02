@@ -9,7 +9,7 @@ activity: understand
 team: WWFRE
 ---
 
-# Getting Started with the UI 
+# Getting Started with the UI
 
 This video gives you an overview over the Adobe Campaign Standard user interface.
 

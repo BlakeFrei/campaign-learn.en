@@ -1,6 +1,6 @@
 ---
 title: Adobe Campaign Standard Tutorials - Overview
-description: Video tutorials for Adobe Campaign Standard
+description: Video tutorials for Adobe Campaign Standard (ACC)
 products: SG_CAMPAIGN/STANDARD
 ---
 

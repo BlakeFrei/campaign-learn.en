@@ -19,6 +19,7 @@ getting-started-url: https://docs.adobe.com/content/help/en/campaign-standard/us
   + [Functional Overview](/help/acs/getting-started/functional-overview.md)
   + [Getting started with the UI](/help/acs/getting-started/getting-started-with-the-ui.md)
   + [Configure a list](/help/acs/getting-started/configure-a-list.md)
+  + [Explore Hierarchy and Marketing Activities](/help/acs/getting-started/explore-hierarchy-and-marketing-activities.md)
   + [Managing campaigns](/help/acs/getting-started/managing-campaigns.md)
   + [Understanding Profiles and Audiences](/help/acs/getting-started/understanding-profiles-and-audiences.md)
   + [Email Designer - Introduction](/help/acs/getting-started/email-designer-introduction.md)

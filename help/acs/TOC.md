@@ -25,6 +25,7 @@ getting-started-url: https://docs.adobe.com/content/help/en/campaign-standard/us
   + [Email Designer - Introduction](/help/acs/getting-started/email-designer-introduction.md)
   + [Create an email](/help/acs/communication-channels/email/create-email-from-homepage.md)
   + [Sending a test, preparing and sending an email](/help/acs/communication-channels/email/sending-test-preparing-sending-email.md)
+  + [Reviewing Personalized Email Delivery and Reports](/help/acs/getting-started/reviewing-personalized-email-delivery-and-reports.md)
   + [Create a workflow](/help/acs/managing-processes-and-data/create-workflow.md)
   + [Access management](/help/acs/administrating/access-management.md)
   + [Reporting](/help/acs/getting-started/reporting-with-adobe-campaign-introduction.md)

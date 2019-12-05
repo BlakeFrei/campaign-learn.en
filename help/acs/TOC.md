@@ -43,6 +43,7 @@ getting-started-url: https://docs.adobe.com/content/help/en/campaign-standard/us
     + [Sending a test, preparing and sending an email](/help/acs/communication-channels/email/sending-test-preparing-sending-email.md)
     + [Creating Multi-lingual Email and SMS Deliveries](/help/acs/communication-channels/create-multilingual-deliveries.md)
     + [Convert an existing email or SMS delivery to multilingual](/help/acs/communication-channels/covert-into-multilingual-deliveries.md)
+    + [A/B Testing](/help/acs/communication-channels/email/a-b-testing.md)
   + Mobile {#mobile}
     + SMS{#sms}
       + [Creating a SMS Delivery](/help/acs/communication-channels/mobile/sms/sms-delivery.md)

@@ -28,7 +28,7 @@ getting-started-url: https://docs.adobe.com/content/help/en/campaign-standard/us
   + [Reviewing Personalized Email Delivery and Reports](/help/acs/getting-started/reviewing-personalized-email-delivery-and-reports.md)
   + [Create a workflow](/help/acs/managing-processes-and-data/create-workflow.md)
   + [Access management](/help/acs/administrating/access-management.md)
-  + [Reporting](/help/acs/getting-started/reporting-with-adobe-campaign-introduction.md)
+  + [Reporting - Introduction](/help/acs/getting-started/reporting-with-adobe-campaign-introduction.md)
   + [Mobile Marketing with Adobe Campaign](/help/acs/getting-started/mobile-marketing-with-adobe-campaign.md)
   + [Growing with Adobe Campaign](/help/acs/getting-started/growing-with-adobe-campaign.md)
 + Profiles and audiences {#profiles-and-audiences}
@@ -43,6 +43,7 @@ getting-started-url: https://docs.adobe.com/content/help/en/campaign-standard/us
     + [Sending a test, preparing and sending an email](/help/acs/communication-channels/email/sending-test-preparing-sending-email.md)
     + [Creating Multi-lingual Email and SMS Deliveries](/help/acs/communication-channels/create-multilingual-deliveries.md)
     + [Convert an existing email or SMS delivery to multilingual](/help/acs/communication-channels/covert-into-multilingual-deliveries.md)
+    + [A/B Testing](/help/acs/communication-channels/email/a-b-testing.md)
   + Mobile {#mobile}
     + SMS{#sms}
       + [Creating a SMS Delivery](/help/acs/communication-channels/mobile/sms/sms-delivery.md)
@@ -91,6 +92,7 @@ getting-started-url: https://docs.adobe.com/content/help/en/campaign-standard/us
   + Data Management Activities {#data-management-activities}
     + [External API Activity (beta)](/help/acs/managing-processes-and-data/data-management-activities/external-api-activity.md)
 + Reporting {#reporting}
+  + [Exploring Reports](/help/acs/getting-started/exploring-reports.md)
   + [Creating a Dynamic Report](/help/acs/reporting/creating-a-dynamic-report.md)
   + [Creating Dynamic Report Using Custom Profile Attributes](/help/acs/reporting/custom-profile-attributes-dynamic-reports.md)
   + [Creating a report based on workflow segments](/help/acs/reporting/report-on-workflow-segments.md)

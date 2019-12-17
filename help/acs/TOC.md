@@ -39,7 +39,7 @@ getting-started-url: https://docs.adobe.com/content/help/en/campaign-standard/us
   + [Managing subscriptions](/help/acs/managing-processes-and-data/services-and-subscriptions.md)
   + Leveraging Adobe Experience Platform Audiences{#aep-audiences}
     + [Overview](/help/acs/profiles-and-audiences/aep-audiences/leveraging-aep-audiences-overview.md)
-    + [Creating a new audience in Adobe Campaign Standard using the Unified Segment Builder](/help/acs/profiles-and-audiences/aep-audiences/creating-audiences-using-the-segment-builder.md)
+    + [Creating a new audience in Adobe Campaign Standard using the Unified Segment Builder](/help/acs/profiles-and-audiences/aep-audiences/creating-audiences-using-segment-builder.md)
     + [Activating AEP audiences in a marketing workflow for a Campaign delivery](/help/acs/profiles-and-audiences/aep-audiences/activating-aep-audiences.md)
     + [Changing the targeting dimension of a delivery for a Platform Audience](/help/acs/profiles-and-audiences/aep-audiences/changing-targeting-dimension.md)
 + Communication channels {#communication-channels}

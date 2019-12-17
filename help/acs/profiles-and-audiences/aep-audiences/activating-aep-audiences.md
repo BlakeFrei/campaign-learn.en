@@ -22,5 +22,5 @@ Documentation
 * [Activating Experience Platform audiences within Campaign - Documentation](https://helpx.adobe.com/campaign/kb/aep-acs-audiences.html)
 
 Video Ressource:
-* [Creating a new audience in Adobe Campaign Standard using the Unified Segment Builder](/help/acs/profiles-and-audiences/aep-audiences/creating-audiences-using-the-segment-builder.md)
+* [Creating a new audience in Adobe Campaign Standard using the Unified Segment Builder](/help/acs/profiles-and-audiences/aep-audiences/creating-audiences-using-segment-builder.md)
 * [Changing the targeting dimension of a delivery for a Platform Audience](/help/acs/profiles-and-audiences/aep-audiences/changing-targeting-dimension.md)

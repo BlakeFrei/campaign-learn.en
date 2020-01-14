@@ -1,7 +1,7 @@
 ---
-title: Leveraging Experience Platform Audiences - Overview
-description: This tutorial explains how to leverage centralized and consolidated profile data from the Adobe Experience Platform (AEP) for marketing campaigns in Adobe Campaign Standard (ACS).
-feature: Audiences
+title: Audience Destinations - Overview
+description: Leverage Adobe Experience Platform (AEP) Audiences in ACS
+feature: Audience Destinations
 topics: Introduction
 kt: 2755
 doc-type: feature video
@@ -9,7 +9,16 @@ activity: using
 team: TM
 ---
 
-# Leveraging Experience Platform Audiences - Overview
+# Audience Destinations - Leverage Adobe Experience Platform (AEP) Audiences in Adobe Campaign Standard (ACS) (BETA)
+
+>[!NOTE]
+>
+>This capability is currently in beta. The following requirements need to be met, to be able to utilize Audience Destinations in Adobe Campaign Standard: 
+>* Adobe Experience Platform need to be provisioned for you organization
+>* The Adobe Campaign Standard instance needs to be provisioned on Azure
+>* To be able to map ACS profiles to AEP, the ACS Data Service mapping needs to be enabled
+>
+>Please contact XXX for more information.
 
 This tutorial explains how to leverage centralized and consolidated profile data from the Adobe Experience Platform for marketing campaigns in Adobe Campaign Standard.
 

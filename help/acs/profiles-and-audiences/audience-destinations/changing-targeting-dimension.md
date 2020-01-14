@@ -23,6 +23,5 @@ Documentation:
 * [How to create a delivery template](https://docs.adobe.com/content/help/en/campaign-standard/using/getting-started/managing-templates/creating-a-new-template.html)
 
 Video Resources:
-* [Creating a new audience in Adobe Campaign Standard using the Unified Segment Builder](/help/acs/profiles-and-audiences/aep-audiences/creating-audiences-using-segment-builder.md)
-* [Activating AEP audiences in a marketing workflow for a Campaign delivery](/help/acs/profiles-and-audiences/aep-audiences/activating-aep-audiences.md)
- 
+* [Creating a new audience in Adobe Campaign Standard using the Unified Segment Builder](/help/acs/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
+* [Activating AEP audiences in a marketing workflow for a Campaign delivery](/help/acs/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)

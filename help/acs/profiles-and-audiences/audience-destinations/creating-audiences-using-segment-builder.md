@@ -28,5 +28,5 @@ Documentation:
 * [Segment Builder user guide](https://www.adobe.io/apis/experienceplatform/home/profile-identity-segmentation/profile-identity-segmentation-services.html#!end-user/markdown/segmentation_overview/segment-builder-guide.md)
 
 Video Resources:
-* [Activating AEP audiences in a marketing workflow for a Campaign delivery](/help/acs/profiles-and-audiences/aep-audiences/activating-aep-audiences.md)
-* [Changing the targeting dimension of a delivery for a Platform Audience](/help/acs/profiles-and-audiences/aep-audiences/changing-targeting-dimension.md)
+* [Activating AEP audiences in a marketing workflow for a Campaign delivery](/help/acs/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
+* [Changing the targeting dimension of a delivery for a Platform Audience](help/acs/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)

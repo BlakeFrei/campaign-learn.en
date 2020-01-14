@@ -1,6 +1,6 @@
 ---
 title: Audience Destinations - Overview
-description: Leverage Adobe Experience Platform (AEP) Audiences in ACS
+description: Leverage Adobe Experience Platform (AEP) Audiences in Adobe Campaign Standard (ACS)
 feature: Audience Destinations
 topics: Introduction
 kt: 2755
@@ -9,16 +9,18 @@ activity: using
 team: TM
 ---
 
-# Audience Destinations - Leverage Adobe Experience Platform (AEP) Audiences in Adobe Campaign Standard (ACS) (BETA)
+# Audience Destinations(BETA)- Overview 
+## Leverage Adobe Experience Platform (AEP) Audiences in Adobe Campaign Standard (ACS) 
 
 >[!NOTE]
 >
->This capability is currently in beta. The following requirements need to be met, to be able to utilize Audience Destinations in Adobe Campaign Standard: 
+>This capability is currently in beta. The following requirements need to be met to be able to utilize Audience Destinations in Adobe Campaign Standard: 
 >* Adobe Experience Platform need to be provisioned for you organization
 >* The Adobe Campaign Standard instance needs to be provisioned on Azure
 >* To be able to map ACS profiles to AEP, the ACS Data Service mapping needs to be enabled
 >
 >Please contact XXX for more information.
+>
 
 This tutorial explains how to leverage centralized and consolidated profile data from the Adobe Experience Platform for marketing campaigns in Adobe Campaign Standard.
 
@@ -26,7 +28,7 @@ The Audiences module within Adobe Campaign Standard  allows you to create segmen
 
 The following video tutorials will guide you through the different steps:
 
-1. [Creating a new audience in Adobe Campaign Standard using the Unified Segment Builder](/help/acs/profiles-and-audiences/aep-audiences/creating-audiences-using-segment-builder.md)
-2. [Activating AEP audiences in a marketing workflow for a Campaign delivery](/help/acs/profiles-and-audiences/aep-audiences/activating-aep-audiences.md)
-3. [Changing the targeting dimension of a delivery for a Platform Audience](/help/acs/profiles-and-audiences/aep-audiences/changing-targeting-dimension.md)
+1. [Creating a new audience in Adobe Campaign Standard using the Unified Segment Builder](/help/acs/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
+2. [Activating AEP audiences in a marketing workflow for a Campaign delivery](/help/acs/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
+3. [Changing the targeting dimension of a delivery for a Platform Audience](help/acs/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
   

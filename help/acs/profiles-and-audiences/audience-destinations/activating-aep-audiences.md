@@ -1,7 +1,7 @@
 ---
 title: Activating Adobe Experience Platform Audiences in a Marketing Workflow for an Adobe Campaign Standard Delivery
 description: This video explains how to activate the Data Services Query Audience within a workflow by using the ‘Read audience’ activity.
-feature: Audiences
+feature: Audiences Destinations
 topics: Workflow
 kt: 2760
 doc-type: feature video
@@ -22,5 +22,6 @@ Documentation
 * [Activating Experience Platform audiences within Campaign - Documentation](https://helpx.adobe.com/campaign/kb/aep-acs-audiences.html)
 
 Video Ressource:
-* [Creating a new audience in Adobe Campaign Standard using the Unified Segment Builder](/help/acs/profiles-and-audiences/aep-audiences/creating-audiences-using-segment-builder.md)
-* [Changing the targeting dimension of a delivery for a Platform Audience](/help/acs/profiles-and-audiences/aep-audiences/changing-targeting-dimension.md)
+* [Creating a new audience in Adobe Campaign Standard using the Unified Segment Builder](/help/acs/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
+* [Changing the targeting dimension of a delivery for a Platform Audience](help/acs/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
+  

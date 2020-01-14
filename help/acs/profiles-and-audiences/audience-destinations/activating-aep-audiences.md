@@ -23,5 +23,5 @@ Documentation
 
 Video Ressource:
 * [Creating a new audience in Adobe Campaign Standard using the Unified Segment Builder](/help/acs/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
-* [Changing the targeting dimension of a delivery for a Platform Audience](help/acs/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
+* [Changing the targeting dimension of a delivery for a Platform Audience](/help/acs/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
   

@@ -38,10 +38,10 @@ getting-started-url: https://docs.adobe.com/content/help/en/campaign-standard/us
   + [Importing profiles with a workflow](/help/acs/managing-processes-and-data/importing-profiles.md)
   + [Managing subscriptions](/help/acs/managing-processes-and-data/services-and-subscriptions.md)
   + Audience Destinations (BETA){#audience-destinations}
-    + [Overview](/help/acs/profiles-and-audience/audience-destinations/audience-destinations-overview.md)
+    + [Overview](/help/acs/profiles-and-audiences/audience-destinations/audience-destinations-overview.md)
     + [Creating a new audience in Adobe Campaign Standard using the Unified Segment Builder](/help/acs/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
     + [Activating AEP audiences in a marketing workflow for a Campaign delivery](/help/acs/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
-    + [Changing the targeting dimension of a delivery for a Platform Audience](help/acs/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
+    + [Changing the targeting dimension of a delivery for a Platform Audience](/help/acs/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
 + Communication channels {#communication-channels}
   + Email {#email}
     + [Create an email](/help/acs/communication-channels/email/create-email-from-homepage.md)

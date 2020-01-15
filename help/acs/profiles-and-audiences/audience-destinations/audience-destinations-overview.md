@@ -9,7 +9,7 @@ activity: using
 team: TM
 ---
 
-# Audience Destinations(BETA)- Overview 
+# Audience Destinations (BETA)- Overview 
 
 ## Leverage Adobe Experience Platform (AEP) Audiences in Adobe Campaign Standard (ACS) 
 

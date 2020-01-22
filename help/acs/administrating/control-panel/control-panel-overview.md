@@ -28,7 +28,7 @@ Before you get started, you need to know your IMS Org ID. The video below descri
 
 ### Administrator Rights
 
-Administrator rights are required to access to the Control Panel 
+Administrator rights are required to access to the Control Panel
 The video below explains how to add an administrator to a Campaign instance
 
 >[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
@@ -36,9 +36,13 @@ The video below explains how to add an administrator to a Campaign instance
 
 ## Control Panel Tutorials
 
-* **[Managing SFTP Servers](/help/acs/administrating/control-panel/managing-sftp-servers.md)**
-    <br>
+* **Managing SFTP Servers**
+  <br>
     *Learn how to monitor the server capacity, whitelist IP addresses, and add SSH keys*
+
+  * [Monitoring server capacity, whitelisting IP addresses, and adding SSH keys](/help/acs/administrating/control-panel/monitoring-server-capacity-whitelisting-adding-ssh-key.md)
+  * [Generate a SSH Key](/help/acs/administrating/control-panel/generate-ssh-key.md)
+  * [Connect to a SFTP Server](/help/acs/administrating/control-panel/connect-to-sftp-server.md)
 
 * **[Managing SSL Certificates](/help/acs/administrating/control-panel/managing-ssl-certificates.md)**
     <br>
@@ -47,7 +51,6 @@ The video below explains how to add an administrator to a Campaign instance
 * **[Trouble Shooting](/help/acs/administrating/control-panel/trouble-shooting.md)**
     <br>
     *Understand how to troubleshoot the Control Panel*
-
 
 ## Additional Resources
 

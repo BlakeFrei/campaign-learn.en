@@ -22,15 +22,13 @@ In this part we will create Android App to receive push notifications sent from 
 
     ![android-project](assets/android-project.PNG)
 5. Provide a meaningful name to the project. For the purpose of this demo we have named our project as "ACSPushTutorial"
- 
+
      ![android-project-configuration](assets/android-project-configuration.PNG)
 6. Accept the default package names and click on Finish to create your project.
 7. Your project structure should look similar to the screen shot below
- 
      ![android-project-structure](assets/android-project-structure.PNG)
 8. Click on Tools ->Firebase(This adds the project to Firebase)
 9. Click on Set up Firebase Cloud Messaging
-    
      ![setup firebase](assets/android-project-firebase-messaging.PNG)
 10. Click on **Connect to Firebase**
 11. After your app is connected to Firebase, click on **Add FCM to your app**
@@ -43,15 +41,15 @@ In this part we will create Android App to receive push notifications sent from 
 ## Configure Push Channel Settings
 
 1. Login to Firebase console
-2. Open the **ACSPushTutorial** project. Click on the gear icon and open the project settings 
+2. Open the **ACSPushTutorial** project. Click on the gear icon and open the project settings
     ![project-settings](assets/firebase-project-settings.PNG)
 
 3. Tab to the **Cloud Messaging** tab. Copy the server key
     ![server-key](assets/firebase-server-key.PNG)
- 4. Login to your Adobe Campaign Standard instance
- 5. Click on Adobe Campaign -> Administration->Channels->Mobile App
- 6. Select the appropriate Mobile Application Property
- 7. Click on the Android icon in the Push Channel settings section
+4. Login to your Adobe Campaign Standard instance
+5. Click on Adobe Campaign -> Administration->Channels->Mobile App
+6. Select the appropriate Mobile Application Property
+7. Click on the Android icon in the Push Channel settings section
 8. Paste the server key in the Server key field. Everything goes well you should see a SUCCESS message.
     ![push-channel-settings](assets/push-channel-settings.PNG)
 

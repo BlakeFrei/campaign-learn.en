@@ -11,6 +11,10 @@ Adobe Campaign provides a platform for designing cross-channel customer experien
 
 ## What's New
 
+* **[Adding SSL Certificates usingControl Panel](/help/acc/monitoring-campaign-classic/control-panel/adding-ssl-certificates.md)**
+    <br>
+    *Learn how you can add a SSL certificates to secure your subdomains using Control Panel.*
+
 * **[Defining Interactive Email Content with AMP](/help/acc/sending-messages/email-channel/defining-interactive-email-content-with-amp.md)**
     <br>
     *Learn how to configure the email content Adobe Campaign Classic(ACC) in AMP format.*

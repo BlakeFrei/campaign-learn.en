@@ -10,9 +10,9 @@ Adobe Campaign provides a platform for designing cross-channel customer experien
 
 ## What's new
 
-* **[Managing SSL Certificate](/help/acs/administrating/control-panel/managing-ssl-certificates.md)**
-   <br>
-    *Learn how to view the status of the SSL certificates of your subdomains and request renewals.*
+* **[Adding SSL Certificates in Control Panel](/help/acs/administrating/control-panel/adding-ssl-certificates.md)**
+    <br>
+    *Learn how you can add a SSL certificates to secure your subdomains.*
     
 * **[External API Activity (beta)](./managing-processes-and-data/data-management-activities/external-api-activity.md)**
     <br>

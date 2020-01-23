@@ -9,23 +9,19 @@ activity: using
 team: TM
 ---
 
-# Audience Destinations (BETA)- Overview 
+# Audience Destinations (BETA)- Overview
 
-## Leverage Adobe Experience Platform (AEP) Audiences in Adobe Campaign Standard (ACS) 
+## Leverage Adobe Experience Platform (AEP) Audiences in Adobe Campaign Standard (ACS)
 
 >[!NOTE]
 >
->This capability is currently in beta. The following requirements need to be met to be able to utilize Audience Destinations in Adobe Campaign Standard: 
->* Adobe Experience Platform need to be provisioned for you organization
->* The Adobe Campaign Standard instance needs to be provisioned on Azure
->* To be able to map ACS profiles to AEP, the ACS Data Service mapping needs to be enabled
->
->Please contact XXX for more information.
+>This capability is currently in beta, and subject to frequent updates and modifications without notice. Audience Destinations is based on Adobe Experience Platform and requires a specific configuration.
+>Please reach out to Adobe Customer Care if you plan to implement this capability.
 >
 
 This tutorial explains how to leverage centralized and consolidated profile data from the Adobe Experience Platform for marketing campaigns in Adobe Campaign Standard.
 
-The Audiences module within Adobe Campaign Standard  allows you to create segments using data from the [Adobe Experience Platform - Data Services](https://www.adobe.io/apis/experienceplatform/home/services.html) that lives in the [Real-Time Customer Profile](https://docs.adobe.com/content/help/en/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html). 
+The Audiences module within Adobe Campaign Standard  allows you to create segments using data from the [Adobe Experience Platform - Data Services](https://www.adobe.io/apis/experienceplatform/home/services.html) that lives in the [Real-Time Customer Profile](https://docs.adobe.com/content/help/en/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html).
 
 The following video tutorials will guide you through the different steps:
 

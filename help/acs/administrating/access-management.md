@@ -22,4 +22,3 @@ This video shows you how to define and manage the permissions assigned to differ
 ## Additional Resources
 
 * [About access management](https://helpx.adobe.com/campaign/standard/administration/using/about-access-management.html)
-

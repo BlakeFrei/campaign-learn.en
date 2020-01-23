@@ -38,6 +38,10 @@ The video below explains how to add an administrator to a Campaign instance
     <br>
     *Learn how to monitor the server capacity, whitelist IP addresses, and add SSH keys*
 
+* **[Adding SSL Certificates](/help/acc/monitoring-campaign-classic/control-panel/adding-ssl-certificates.md)**
+    <br>
+    *Learn how you can add a SSL certificates to secure your subdomains using Control Panel.*
+
 *   **[Managing SSL Certificates](/help/acc/monitoring-campaign-classic/control-panel/managing-ssl-certificates.md)**
     <br>
     *Learn how you can view the status of the SSL certificates of your subdomains, as well as request renewals.*

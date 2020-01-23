@@ -43,7 +43,9 @@ The video below explains how to add an administrator to a Campaign instance
   * [Monitoring server capacity, whitelisting IP addresses, and adding SSH keys](/help/acs/administrating/control-panel/monitoring-server-capacity-whitelisting-adding-ssh-key.md)
   * [Generate a SSH Key](/help/acs/administrating/control-panel/generate-ssh-key.md)
   * [Connect to a SFTP Server](/help/acs/administrating/control-panel/connect-to-sftp-server.md)
-
+* **[Adding SSL Certificates](/help/acs/administrating/control-panel/adding-ssl-certificates.md)**
+    <br>
+    *Learn how you can add a SSL certificates to secure your subdomains.*
 * **[Managing SSL Certificates](/help/acs/administrating/control-panel/managing-ssl-certificates.md)**
     <br>
      *Learn how you can view the status of the SSL certificates of your subdomains, as well as request renewals.*

@@ -17,7 +17,7 @@ Adobe Campaign Control Panel allows you to add SSL certificates to secure your s
 
 The Certificate Signing Request is required for the purchase of a SSL certificate. I needs to be generated for the instance and the subdomains you are planning to secure.
 
- The video below describes how to generate the Certificate Signing Request (CSR) in Control Panel. 
+ The video below describes how to generate the Certificate Signing Request (CSR) in Control Panel.
 
 >[!VIDEO](https://video.tv.adobe.com/v/31317?quality=12)
 *Generate Certificate Signing Requests (02:36 min)*
@@ -28,7 +28,7 @@ After obtaining the CSR, you will need to purchase the SSL certificate from a Ce
 
 ## 3. Install SSL Certificates
 
-Once you have obtained the SSL certificate, they will need to be installed for the subdomains you are planning on securing. 
+Once you have obtained the SSL certificate, they will need to be installed for the subdomains you are planning on securing.
 
 The video below explains how to install SSL certificates in Control Panel.  
 

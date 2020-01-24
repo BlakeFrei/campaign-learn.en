@@ -14,7 +14,7 @@ Adobe Campaign provides a platform for designing cross-channel customer experien
     <br>
     *Learn how you can add a SSL certificates to secure your subdomains.*
     
-* **[External API Activity (beta)](./managing-processes-and-data/data-management-activities/external-api-activity.md)**
+* **[External API Activity (BETA](./managing-processes-and-data/data-management-activities/external-api-activity.md)**
     <br>
     *Learn how to easily bring data into the workflow from an external system via a REST API call.*
 * **[Creating a report based on workflow segments](./reporting/custom-profile-attributes-dynamic-reports.md)**

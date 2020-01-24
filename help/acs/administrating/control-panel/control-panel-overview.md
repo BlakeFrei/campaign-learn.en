@@ -56,7 +56,5 @@ The video below explains how to add an administrator to a Campaign instance
 
 ## Additional Resources
 
-* [Discovering Campaign Control Panel (documentation)](https://helpx.adobe.com/campaign/kb/control-panel-overview.html)
-* [Granting access to Control Panel (documentation)](https://helpx.adobe.com/campaign/kb/control-panel-access.html)
-* [SFTP management (documentation)](https://helpx.adobe.com/campaign/kb/control-panel-sftp.html)
+* [Control Panel Help Center)](https://docs.adobe.com/content/help/en/control-panel/using/control-panel-home.html)
   

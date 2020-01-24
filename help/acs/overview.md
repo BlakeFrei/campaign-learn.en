@@ -10,7 +10,7 @@ Adobe Campaign provides a platform for designing cross-channel customer experien
 
 ## What's new
 
-* **[Adding SSL Certificates in Control Panel](/help/acs/administrating/control-panel/adding-ssl-certificates.md)**
+* **[Adding SSL Certificates in Control Panel (BETA)](/help/acs/administrating/control-panel/adding-ssl-certificates.md)**
     <br>
     *Learn how you can add a SSL certificates to secure your subdomains.*
     

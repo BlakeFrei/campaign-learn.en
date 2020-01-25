@@ -23,11 +23,7 @@ getting-started-url: https://docs.adobe.com/content/help/en/campaign-standard/us
   + [Managing campaigns](/help/acs/getting-started/managing-campaigns.md)
   + [Understanding Profiles and Audiences](/help/acs/getting-started/understanding-profiles-and-audiences.md)
   + [Email Designer - Introduction](/help/acs/getting-started/email-designer-introduction.md)
-  + [Create an email](/help/acs/communication-channels/email/create-email-from-homepage.md)
-  + [Sending a test, preparing and sending an email](/help/acs/communication-channels/email/sending-test-preparing-sending-email.md)
-  + [Reviewing Personalized Email Delivery and Reports](/help/acs/getting-started/reviewing-personalized-email-delivery-and-reports.md)
   + [Create a workflow](/help/acs/managing-processes-and-data/create-workflow.md)
-  + [Access management](/help/acs/administrating/access-management.md)
   + [Reporting - Introduction](/help/acs/getting-started/reporting-with-adobe-campaign-introduction.md)
   + [Mobile Marketing with Adobe Campaign](/help/acs/getting-started/mobile-marketing-with-adobe-campaign.md)
   + [Growing with Adobe Campaign](/help/acs/getting-started/growing-with-adobe-campaign.md)
@@ -44,6 +40,7 @@ getting-started-url: https://docs.adobe.com/content/help/en/campaign-standard/us
     + [Creating Multi-lingual Email and SMS Deliveries](/help/acs/communication-channels/create-multilingual-deliveries.md)
     + [Convert an existing email or SMS delivery to multilingual](/help/acs/communication-channels/covert-into-multilingual-deliveries.md)
     + [A/B Testing](/help/acs/communication-channels/email/a-b-testing.md)
+    + [Reviewing Personalized Email Delivery and Reports](/help/acs/communication-channels/email/reviewing-personalized-email-delivery-and-reports.md)
   + Mobile {#mobile}
     + SMS{#sms}
       + [Creating a SMS Delivery](/help/acs/communication-channels/mobile/sms/sms-delivery.md)

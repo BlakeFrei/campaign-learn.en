@@ -41,8 +41,11 @@ The video below explains how to add an administrator to a Campaign instance
     *Learn how to monitor the server capacity, whitelist IP addresses, and add SSH keys*
 
   * [Monitoring server capacity, whitelisting IP addresses, and adding SSH keys](/help/acs/administrating/control-panel/monitoring-server-capacity-whitelisting-adding-ssh-key.md)
-  * [Generate a SSH Key](/help/acs/administrating/control-panel/generate-ssh-key.md)
-  * [Connect to a SFTP Server](/help/acs/administrating/control-panel/connect-to-sftp-server.md)
+  * [Generating a SSH Key](/help/acs/administrating/control-panel/generate-ssh-key.md)
+  * [Connecting to a SFTP Server](/help/acs/administrating/control-panel/connect-to-sftp-server.md)
+* **[Delegating Subdomains](/help/acs/administrating/control-panel/subdomain-delegation.md)**
+    <br>
+    *Learn how to fully delegate a subdomain to Adobe Campaign* 
 * **[Adding SSL Certificates](/help/acs/administrating/control-panel/adding-ssl-certificates.md)**
     <br>
     *Learn how you can add a SSL certificates to secure your subdomains.*

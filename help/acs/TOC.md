@@ -112,8 +112,9 @@ getting-started-url: https://docs.adobe.com/content/help/en/campaign-standard/us
   + Control Panel {#control-panel}
     + [Control Panel Overview](/help/acs/administrating/control-panel/control-panel-overview.md)
     + [Monitoring server capacity, whitelisting IP addresses, and adding SSH keys](/help/acs/administrating/control-panel/monitoring-server-capacity-whitelisting-adding-ssh-key.md)
-    + [Generate a SSH Key](/help/acs/administrating/control-panel/generate-ssh-key.md)
-    + [Connect to a SFTP Server](/help/acs/administrating/control-panel/connect-to-sftp-server.md)
+    + [Generating a SSH Key](/help/acs/administrating/control-panel/generate-ssh-key.md)
+    + [Connecting to a SFTP Server](/help/acs/administrating/control-panel/connect-to-sftp-server.md)
+    + [Delegating Subdomains](/help/acs/administrating/control-panel/subdomain-delegation.md)
     + [Adding SSL Certificates](/help/acs/administrating/control-panel/adding-ssl-certificates.md)
     + [Managing SSL Certificates](/help/acs/administrating/control-panel/managing-ssl-certificates.md)
     + [Trouble Shooting](/help/acs/administrating/control-panel/trouble-shooting.md)

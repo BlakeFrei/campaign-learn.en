@@ -41,4 +41,5 @@ The video below explains how to install SSL certificates in Control Panel.
 
 ## Additional Resources
 
+* [Delegating Subdomains](/help/acc/monitoring-campaign-classic/control-panel/subdomain-delegation.md)
 * [Documentation - Subdomains and certificates - Documentation](https://docs.adobe.com/content/help/en/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html)

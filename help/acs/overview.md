@@ -4,22 +4,21 @@ description: Adobe Campaign provides a platform for designing cross-channel cust
 products: SG_CAMPAIGN/STANDARD
 ---
 
-# Overview 
+# Overview
 
 Adobe Campaign provides a platform for designing cross-channel customer experiences and provides an environment for visual campaign orchestration, real time interaction management and cross channel execution. This user guide contains videos and tutorials on the many features and capabilities of Adobe Campaign Standard.
 
 ## What's new
 
+* **[Delegating Subdomains (BETA)](/help/acs/administrating/control-panel/subdomain-delegation.md)**
+    <br>
+    *Learn how to fully delegate a subdomain to Adobe Campaign* 
 * **[Adding SSL Certificates in Control Panel (BETA)](/help/acs/administrating/control-panel/adding-ssl-certificates.md)**
     <br>
     *Learn how you can add a SSL certificates to secure your subdomains.*
-    
-* **[External API Activity (BETA](./managing-processes-and-data/data-management-activities/external-api-activity.md)**
+* **[External API Activity (BETA)](./managing-processes-and-data/data-management-activities/external-api-activity.md)**
     <br>
     *Learn how to easily bring data into the workflow from an external system via a REST API call.*
-* **[Creating a report based on workflow segments](./reporting/custom-profile-attributes-dynamic-reports.md)**
-  <br>
-    *Learn how to break down a delivery report into segments defined in a targeting workflow.*
 
 ## Staff Picks
 

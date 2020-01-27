@@ -38,6 +38,10 @@ The video below explains how to add an administrator to a Campaign instance
     <br>
     *Learn how to monitor the server capacity, whitelist IP addresses, and add SSH keys*
 
+* **[Delegating Subdomains](/help/acc/monitoring-campaign-classic/control-panel/subdomain-delegation.md)**
+    <br>
+    *Learn how to fully delegate a subdomain to Adobe Campaign* 
+
 * **[Adding SSL Certificates](/help/acc/monitoring-campaign-classic/control-panel/adding-ssl-certificates.md)**
     <br>
     *Learn how you can add a SSL certificates to secure your subdomains using Control Panel.*
@@ -46,7 +50,7 @@ The video below explains how to add an administrator to a Campaign instance
     <br>
     *Learn how you can view the status of the SSL certificates of your subdomains, as well as request renewals.*
 
-*   **[Add URL Permissions](/help/acc/monitoring-campaign-classic/control-panel/adding-url-permissions.md)**
+*   **[Adding URL Permissions](/help/acc/monitoring-campaign-classic/control-panel/adding-url-permissions.md)**
     <br>
     *how to add some outside URLs to the list of authorized URLs, so that your instance can connect to them.*
 

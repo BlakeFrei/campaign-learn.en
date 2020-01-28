@@ -49,18 +49,19 @@ In this part we will create Android App to receive push notifications sent from 
 ## Configure Push Channel Settings
 
 1. Login to Firebase console
-2. Open the **ACSPushTutorial** project. Click on the gear icon and open the project settings 
+1. Open the **ACSPushTutorial** project. Click on the gear icon and open the project settings 
 
 ![project-settings](assets/firebase-project-settings.PNG)
 
-3. Tab to the **Cloud Messaging** tab. Copy the server key
+1. Tab to the **Cloud Messaging** tab. Copy the server key
 
 ![server-key](assets/firebase-server-key.PNG)
- 4. Login to your Adobe Campaign Standard instance
- 5. Click on Adobe Campaign -> Administration->Channels->Mobile App
- 6. Select the appropriate Mobile Application Property
- 7. Click on the Android icon in the Push Channel settings section
-8. Paste the server key in the Server key field. Everything goes well you should see a SUCCESS message.
+
+1. Login to your Adobe Campaign Standard instance
+1. Click on Adobe Campaign -> Administration->Channels->Mobile App
+1. Select the appropriate Mobile Application Property
+1. Click on the Android icon in the Push Channel settings section
+1. Paste the server key in the Server key field. Everything goes well you should see a SUCCESS message.
 
 ![push-channel-settings](assets/push-channel-settings.PNG)
 

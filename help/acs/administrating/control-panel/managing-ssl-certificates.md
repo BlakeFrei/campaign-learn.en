@@ -1,11 +1,9 @@
 ---
 title: Managing SSL Certificates
-seo-title: Managing SSL Certificates
 description: The Control Panel lets you manage the subdomains that you delegated to Adobe Campaign. You can view your subdomains, as well as request renewal of their certificates.
-seo-description: The Control Panel lets you manage the subdomains that you delegated to Adobe Campaign. You can view your subdomains, as well as request renewal of their certificates.
 feature: SSL Certificates
 topics: Control Panel
-kt: KT-3379
+kt: 3379
 doc-type: feature video
 activity: use
 team: PM

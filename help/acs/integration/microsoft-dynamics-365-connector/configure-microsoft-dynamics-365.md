@@ -1,8 +1,6 @@
 ---
 title: Configure Microsoft Dynamics 365
-seo-title: Configure Microsoft Dynamics 365
 description: An OAuth access token allows Unifi to authenticate with your Microsoft Dynamics instance via web APIs in order to post Campaign Standard experience events to the timeline view of the Microsoft Dynamics interface. The video below explains how to generate the OAuth access token.
-seo-description: An OAuth access token allows Unifi to authenticate with your Microsoft Dynamics instance via web APIs in order to post Campaign Standard experience events to the timeline view of the Microsoft Dynamics interface. The video below explains how to generate the OAuth access token.
 feature: Microsoft Dynamics 365 Connector
 topics: Microsoft Dynamics 365
 kt: 2927

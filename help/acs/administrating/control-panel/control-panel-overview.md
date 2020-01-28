@@ -1,10 +1,6 @@
 ---
 title: Control Panel
-seo-title: Control Panel
 description: The Control Panel allows you to monitor and manage your SFTP storage by instance and whitelist IP addresses.
-seo-description: The Control Panel allows you to monitor and manage your SFTP storage by instance and whitelist IP addresses.
-uuid: e73e2288-85e2-45f4-9f13-2f1e89d30cca
-discoiquuid: 700ba7da-6734-450b-a054-e547454f706
 feature: Control Panel
 topics: Control Panel
 kt: 3263

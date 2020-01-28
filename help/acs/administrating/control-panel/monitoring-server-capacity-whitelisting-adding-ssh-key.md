@@ -34,10 +34,10 @@ To access the Control Panel go to Experience Cloud Home: [https://experienceclou
 >
 >**Warning message:**
 >
->Orange - the server is 80% utilized
+>Orange - server is 80% utilized
 >
->Red - the server is 90% utilized
+>Red - server is 90% utilized
 
 ## Additional Resources
 
-* [Generating a SSL Key](help/acs/administrating/control-panel/generate-ssl-key.md)
+* [Generating a SSH Key](help/acs/administrating/control-panel/generate-ssh-key.md)

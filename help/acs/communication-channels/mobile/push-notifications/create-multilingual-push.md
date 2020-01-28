@@ -5,7 +5,7 @@ uuid: 7e484386-8e3e-42a0-9838-780a962dae14
 discoiquuid: 2f90285c-8bb6-4371-a745-12d3de58bb9a
 feature: Push
 topics: Channels
-kt: KT-1375
+kt: 1375
 doc-type: feature video
 activity: use
 team: TM

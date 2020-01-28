@@ -16,7 +16,10 @@ This tutorial will walk you through the steps involved in sending push notificat
 
 ## Prerequisites
 
-* [You should have launch property configured with Adobe Campaign Standard Extension](https://video.tv.adobe.com/v/26224?quality=12)
+* You should have launch property configured with Adobe Campaign Standard Extension. Please follow the online help listed below.
+  * [Video Tutorial](https://video.tv.adobe.com/v/26224?quality=12)
+  * [Documentation](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/communication-channels/mobile/configure-mobile-apps-using-aep-sdk.html)
+
 * Make sure the corresponding property's status in Adobe Campaign Standard is set to configured.
 * [Have an active Google Firebase account](https://firebase.google.com)
 * [Latest version of Android Studio installed](https://developer.android.com/studio)

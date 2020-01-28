@@ -3,7 +3,7 @@ title: Monitoring server capacity, whitelisting IP addresses, and adding SSH key
 description: The Control Panel allows you to monitor and manage your SFTP storage by instance and whitelist IP addresses.
 feature: SFTP Server Whitelisting
 topics: Control Panel
-kt: KT-3266
+kt: 3266
 doc-type: feature video
 activity: use
 team: PM
@@ -34,13 +34,11 @@ To access the Control Panel go to Experience Cloud Home: [https://experienceclou
 >
 >**Warning message:**
 >
->Orange - the server is 80% utilized
+>Orange - server is 80% utilized
 >
->Red - the server is 90% utilized
-
-You need to be able to generate a SSH key. The video below explains how to generate a SSH key using a terminal.
-
->[!VIDEO](https://video.tv.adobe.com/v/27259?quality=12)
-*How to create a SSH key (2:16 min)*
+>Red - server is 90% utilized
+>
 
 ## Additional Resources
+
+* [Generating a SSH Key](/help/acs/administrating/control-panel/generate-ssh-key.md)

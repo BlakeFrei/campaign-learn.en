@@ -11,10 +11,6 @@ team: PM
 
 # Adding SSL Certificates
 
->[!NOTE]
-> Subdomain delegation from the Control Panel will be available in beta by the end of January, and subject to 
-> frequent updates and modifications without notice.
-
 Adobe Campaign Control Panel allows you to add SSL certificates to secure your subdomains. Adding SSL certificates requires three steps:
 
 ## 1. Generate Certificate Signing Requests

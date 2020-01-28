@@ -37,7 +37,8 @@ To access the Control Panel go to Experience Cloud Home: [https://experienceclou
 >Orange - server is 80% utilized
 >
 >Red - server is 90% utilized
+>
 
 ## Additional Resources
 
-* [Generating a SSH Key](help/acs/administrating/control-panel/generate-ssh-key.md)
+* [Generating a SSH Key](/help/acs/administrating/control-panel/generate-ssh-key.md)

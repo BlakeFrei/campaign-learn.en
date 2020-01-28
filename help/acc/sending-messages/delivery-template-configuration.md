@@ -29,11 +29,11 @@ This video demonstrates how to configure a template for an ad hoc delivery.
 
 This video explains the delivery template properties in detail.
 
->[!VIDEO](https://video.tv.adobe.com/v/24067?quality =12)
+>[!VIDEO](https://video.tv.adobe.com/v/24067?quality=12)
 
 ## Deploying an email delivery template {#deploying-an-email-delivery-template}
 
-This video explains how to delpoy an email delivery template. It explains the difference between an email delivery and a delivery workflow.
+This video explains how to deploy an email delivery template. It explains the difference between an email delivery and a delivery workflow.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24065?qualit=12)
 

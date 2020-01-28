@@ -20,7 +20,6 @@ In this part, we will integrate the Android app with Mobile SDK. To integrate mo
 
 ![main-app](assets/android-main-app.PNG)
 
-
 * Expand the Gradle Scripts folder. Double click the build.gradle of the module. Paste the following dependencies in to the dependencies section of the build.gradle file. Your build.gradle file should now look like below
 
 ```java{.line-numbers}
@@ -75,4 +74,3 @@ Your AndroidManifest.xml should look like this
 
 </manifest>
 ```
-

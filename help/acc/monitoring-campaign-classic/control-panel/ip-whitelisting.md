@@ -5,7 +5,7 @@ description: The video below explains how to set up new connections to your inst
 seo-description: The video below explains how to set up new connections to your instances by whitelisting IP addresses ranges.
 feature: IP Whitelisting
 topics: Control Panel
-kt: KT-3479
+kt: 3479
 doc-type: feature video
 activity: use
 team: PM

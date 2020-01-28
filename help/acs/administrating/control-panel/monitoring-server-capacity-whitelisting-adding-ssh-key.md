@@ -34,9 +34,9 @@ To access the Control Panel go to Experience Cloud Home: [https://experienceclou
 >
 >**Warning message:**
 >
->Orange - the server is 80% utilized
+>Orange: Server is 80% utilized
 >
->Red - the server is 90% utilized
+>Red: Server is 90% utilized
 
 ## Additional Resources
 

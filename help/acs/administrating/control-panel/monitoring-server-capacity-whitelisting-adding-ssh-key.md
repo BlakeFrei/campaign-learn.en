@@ -40,4 +40,4 @@ To access the Control Panel go to Experience Cloud Home: [https://experienceclou
 
 ## Additional Resources
 
-* [Generating a SSL Key](help/acs/administrating/control-panel/generate-ssh-key.md)
+* [Generating a SSH Key](help/acs/administrating/control-panel/generate-ssh-key.md)

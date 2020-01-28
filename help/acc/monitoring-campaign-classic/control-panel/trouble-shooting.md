@@ -5,7 +5,7 @@ description: The Control Panel allows you to monitor and manage your SFTP storag
 seo-description: The Control Panel allows you to monitor and manage your SFTP storage by instance and whitelist IP addresses.
 feature: Control Panel
 topics: Control Panel
-kt: KT-2938
+kt: 2938
 doc-type: article
 activity: use
 team: PM

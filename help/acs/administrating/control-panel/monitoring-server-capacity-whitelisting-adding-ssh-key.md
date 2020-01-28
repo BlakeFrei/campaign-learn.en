@@ -37,10 +37,3 @@ To access the Control Panel go to Experience Cloud Home: [https://experienceclou
 >Orange - the server is 80% utilized
 >
 >Red - the server is 90% utilized
-
-You need to be able to generate a SSH key. The video below explains how to generate a SSH key using a terminal.
-
->[!VIDEO](https://video.tv.adobe.com/v/27259?quality=12)
-*How to create a SSH key (2:16 min)*
-
-## Additional Resources

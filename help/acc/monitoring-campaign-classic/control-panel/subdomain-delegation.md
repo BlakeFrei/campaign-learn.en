@@ -1,5 +1,5 @@
 ---
-title: Subdomain Delegation
+title: Delegating Subdomains
 description: Adobe Campaign Control Panel allows you to fully delegate a subdomain to Adobe Campaign. To do this, follow the steps below.
 feature: Subdomain Delegation
 topics: Control Panel
@@ -9,7 +9,7 @@ activity: use
 team: PM
 ---
 
-# Adding SSL Certificates
+# Delegating Subdomains
 
 >[!NOTE]
 > Subdomain delegation from the Control Panel will be available in beta by the end of January, and subject to

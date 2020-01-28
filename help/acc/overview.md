@@ -11,7 +11,7 @@ Adobe Campaign provides a platform for designing cross-channel customer experien
 
 ## What's New
 
-* **[Delegating Subdomains](/help/acc/monitoring-campaign-classic/control-panel/subdomain-delegation.md)**
+* **[Delegating Subdomains (BETA)](/help/acc/monitoring-campaign-classic/control-panel/subdomain-delegation.md)**
     <br>
     *Learn how to fully delegate a subdomain to Adobe Campaign* 
 * **[Adding SSL Certificates using Control Panel (BETA)](/help/acc/monitoring-campaign-classic/control-panel/adding-ssl-certificates.md)**

@@ -15,7 +15,7 @@ You can create an email from a campaign, from the Adobe Campaign home page, or i
 
 This video explains how to create and send emails via a workflow.
 
->[!VIDEO](hhttps://video.tv.adobe.com/v/31465?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/31465?quality=12)
 
 ## Additional Resources
 

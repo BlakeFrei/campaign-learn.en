@@ -46,6 +46,7 @@ getting-started-url: https://docs.adobe.com/content/help/en/campaign-standard/us
     + [Convert an existing email or SMS delivery to multilingual](/help/acs/communication-channels/covert-into-multilingual-deliveries.md)
     + [A/B Testing](/help/acs/communication-channels/email/a-b-testing.md)
     + [Reviewing Personalized Email Delivery and Reports](/help/acs/communication-channels/email/reviewing-personalized-email-delivery-and-reports.md)
+    + [Create and send emails via a workflow](/help/acs/communication-channels/email/create-and-send-emails-via-workflow.md)
   + Mobile {#mobile}
     + SMS{#sms}
       + [Creating a SMS Delivery](/help/acs/communication-channels/mobile/sms/sms-delivery.md)

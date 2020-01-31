@@ -1,5 +1,5 @@
 ---
-title: Reviewing Personalized Email Delivery and Reports
+title: Reviewing a Personalized Email Delivery and Reports
 description: This video explains how to review a personalized email delivery and explores different reports that are available in Adobe Campaign Standard (ACS).
 feature: Reporting
 topics: Getting Started
@@ -9,7 +9,7 @@ activity: understand
 team: WWFRE
 ---
 
-# Reviewing Personalized Email Delivery and Reports
+# Reviewing a Personalized Email Delivery and Reports
 
 This video explains how to review a personalized email delivery and explores different reports that are available in Adobe Campaign Standard.
 

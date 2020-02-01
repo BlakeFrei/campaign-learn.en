@@ -13,7 +13,7 @@ team: PM
 
 Adobe Campaign Standard allows you to build audiences using data from the Adobe Experience Cloud [Real-Time Customer Profile](https://docs.adobe.com/content/help/en/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html) by using the Adobe experience Platform Unified Segment Builder.
 
-You can access the Unified Segment Builder directly within Adobe Campaign Standard via the Audiences modules. This allows you the manage these audiences directly in the ‘Audiences’ list view, where you can duplicate, delete or edit them directly from the Campaign interface.
+You can access the Unified Segment Builder directly within Adobe Campaign Standard via the Audiences modules. This allows you the manage these audiences directly in the ‘Audiences’ list view, where you can edit or create a new Adobe Experience Platform audience directly from the Campaign interface
 
 The video below explains how a new audience is created using Unified Segment Builder within Adobe Campaign Standard.
 

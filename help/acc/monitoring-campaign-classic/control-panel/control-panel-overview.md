@@ -5,7 +5,7 @@ description: The Control Panel allows you to monitor and manage your SFTP storag
 seo-description: The Control Panel allows you to monitor and manage your SFTP storage by instance and whitelist IP addresses.
 feature: Control Panel
 topics: Control Panel
-kt: KT-3262
+kt: 3262
 doc-type: feature video
 activity: use
 team: PM
@@ -38,11 +38,19 @@ The video below explains how to add an administrator to a Campaign instance
     <br>
     *Learn how to monitor the server capacity, whitelist IP addresses, and add SSH keys*
 
+* **[Delegating Subdomains](/help/acc/monitoring-campaign-classic/control-panel/subdomain-delegation.md)**
+    <br>
+    *Learn how to fully delegate a subdomain to Adobe Campaign* 
+
+* **[Adding SSL Certificates](/help/acc/monitoring-campaign-classic/control-panel/adding-ssl-certificates.md)**
+    <br>
+    *Learn how you can add a SSL certificates to secure your subdomains using Control Panel.*
+
 *   **[Managing SSL Certificates](/help/acc/monitoring-campaign-classic/control-panel/managing-ssl-certificates.md)**
     <br>
     *Learn how you can view the status of the SSL certificates of your subdomains, as well as request renewals.*
 
-*   **[Add URL Permissions](/help/acc/monitoring-campaign-classic/control-panel/adding-url-permissions.md)**
+*   **[Adding URL Permissions](/help/acc/monitoring-campaign-classic/control-panel/adding-url-permissions.md)**
     <br>
     *how to add some outside URLs to the list of authorized URLs, so that your instance can connect to them.*
 
@@ -56,7 +64,4 @@ The video below explains how to add an administrator to a Campaign instance
 
 ## Additional Resources
 
-* [Discovering Campaign Control Panel (documentation)](https://helpx.adobe.com/campaign/kb/control-panel-overview.html)
-* [Granting access to Control Panel (documentation)](https://helpx.adobe.com/campaign/kb/control-panel-access.html)
-* [SFTP management (documentation)](https://helpx.adobe.com/campaign/kb/control-panel-sftp.html)
-  
+* [Control Panel Help Center)](https://docs.adobe.com/content/help/en/control-panel/using/control-panel-home.html)

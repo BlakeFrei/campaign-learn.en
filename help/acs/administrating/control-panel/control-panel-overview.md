@@ -1,13 +1,9 @@
 ---
 title: Control Panel
-seo-title: Control Panel
 description: The Control Panel allows you to monitor and manage your SFTP storage by instance and whitelist IP addresses.
-seo-description: The Control Panel allows you to monitor and manage your SFTP storage by instance and whitelist IP addresses.
-uuid: e73e2288-85e2-45f4-9f13-2f1e89d30cca
-discoiquuid: 700ba7da-6734-450b-a054-e547454f706
 feature: Control Panel
 topics: Control Panel
-kt: KT-3263
+kt: 3263
 doc-type: feature video
 activity: use
 team: PM
@@ -41,9 +37,14 @@ The video below explains how to add an administrator to a Campaign instance
     *Learn how to monitor the server capacity, whitelist IP addresses, and add SSH keys*
 
   * [Monitoring server capacity, whitelisting IP addresses, and adding SSH keys](/help/acs/administrating/control-panel/monitoring-server-capacity-whitelisting-adding-ssh-key.md)
-  * [Generate a SSH Key](/help/acs/administrating/control-panel/generate-ssh-key.md)
-  * [Connect to a SFTP Server](/help/acs/administrating/control-panel/connect-to-sftp-server.md)
-
+  * [Generating a SSH Key](/help/acs/administrating/control-panel/generate-ssh-key.md)
+  * [Connecting to a SFTP Server](/help/acs/administrating/control-panel/connect-to-sftp-server.md)
+* **[Delegating Subdomains](/help/acs/administrating/control-panel/subdomain-delegation.md)**
+    <br>
+    *Learn how to fully delegate a subdomain to Adobe Campaign* 
+* **[Adding SSL Certificates](/help/acs/administrating/control-panel/adding-ssl-certificates.md)**
+    <br>
+    *Learn how you can add a SSL certificates to secure your subdomains.*
 * **[Managing SSL Certificates](/help/acs/administrating/control-panel/managing-ssl-certificates.md)**
     <br>
      *Learn how you can view the status of the SSL certificates of your subdomains, as well as request renewals.*
@@ -54,7 +55,5 @@ The video below explains how to add an administrator to a Campaign instance
 
 ## Additional Resources
 
-* [Discovering Campaign Control Panel (documentation)](https://helpx.adobe.com/campaign/kb/control-panel-overview.html)
-* [Granting access to Control Panel (documentation)](https://helpx.adobe.com/campaign/kb/control-panel-access.html)
-* [SFTP management (documentation)](https://helpx.adobe.com/campaign/kb/control-panel-sftp.html)
+* [Control Panel Help Center)](https://docs.adobe.com/content/help/en/control-panel/using/control-panel-home.html)
   

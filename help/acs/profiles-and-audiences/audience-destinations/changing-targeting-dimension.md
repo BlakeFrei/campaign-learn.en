@@ -20,7 +20,7 @@ This video explains how to change the targeting dimension of a delivery for a Pl
 Documentation:
 * [Platform data mapping](https://helpx.adobe.com/campaign/kb/aep-acs-audiences.html)
 * [How to create a target mapping](https://docs.adobe.com/content/help/en/campaign-standard/using/administrating/application-settings/target-mappings-in-campaign.html)
-* [How to create a delivery template](https://docs.adobe.com/content/help/en/campaign-standard/using/getting-started/managing-templates/creating-a-new-template.html)
+* [How to create a delivery template](https://docs.adobe.com/content/help/en/campaign-standard/using/getting-started/marketing-plans/marketing-activity-templates.html)
 
 Video Resources:
 * [Creating a new audience in Adobe Campaign Standard using the Unified Segment Builder](/help/acs/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)

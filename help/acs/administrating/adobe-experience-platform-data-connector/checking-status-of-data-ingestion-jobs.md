@@ -11,6 +11,11 @@ team: PM
 
 # Checking the status of a data ingestion job 
 
+>[!NOTE]
+>
+>This capability is currently in beta, and subject to frequent updates and modifications without notice. Audience Destinations is based on Adobe Experience Platform and requires a specific configuration.
+>Please reach out to Adobe Customer Care if you plan to implement this capability.
+
 Learn how to check the status of a data ingestion job and if the data has been ingested from Adobe Campaign Standard into Adobe Experience Platform.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27268?quality=12)

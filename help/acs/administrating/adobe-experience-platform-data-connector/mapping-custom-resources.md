@@ -9,7 +9,12 @@ activity: use
 team: TM
 ---
 
-# Mapping Custom Resources 
+# Mapping Custom Resources
+
+>[!NOTE]
+>
+>This capability is currently in beta, and subject to frequent updates and modifications without notice. Audience Destinations is based on Adobe Experience Platform and requires a specific configuration.
+>Please reach out to Adobe Customer Care if you plan to implement this capability.
 
 Learn how to map different data types between Adobe Campaign Standard and Adobe Experience Platform.
 

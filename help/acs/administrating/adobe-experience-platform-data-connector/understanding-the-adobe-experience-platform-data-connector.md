@@ -16,7 +16,7 @@ team: TM
 >This capability is currently in beta, and subject to frequent updates and modifications without notice. Audience Destinations is based on Adobe Experience Platform and requires a specific configuration.
 >Please reach out to Adobe Customer Care if you plan to implement this capability.
 
-## Overiew
+## Overview
 
 Adobe Experience Platform Data Connector helps existing customers to make their data available on Adobe Experience Platform by mapping XTK data (data ingested in Campaign) to Experience Data Model (XDM) data on Adobe Experience Platform.
 

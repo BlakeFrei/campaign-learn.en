@@ -28,4 +28,8 @@ The following video tutorials will guide you through the different steps:
 1. [Creating a new audience in Adobe Campaign Standard using the Unified Segment Builder](/help/acs/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
 2. [Activating AEP audiences in a marketing workflow for a Campaign delivery](/help/acs/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
 3. [Changing the targeting dimension of a delivery for a Platform Audience](/help/acs/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
+
+## Additional Resources
+
+*[Understanding the Adobe Experience Platform Data Connector](/help/acs/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
   

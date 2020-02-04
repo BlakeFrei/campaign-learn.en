@@ -54,6 +54,8 @@ getting-started-url: https://docs.adobe.com/content/help/en/campaign-standard/us
       + [Creating Multi-lingual Email and SMS Deliveries](/help/acs/communication-channels/create-multilingual-deliveries.md)
       + [Convert an existing email or SMS delivery to multilingual](/help/acs/communication-channels/covert-into-multilingual-deliveries.md)
     + Push Notifications {#push}
+      + [Creating a Push Notification](/help/acs/communication-channels/mobile/push-notifications/creating-a-push-notification.md)
+      + [Creating Multi-lingual Push Notifications](/help/acs/communication-channels/mobile/push-notifications/creating-multilingual-push-notifications.md)
       + Getting Started with Push Notifications for Android {#getting-started-push-notifications}
         + [Introduction](/help/acs/communication-channels/mobile/push-notifications/getting-started-push-notification-android/getting-started-with-push-notifications-android.md)
         + [Create Android App](/help/acs/communication-channels/mobile/push-notifications/getting-started-push-notification-android/create-android-app.md)
@@ -61,8 +63,7 @@ getting-started-url: https://docs.adobe.com/content/help/en/campaign-standard/us
         + [Register Mobile Extensions](/help/acs/communication-channels/mobile/push-notifications/getting-started-push-notification-android/register-mobile-extensions.md)
         + [Set Push Identifier](/help/acs/communication-channels/mobile/push-notifications/getting-started-push-notification-android/set-push-identifier.md)
         + [Propagate Notifications](/help/acs/communication-channels/mobile/push-notifications/getting-started-push-notification-android/propagate-notification.md)
-        + [Send Notification](/help/acs/communication-channels/mobile/push-notifications/getting-started-push-notification-android/send-push-notification.md)
-      + [Multi-lingual Push](/help/acs/communication-channels/mobile/push-notifications/create-multilingual-push.md)
+        + [Send Notification](/help/acs/communication-channels/mobile/push-notifications/getting-started-push-notification-android/send-push-notification.md) 
     + In-App Messages {#in-app}
       + [Introduction to In-App Messages](/help/acs/communication-channels/mobile/in-app/in-app-message-overview.md)
       + [Configure Events](/help/acs/communication-channels/mobile/in-app/configure-events.md)

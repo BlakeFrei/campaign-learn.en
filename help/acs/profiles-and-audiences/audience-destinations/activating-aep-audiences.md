@@ -11,6 +11,12 @@ team: PM
 
 # Activating Adobe Experience Platform Audiences in a Marketing Workflow 
 
+>[!NOTE]
+>
+>This capability is currently in beta, and subject to frequent updates and modifications without notice. Audience Destinations is based on Adobe Experience Platform and requires a specific configuration.
+>Please reach out to Adobe Customer Care if you plan to implement this capability.
+
+
 This video explains how to activate the Data Services Query Audience within a workflow by using the ‘Read audience’ activity.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27647?quality=12)

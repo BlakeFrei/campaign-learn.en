@@ -11,6 +11,12 @@ team: TM
 
 # Changing the targeting dimension of a delivery for a Platform Audience
 
+>[!NOTE]
+>
+>This capability is currently in beta, and subject to frequent updates and modifications without notice. Audience Destinations is based on Adobe Experience Platform and requires a specific configuration.
+>Please reach out to Adobe Customer Care if you plan to implement this capability.
+
+
 This video explains how to change the targeting dimension of a delivery for a Platform Audience oustide of the primary profile table in Adobe Campaign Standard.
 
 >[!VIDEO](https://video.tv.adobe.com/v/30151?quality=12)

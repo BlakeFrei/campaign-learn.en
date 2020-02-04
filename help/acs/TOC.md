@@ -124,6 +124,13 @@ getting-started-url: https://docs.adobe.com/content/help/en/campaign-standard/us
     + [Adding SSL Certificates](/help/acs/administrating/control-panel/adding-ssl-certificates.md)
     + [Managing SSL Certificates](/help/acs/administrating/control-panel/managing-ssl-certificates.md)
     + [Trouble Shooting](/help/acs/administrating/control-panel/trouble-shooting.md)
+  + Adobe Experience Platform Data Connector {adobe-experience-platform-data-connector}
+    + [Understanding the Adobe Experience Platform Data Connector](/help/acs/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
+    + [Mapping Custom Resources](/help/acs/administrating/adobe-experience-platform-data-connector/mapping-custom-resources.md)
+    + [Mapping Experience Events](/help/acs/administrating/adobe-experience-platform-data-connector/mapping-experience-events.md)
+    + [Mapping Seed Table Data](/help/acs/administrating/adobe-experience-platform-data-connector/mapping-seed-table-data.md)
+    + [Modifying the Data Mapping](/help/acs/administrating/adobe-experience-platform-data-connector/modifying-data-mapping.md)
+    + [Checking the status of a data ingestion jobs](/help/acs/administrating/adobe-experience-platform-data-connector/checking-status-of-data-ingestion-jobs.md)
   + Typology Rules{#typology-rules}
     + Fatigue Management{#fatigue-management}
       + [Create Fatigue Rules](/help/acs/administrating/typology-rules/fatigue-management/create-fatigue-rules.md)

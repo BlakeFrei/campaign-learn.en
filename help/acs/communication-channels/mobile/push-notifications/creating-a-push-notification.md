@@ -32,4 +32,4 @@ Documentation:
 
 Tutorials:
 
-* [Creating Multilingual Push Notifications](help/acs/communication-channels/mobile/push-notifications/creating-multilingual-push-notifications.md)
+* [Creating Multilingual Push Notifications](/help/acs/communication-channels/mobile/push-notifications/creating-multilingual-push-notifications.md)

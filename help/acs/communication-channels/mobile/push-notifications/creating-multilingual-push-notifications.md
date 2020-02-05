@@ -24,4 +24,4 @@ Documentation:
 
 Tutorials:
 
-* [Creating a Push Notification](help/acs/communication-channels/mobile/push-notifications/creating-a-push-notification.md)
+* [Creating a Push Notification](/help/acs/communication-channels/mobile/push-notifications/creating-a-push-notification.md)

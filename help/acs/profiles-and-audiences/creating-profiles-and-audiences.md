@@ -19,7 +19,7 @@ Profiles which are grouped according to one or multiple common criteria are call
 
 This video explains how to navigate to existing profiles and how to create profiles and audiences in Adobe Campaign Standard (ACS).
 
->[!VIDEO](https://video.tv.adobe.com/v/18463/?quality=12
+>[!VIDEO](https://video.tv.adobe.com/v/18463/?quality=12)
 
 ## Additional Resources
 

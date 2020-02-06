@@ -21,7 +21,7 @@ Currently it is supported by two email providers: Gmail and Outlook.
 
 The video below explains how to activate AMP in Adobe Campaign Classic and showcases the usage.
 
->[!VIDEO](https://video.tv.adobe.com/v/29940?qualit=12)
+>[!VIDEO](https://video.tv.adobe.com/v/29940?quality=12&learn=on)
 
 ## Additional Resources
 

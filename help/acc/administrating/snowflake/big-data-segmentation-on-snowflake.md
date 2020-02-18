@@ -25,7 +25,6 @@ You will learn how to
 
 >[!VIDEO](https://video.tv.adobe.com/v/31588?quality=12&learn=on)
 
-
 ## Additional Resources
 
 * [Specific configurations by database type](https://docs-stg.corp.adobe.com/content/help/en/campaign-classic/using/getting-started/accessing-external-database/specific-configuration-database.html)

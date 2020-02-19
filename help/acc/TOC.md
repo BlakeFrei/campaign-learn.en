@@ -63,4 +63,3 @@ getting-started-url: https://docs.campaign.adobe.com/doc/AC/en/PTF_Starting_with
   + Accessing an external database (FDA) {#fda}
     + [Big data management on Snowflake](/help/acc/administrating/snowflake/big-data-segmentation-on-snowflake.md)
   
-  

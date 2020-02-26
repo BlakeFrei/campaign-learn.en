@@ -17,12 +17,12 @@ The Control Panel allows Adobe Campaign administrators to easily monitor key ass
 
 ## Accessing Control Panel
 
-To access the Control Panel go to Experience Cloud Home: [https://experiencecloud.adobe.com]( https://experiencecloud.adobe.com):
+To access the Control Panel go to Experience Cloud Home [https://experiencecloud.adobe.com]( https://experiencecloud.adobe.com):
 
 * Experience Cloud Home > Quick Access
   
   or
-* Experience Cloud Home > Solution picker: Campaign > Control Panel card
+* [Experience Cloud Home](https://experiencecloud.adobe.com) > Solution picker: Campaign > Control Panel card
   
   or
 

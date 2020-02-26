@@ -11,22 +11,20 @@ team: PM
 
 # Monitoring server capacity, whitelisting IP addresses, and adding SSH keys
 
-To access the Control Panel go to Experience Cloud Home: [https://experiencecloud.adobe.com]( https://experiencecloud.adobe.com):
+## Accessing Control Panel Subdomain Management
 
-* Experience Cloud Home > Quick Access
-  or
-* Experience Cloud Home > Solution picker: Campaign > Control Panel card
-  or
-* Directly from the URL: `To access the Control Panel go to Experience Cloud Home: [https://experiencecloud.adobe.com]( https://experiencecloud.adobe.com):
+To access the Subdomain Management in Control Panel, go to:
 
-* Experience Cloud Home > Quick Access
+* [Experience Cloud Home](https://experience.adobe.com/#/home) > Solution picker: Campaign > **Control Panel** card > **Subdomains & Certificates** card
+  
   or
-* Experience Cloud Home > Solution picker: Campaign > Control Panel card
-  or
-  * Directly from the URL: [https://experience.adobe.com/#/controlpanel(https://experience.adobe.com/#/controlpanel)
+* Directly from the URL: [https://experience.adobe.com/#/controlpanel/domain](https://experience.adobe.com/#/controlpanel/domain)
+
+## How to monitor server capacity, whitelist IP addresses,and add SSH keys
+
+This video explains how to access the Adobe Campaign Control Panel, monitor the storage of SFTP servers, whitelist an IP, as well as add an SSH Key.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27270?quality=12)
-*This video explains how to access the Adobe Campaign Control Panel, monitor the storage of SFTP servers, whitelist an IP, as well as add an SSH Key (04:07 min)*
 
 >[!NOTE]
 >

@@ -53,7 +53,9 @@ getting-started-url: https://docs.campaign.adobe.com/doc/AC/en/PTF_Starting_with
 + Administrating {#administrating}
   + Control Panel {#control-panel-acc}
     + [Control Panel Overview](/help/acc/monitoring-campaign-classic/control-panel/control-panel-overview.md)
-    + [Managing SFTP Servers](/help/acc/monitoring-campaign-classic/control-panel/managing-sftp-servers.md)
+    + [Monitoring server capacity, whitelisting IP addresses, and adding SSH keys](/help/acc/monitoring-campaign-classic/control-panel/monitoring-server-capacity-whitelisting-adding-ssh-key.md)
+    + [Generating a SSH Key](/help/acc/monitoring-campaign-classic/control-panel/generate-ssh-key.md)
+    + [Connecting to a SFTP Server](/help/acc/monitoring-campaign-classic/control-panel/connect-to-sftp-server.md)  
     + [Delegating Subdomains](/help/acc/monitoring-campaign-classic/control-panel/subdomain-delegation.md)
     + [Adding SSL Certificates](/help/acc/monitoring-campaign-classic/control-panel/adding-ssl-certificates.md)
     + [Managing SSL Certificates](/help/acc/monitoring-campaign-classic/control-panel/managing-ssl-certificates.md)

@@ -11,6 +11,17 @@ team: PM
 
 # Managing SSL Certificates
 
+## Accessing Control Panel Subdomain Management
+
+To access the Subdomain Management in Control Panel, go to:
+
+* [Experience Cloud Home](https://experience.adobe.com/#/home) > Solution picker: Campaign > **Control Panel** card > **Subdomains & Certificates** card
+  
+  or
+* Directly from the URL: [https://experience.adobe.com/#/controlpanel/domain](https://experience.adobe.com/#/controlpanel/domain)
+
+## How to manage SSL Certificates
+
 The video below explains how you can view the status of the SSL certificates of your subdomains, as well as request renewals.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28492?quality=12)

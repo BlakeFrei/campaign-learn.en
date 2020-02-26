@@ -13,6 +13,19 @@ team: PM
 
 The Control Panel allows Adobe Campaign administrators to easily monitor key assets as well as perform administrative tasks, like managing the SFTP storage by instance or whitelist IP addresses.
 
+## Accessing Control Panel
+
+To access the Control Panel go to Experience Cloud Home: [https://experiencecloud.adobe.com]( https://experiencecloud.adobe.com):
+
+* Experience Cloud Home > Quick Access
+  
+  or
+* Experience Cloud Home > Solution picker: Campaign > Control Panel card
+  
+  or
+
+* Directly from the URL: [https://experience.adobe.com/#/controlpanel](https://experience.adobe.com/#/controlpanel)
+
 ## Prerequisites
 
 ### Confirm IMS Org ID

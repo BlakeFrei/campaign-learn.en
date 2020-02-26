@@ -45,4 +45,4 @@ This video explains how to access the Adobe Campaign Control Panel, monitor the 
 
 ## Additional Resources
 
-* [Generating a SSH Key](/help/acs/administrating/control-panel/generate-ssh-key.md)
+* [Generating a SSH Key](/help/acc/monitoring-campaign-classic/control-panel/generate-ssh-key.md
